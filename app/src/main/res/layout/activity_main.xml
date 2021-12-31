@@ -4,142 +4,88 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:layout_margin="1dp"
+    android:layout_weight="4"
     android:orientation="vertical"
     tools:context="com.example.lenovo.calculator.MainActivity">
 
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="30dp"
+        android:layout_margin="10dp"
         android:visibility="visible">
 
         <TextView
-            android:id="@+id/index"
-            android:layout_width="50dp"
+            android:id="@+id/myid"
+            android:layout_width="130dp"
             android:layout_height="wrap_content"
-            android:text="INDEX" />
+            android:layout_gravity="center"
+            android:text="ID" />
 
         <EditText
-            android:id="@+id/editText2"
-            android:layout_width="136dp"
+            android:layout_width="150dp"
             android:layout_height="match_parent"
-            android:background="#00bfff"
+            android:background="#00ff00"
             android:ems="10"
             android:inputType="textPersonName" />
-
-        <Button
-            android:id="@+id/button"
-            android:layout_width="0dp"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:background="#00bfff"
-            android:text="OK" />
 
     </LinearLayout>
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="30dp"
+        android:layout_margin="10dp"
         android:orientation="horizontal">
 
         <TextView
-            android:id="@+id/textView4"
-            android:layout_width="50dp"
+            android:layout_width="130dp"
             android:layout_height="wrap_content"
-            android:text="PM1_0" />
+            android:layout_gravity="center"
+            android:text="Temperature" />
 
         <EditText
-            android:id="@+id/editText3"
-            android:layout_width="230dp"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:background="#c0c0c0"
+            android:id="@+id/temp"
+            android:layout_width="150dp"
+            android:layout_height="match_parent"
+            android:background="#00ff00"
             android:ems="10"
             android:inputType="textPersonName" />
 
-        <TextView
-            android:id="@+id/textView5"
-            android:layout_width="50dp"
-            android:layout_height="wrap_content"
-            android:text="CO2" />
-
-        <EditText
-            android:id="@+id/editText4"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:background="#c0c0c0"
-            android:ems="10"
-            android:inputType="textPersonName" />
     </LinearLayout>
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="30dp"
+        android:layout_margin="10dp">
 
         <TextView
-            android:id="@+id/textView6"
-            android:layout_width="50dp"
+            android:layout_width="130dp"
             android:layout_height="wrap_content"
-            android:text="PM2_5" />
+            android:layout_gravity="center"
+            android:text="Light" />
 
         <EditText
-            android:id="@+id/editText5"
-            android:layout_width="230dp"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:background="#c0c0c0"
+            android:id="@+id/light"
+            android:layout_width="150dp"
+            android:layout_height="match_parent"
+            android:background="#00ff00"
             android:ems="10"
             android:inputType="textPersonName" />
 
-        <TextView
-            android:id="@+id/textView7"
-            android:layout_width="50dp"
-            android:layout_height="wrap_content"
-            android:text="CO" />
-
-        <EditText
-            android:id="@+id/editText6"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:background="#c0c0c0"
-            android:ems="10"
-            android:inputType="textPersonName" />
     </LinearLayout>
 
     <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_width="100dp"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:layout_margin="10dp">
 
-        <TextView
-            android:id="@+id/textView8"
-            android:layout_width="50dp"
-            android:layout_height="wrap_content"
-            android:text="PM10" />
-
-        <EditText
-            android:id="@+id/editText7"
-            android:layout_width="136dp"
-            android:layout_height="wrap_content"
-            android:background="#c0c0c0"
-            android:ems="10"
-            android:inputType="textPersonName" />
-
-        <TextView
-            android:id="@+id/textView9"
-            android:layout_width="50dp"
-            android:layout_height="wrap_content"
-            android:text="HCHO" />
-
-        <EditText
-            android:id="@+id/editText8"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:background="#c0c0c0"
-            android:ems="10"
-            android:inputType="textPersonName" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#000000"
+            android:text="SUBMIT"
+            android:textColor="#ffffff" />
     </LinearLayout>
 
 </LinearLayout>

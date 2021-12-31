@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "com.example.lenovo.calculator"
+        applicationId "com.example.calculator"
         minSdkVersion 19
         targetSdkVersion 26
         versionCode 1

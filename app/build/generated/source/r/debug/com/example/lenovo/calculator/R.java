@@ -4006,186 +4006,174 @@ public final class R {
     public static final int blocking=0x7f07002e;
     public static final int bottom=0x7f07002f;
     public static final int bounce=0x7f070030;
-    public static final int button=0x7f070031;
-    public static final int buttonPanel=0x7f070032;
-    public static final int cache_measures=0x7f070033;
-    public static final int center=0x7f070034;
-    public static final int center_horizontal=0x7f070035;
-    public static final int center_vertical=0x7f070036;
-    public static final int chain=0x7f070037;
-    public static final int chains=0x7f070038;
-    public static final int checkbox=0x7f070039;
-    public static final int chronometer=0x7f07003a;
-    public static final int clip_horizontal=0x7f07003b;
-    public static final int clip_vertical=0x7f07003c;
-    public static final int collapseActionView=0x7f07003d;
-    public static final int content=0x7f07003e;
-    public static final int contentPanel=0x7f07003f;
-    public static final int cos=0x7f070040;
-    public static final int custom=0x7f070041;
-    public static final int customPanel=0x7f070042;
-    public static final int decelerate=0x7f070043;
-    public static final int decelerateAndComplete=0x7f070044;
-    public static final int decor_content_parent=0x7f070045;
-    public static final int default_activity_button=0x7f070046;
-    public static final int deltaRelative=0x7f070047;
-    public static final int dependency_ordering=0x7f070048;
-    public static final int dimensions=0x7f070049;
-    public static final int direct=0x7f07004a;
-    public static final int disableHome=0x7f07004b;
-    public static final int disablePostScroll=0x7f07004c;
-    public static final int disableScroll=0x7f07004d;
-    public static final int dragDown=0x7f07004e;
-    public static final int dragEnd=0x7f07004f;
-    public static final int dragLeft=0x7f070050;
-    public static final int dragRight=0x7f070051;
-    public static final int dragStart=0x7f070052;
-    public static final int dragUp=0x7f070053;
-    public static final int easeIn=0x7f070054;
-    public static final int easeInOut=0x7f070055;
-    public static final int easeOut=0x7f070056;
-    public static final int editText2=0x7f070057;
-    public static final int editText3=0x7f070058;
-    public static final int editText4=0x7f070059;
-    public static final int editText5=0x7f07005a;
-    public static final int editText6=0x7f07005b;
-    public static final int editText7=0x7f07005c;
-    public static final int editText8=0x7f07005d;
-    public static final int edit_query=0x7f07005e;
-    public static final int end=0x7f07005f;
-    public static final int expand_activities_button=0x7f070060;
-    public static final int expanded_menu=0x7f070061;
-    public static final int fill=0x7f070062;
-    public static final int fill_horizontal=0x7f070063;
-    public static final int fill_vertical=0x7f070064;
-    public static final int flip=0x7f070065;
-    public static final int forever=0x7f070066;
-    public static final int gone=0x7f070067;
-    public static final int graph=0x7f070068;
-    public static final int graph_wrap=0x7f070069;
-    public static final int group_divider=0x7f07006a;
-    public static final int grouping=0x7f07006b;
-    public static final int groups=0x7f07006c;
-    public static final int home=0x7f07006d;
-    public static final int homeAsUp=0x7f07006e;
-    public static final int honorRequest=0x7f07006f;
-    public static final int icon=0x7f070070;
-    public static final int icon_group=0x7f070071;
-    public static final int ifRoom=0x7f070072;
-    public static final int ignore=0x7f070073;
-    public static final int ignoreRequest=0x7f070074;
-    public static final int image=0x7f070075;
-    public static final int index=0x7f070076;
-    public static final int info=0x7f070077;
-    public static final int invisible=0x7f070078;
-    public static final int italic=0x7f070079;
-    public static final int jumpToEnd=0x7f07007a;
-    public static final int jumpToStart=0x7f07007b;
-    public static final int layout=0x7f07007c;
-    public static final int left=0x7f07007d;
-    public static final int line1=0x7f07007e;
-    public static final int line3=0x7f07007f;
-    public static final int linear=0x7f070080;
-    public static final int listMode=0x7f070081;
-    public static final int list_item=0x7f070082;
-    public static final int message=0x7f070083;
-    public static final int middle=0x7f070084;
-    public static final int motion_base=0x7f070085;
-    public static final int multiply=0x7f070086;
-    public static final int never=0x7f070087;
-    public static final int none=0x7f070088;
-    public static final int normal=0x7f070089;
-    public static final int notification_background=0x7f07008a;
-    public static final int notification_main_column=0x7f07008b;
-    public static final int notification_main_column_container=0x7f07008c;
-    public static final int packed=0x7f07008d;
-    public static final int parent=0x7f07008e;
-    public static final int parentPanel=0x7f07008f;
-    public static final int parentRelative=0x7f070090;
-    public static final int path=0x7f070091;
-    public static final int pathRelative=0x7f070092;
-    public static final int percent=0x7f070093;
-    public static final int position=0x7f070094;
-    public static final int postLayout=0x7f070095;
-    public static final int progress_circular=0x7f070096;
-    public static final int progress_horizontal=0x7f070097;
-    public static final int radio=0x7f070098;
-    public static final int ratio=0x7f070099;
-    public static final int rectangles=0x7f07009a;
-    public static final int reverseSawtooth=0x7f07009b;
-    public static final int right=0x7f07009c;
-    public static final int right_icon=0x7f07009d;
-    public static final int right_side=0x7f07009e;
-    public static final int sawtooth=0x7f07009f;
-    public static final int screen=0x7f0700a0;
-    public static final int scrollIndicatorDown=0x7f0700a1;
-    public static final int scrollIndicatorUp=0x7f0700a2;
-    public static final int scrollView=0x7f0700a3;
-    public static final int search_badge=0x7f0700a4;
-    public static final int search_bar=0x7f0700a5;
-    public static final int search_button=0x7f0700a6;
-    public static final int search_close_btn=0x7f0700a7;
-    public static final int search_edit_frame=0x7f0700a8;
-    public static final int search_go_btn=0x7f0700a9;
-    public static final int search_mag_icon=0x7f0700aa;
-    public static final int search_plate=0x7f0700ab;
-    public static final int search_src_text=0x7f0700ac;
-    public static final int search_voice_btn=0x7f0700ad;
-    public static final int select_dialog_listview=0x7f0700ae;
-    public static final int shortcut=0x7f0700af;
-    public static final int showCustom=0x7f0700b0;
-    public static final int showHome=0x7f0700b1;
-    public static final int showTitle=0x7f0700b2;
-    public static final int sin=0x7f0700b3;
-    public static final int spacer=0x7f0700b4;
-    public static final int spline=0x7f0700b5;
-    public static final int split_action_bar=0x7f0700b6;
-    public static final int spread=0x7f0700b7;
-    public static final int spread_inside=0x7f0700b8;
-    public static final int square=0x7f0700b9;
-    public static final int src_atop=0x7f0700ba;
-    public static final int src_in=0x7f0700bb;
-    public static final int src_over=0x7f0700bc;
-    public static final int standard=0x7f0700bd;
-    public static final int start=0x7f0700be;
-    public static final int startHorizontal=0x7f0700bf;
-    public static final int startVertical=0x7f0700c0;
-    public static final int staticLayout=0x7f0700c1;
-    public static final int staticPostLayout=0x7f0700c2;
-    public static final int stop=0x7f0700c3;
-    public static final int submenuarrow=0x7f0700c4;
-    public static final int submit_area=0x7f0700c5;
-    public static final int tabMode=0x7f0700c6;
-    public static final int tag_transition_group=0x7f0700c7;
-    public static final int tag_unhandled_key_event_manager=0x7f0700c8;
-    public static final int tag_unhandled_key_listeners=0x7f0700c9;
-    public static final int text=0x7f0700ca;
-    public static final int text2=0x7f0700cb;
-    public static final int textSpacerNoButtons=0x7f0700cc;
-    public static final int textSpacerNoTitle=0x7f0700cd;
-    public static final int textView4=0x7f0700ce;
-    public static final int textView5=0x7f0700cf;
-    public static final int textView6=0x7f0700d0;
-    public static final int textView7=0x7f0700d1;
-    public static final int textView8=0x7f0700d2;
-    public static final int textView9=0x7f0700d3;
-    public static final int time=0x7f0700d4;
-    public static final int title=0x7f0700d5;
-    public static final int titleDividerNoCustom=0x7f0700d6;
-    public static final int title_template=0x7f0700d7;
-    public static final int toggle=0x7f0700d8;
-    public static final int top=0x7f0700d9;
-    public static final int topPanel=0x7f0700da;
-    public static final int transitionToEnd=0x7f0700db;
-    public static final int transitionToStart=0x7f0700dc;
-    public static final int triangle=0x7f0700dd;
-    public static final int uniform=0x7f0700de;
-    public static final int up=0x7f0700df;
-    public static final int useLogo=0x7f0700e0;
-    public static final int visible=0x7f0700e1;
-    public static final int withText=0x7f0700e2;
-    public static final int wrap=0x7f0700e3;
-    public static final int wrap_content=0x7f0700e4;
+    public static final int buttonPanel=0x7f070031;
+    public static final int cache_measures=0x7f070032;
+    public static final int center=0x7f070033;
+    public static final int center_horizontal=0x7f070034;
+    public static final int center_vertical=0x7f070035;
+    public static final int chain=0x7f070036;
+    public static final int chains=0x7f070037;
+    public static final int checkbox=0x7f070038;
+    public static final int chronometer=0x7f070039;
+    public static final int clip_horizontal=0x7f07003a;
+    public static final int clip_vertical=0x7f07003b;
+    public static final int collapseActionView=0x7f07003c;
+    public static final int content=0x7f07003d;
+    public static final int contentPanel=0x7f07003e;
+    public static final int cos=0x7f07003f;
+    public static final int custom=0x7f070040;
+    public static final int customPanel=0x7f070041;
+    public static final int decelerate=0x7f070042;
+    public static final int decelerateAndComplete=0x7f070043;
+    public static final int decor_content_parent=0x7f070044;
+    public static final int default_activity_button=0x7f070045;
+    public static final int deltaRelative=0x7f070046;
+    public static final int dependency_ordering=0x7f070047;
+    public static final int dimensions=0x7f070048;
+    public static final int direct=0x7f070049;
+    public static final int disableHome=0x7f07004a;
+    public static final int disablePostScroll=0x7f07004b;
+    public static final int disableScroll=0x7f07004c;
+    public static final int dragDown=0x7f07004d;
+    public static final int dragEnd=0x7f07004e;
+    public static final int dragLeft=0x7f07004f;
+    public static final int dragRight=0x7f070050;
+    public static final int dragStart=0x7f070051;
+    public static final int dragUp=0x7f070052;
+    public static final int easeIn=0x7f070053;
+    public static final int easeInOut=0x7f070054;
+    public static final int easeOut=0x7f070055;
+    public static final int edit_query=0x7f070056;
+    public static final int end=0x7f070057;
+    public static final int expand_activities_button=0x7f070058;
+    public static final int expanded_menu=0x7f070059;
+    public static final int fill=0x7f07005a;
+    public static final int fill_horizontal=0x7f07005b;
+    public static final int fill_vertical=0x7f07005c;
+    public static final int flip=0x7f07005d;
+    public static final int forever=0x7f07005e;
+    public static final int gone=0x7f07005f;
+    public static final int graph=0x7f070060;
+    public static final int graph_wrap=0x7f070061;
+    public static final int group_divider=0x7f070062;
+    public static final int grouping=0x7f070063;
+    public static final int groups=0x7f070064;
+    public static final int home=0x7f070065;
+    public static final int homeAsUp=0x7f070066;
+    public static final int honorRequest=0x7f070067;
+    public static final int icon=0x7f070068;
+    public static final int icon_group=0x7f070069;
+    public static final int ifRoom=0x7f07006a;
+    public static final int ignore=0x7f07006b;
+    public static final int ignoreRequest=0x7f07006c;
+    public static final int image=0x7f07006d;
+    public static final int info=0x7f07006e;
+    public static final int invisible=0x7f07006f;
+    public static final int italic=0x7f070070;
+    public static final int jumpToEnd=0x7f070071;
+    public static final int jumpToStart=0x7f070072;
+    public static final int layout=0x7f070073;
+    public static final int left=0x7f070074;
+    public static final int light=0x7f070075;
+    public static final int line1=0x7f070076;
+    public static final int line3=0x7f070077;
+    public static final int linear=0x7f070078;
+    public static final int listMode=0x7f070079;
+    public static final int list_item=0x7f07007a;
+    public static final int message=0x7f07007b;
+    public static final int middle=0x7f07007c;
+    public static final int motion_base=0x7f07007d;
+    public static final int multiply=0x7f07007e;
+    public static final int myid=0x7f07007f;
+    public static final int never=0x7f070080;
+    public static final int none=0x7f070081;
+    public static final int normal=0x7f070082;
+    public static final int notification_background=0x7f070083;
+    public static final int notification_main_column=0x7f070084;
+    public static final int notification_main_column_container=0x7f070085;
+    public static final int packed=0x7f070086;
+    public static final int parent=0x7f070087;
+    public static final int parentPanel=0x7f070088;
+    public static final int parentRelative=0x7f070089;
+    public static final int path=0x7f07008a;
+    public static final int pathRelative=0x7f07008b;
+    public static final int percent=0x7f07008c;
+    public static final int position=0x7f07008d;
+    public static final int postLayout=0x7f07008e;
+    public static final int progress_circular=0x7f07008f;
+    public static final int progress_horizontal=0x7f070090;
+    public static final int radio=0x7f070091;
+    public static final int ratio=0x7f070092;
+    public static final int rectangles=0x7f070093;
+    public static final int reverseSawtooth=0x7f070094;
+    public static final int right=0x7f070095;
+    public static final int right_icon=0x7f070096;
+    public static final int right_side=0x7f070097;
+    public static final int sawtooth=0x7f070098;
+    public static final int screen=0x7f070099;
+    public static final int scrollIndicatorDown=0x7f07009a;
+    public static final int scrollIndicatorUp=0x7f07009b;
+    public static final int scrollView=0x7f07009c;
+    public static final int search_badge=0x7f07009d;
+    public static final int search_bar=0x7f07009e;
+    public static final int search_button=0x7f07009f;
+    public static final int search_close_btn=0x7f0700a0;
+    public static final int search_edit_frame=0x7f0700a1;
+    public static final int search_go_btn=0x7f0700a2;
+    public static final int search_mag_icon=0x7f0700a3;
+    public static final int search_plate=0x7f0700a4;
+    public static final int search_src_text=0x7f0700a5;
+    public static final int search_voice_btn=0x7f0700a6;
+    public static final int select_dialog_listview=0x7f0700a7;
+    public static final int shortcut=0x7f0700a8;
+    public static final int showCustom=0x7f0700a9;
+    public static final int showHome=0x7f0700aa;
+    public static final int showTitle=0x7f0700ab;
+    public static final int sin=0x7f0700ac;
+    public static final int spacer=0x7f0700ad;
+    public static final int spline=0x7f0700ae;
+    public static final int split_action_bar=0x7f0700af;
+    public static final int spread=0x7f0700b0;
+    public static final int spread_inside=0x7f0700b1;
+    public static final int square=0x7f0700b2;
+    public static final int src_atop=0x7f0700b3;
+    public static final int src_in=0x7f0700b4;
+    public static final int src_over=0x7f0700b5;
+    public static final int standard=0x7f0700b6;
+    public static final int start=0x7f0700b7;
+    public static final int startHorizontal=0x7f0700b8;
+    public static final int startVertical=0x7f0700b9;
+    public static final int staticLayout=0x7f0700ba;
+    public static final int staticPostLayout=0x7f0700bb;
+    public static final int stop=0x7f0700bc;
+    public static final int submenuarrow=0x7f0700bd;
+    public static final int submit_area=0x7f0700be;
+    public static final int tabMode=0x7f0700bf;
+    public static final int tag_transition_group=0x7f0700c0;
+    public static final int tag_unhandled_key_event_manager=0x7f0700c1;
+    public static final int tag_unhandled_key_listeners=0x7f0700c2;
+    public static final int temp=0x7f0700c3;
+    public static final int text=0x7f0700c4;
+    public static final int text2=0x7f0700c5;
+    public static final int textSpacerNoButtons=0x7f0700c6;
+    public static final int textSpacerNoTitle=0x7f0700c7;
+    public static final int time=0x7f0700c8;
+    public static final int title=0x7f0700c9;
+    public static final int titleDividerNoCustom=0x7f0700ca;
+    public static final int title_template=0x7f0700cb;
+    public static final int toggle=0x7f0700cc;
+    public static final int top=0x7f0700cd;
+    public static final int topPanel=0x7f0700ce;
+    public static final int transitionToEnd=0x7f0700cf;
+    public static final int transitionToStart=0x7f0700d0;
+    public static final int triangle=0x7f0700d1;
+    public static final int uniform=0x7f0700d2;
+    public static final int up=0x7f0700d3;
+    public static final int useLogo=0x7f0700d4;
+    public static final int visible=0x7f0700d5;
+    public static final int withText=0x7f0700d6;
+    public static final int wrap=0x7f0700d7;
+    public static final int wrap_content=0x7f0700d8;
   }
   public static final class integer {
     public static final int abc_config_activityDefaultDur=0x7f080000;
@@ -4659,35 +4647,35 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionBar_background com.example.lenovo.calculator:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundSplit com.example.lenovo.calculator:backgroundSplit}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundStacked com.example.lenovo.calculator:backgroundStacked}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEnd com.example.lenovo.calculator:contentInsetEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.example.lenovo.calculator:contentInsetEndWithActions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetLeft com.example.lenovo.calculator:contentInsetLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetRight com.example.lenovo.calculator:contentInsetRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStart com.example.lenovo.calculator:contentInsetStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.example.lenovo.calculator:contentInsetStartWithNavigation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_customNavigationLayout com.example.lenovo.calculator:customNavigationLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_displayOptions com.example.lenovo.calculator:displayOptions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_divider com.example.lenovo.calculator:divider}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_elevation com.example.lenovo.calculator:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_height com.example.lenovo.calculator:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_hideOnContentScroll com.example.lenovo.calculator:hideOnContentScroll}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.example.lenovo.calculator:homeAsUpIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_homeLayout com.example.lenovo.calculator:homeLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_icon com.example.lenovo.calculator:icon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.example.lenovo.calculator:indeterminateProgressStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_itemPadding com.example.lenovo.calculator:itemPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_logo com.example.lenovo.calculator:logo}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_navigationMode com.example.lenovo.calculator:navigationMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_popupTheme com.example.lenovo.calculator:popupTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarPadding com.example.lenovo.calculator:progressBarPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarStyle com.example.lenovo.calculator:progressBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitle com.example.lenovo.calculator:subtitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitleTextStyle com.example.lenovo.calculator:subtitleTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_title com.example.lenovo.calculator:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_titleTextStyle com.example.lenovo.calculator:titleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_background com.example.calculator:background}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundSplit com.example.calculator:backgroundSplit}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundStacked com.example.calculator:backgroundStacked}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEnd com.example.calculator:contentInsetEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.example.calculator:contentInsetEndWithActions}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetLeft com.example.calculator:contentInsetLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetRight com.example.calculator:contentInsetRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStart com.example.calculator:contentInsetStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.example.calculator:contentInsetStartWithNavigation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_customNavigationLayout com.example.calculator:customNavigationLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_displayOptions com.example.calculator:displayOptions}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_divider com.example.calculator:divider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_elevation com.example.calculator:elevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_height com.example.calculator:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_hideOnContentScroll com.example.calculator:hideOnContentScroll}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.example.calculator:homeAsUpIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_homeLayout com.example.calculator:homeLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_icon com.example.calculator:icon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.example.calculator:indeterminateProgressStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_itemPadding com.example.calculator:itemPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_logo com.example.calculator:logo}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_navigationMode com.example.calculator:navigationMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_popupTheme com.example.calculator:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarPadding com.example.calculator:progressBarPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarStyle com.example.calculator:progressBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitle com.example.calculator:subtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitleTextStyle com.example.calculator:subtitleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_title com.example.calculator:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_titleTextStyle com.example.calculator:titleTextStyle}</code></td><td></td></tr>
      * </table>
      * @see #ActionBar_background
      * @see #ActionBar_backgroundSplit
@@ -4773,7 +4761,7 @@ public final class R {
      */
     public static final int ActionBarLayout_android_layout_gravity=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#background}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#background}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4781,11 +4769,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:background
+     * @attr name com.example.calculator:background
      */
     public static final int ActionBar_background=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#backgroundSplit}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#backgroundSplit}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4796,11 +4784,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:backgroundSplit
+     * @attr name com.example.calculator:backgroundSplit
      */
     public static final int ActionBar_backgroundSplit=1;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#backgroundStacked}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#backgroundStacked}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4811,11 +4799,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:backgroundStacked
+     * @attr name com.example.calculator:backgroundStacked
      */
     public static final int ActionBar_backgroundStacked=2;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#contentInsetEnd}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#contentInsetEnd}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4824,11 +4812,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:contentInsetEnd
+     * @attr name com.example.calculator:contentInsetEnd
      */
     public static final int ActionBar_contentInsetEnd=3;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#contentInsetEndWithActions}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#contentInsetEndWithActions}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4837,11 +4825,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:contentInsetEndWithActions
+     * @attr name com.example.calculator:contentInsetEndWithActions
      */
     public static final int ActionBar_contentInsetEndWithActions=4;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#contentInsetLeft}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#contentInsetLeft}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4850,11 +4838,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:contentInsetLeft
+     * @attr name com.example.calculator:contentInsetLeft
      */
     public static final int ActionBar_contentInsetLeft=5;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#contentInsetRight}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#contentInsetRight}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4863,11 +4851,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:contentInsetRight
+     * @attr name com.example.calculator:contentInsetRight
      */
     public static final int ActionBar_contentInsetRight=6;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#contentInsetStart}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#contentInsetStart}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4876,11 +4864,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:contentInsetStart
+     * @attr name com.example.calculator:contentInsetStart
      */
     public static final int ActionBar_contentInsetStart=7;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#contentInsetStartWithNavigation}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#contentInsetStartWithNavigation}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4889,11 +4877,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:contentInsetStartWithNavigation
+     * @attr name com.example.calculator:contentInsetStartWithNavigation
      */
     public static final int ActionBar_contentInsetStartWithNavigation=8;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#customNavigationLayout}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#customNavigationLayout}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4901,11 +4889,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:customNavigationLayout
+     * @attr name com.example.calculator:customNavigationLayout
      */
     public static final int ActionBar_customNavigationLayout=9;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#displayOptions}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#displayOptions}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -4923,11 +4911,11 @@ public final class R {
      * <tr><td>useLogo</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:displayOptions
+     * @attr name com.example.calculator:displayOptions
      */
     public static final int ActionBar_displayOptions=10;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#divider}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#divider}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4935,11 +4923,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:divider
+     * @attr name com.example.calculator:divider
      */
     public static final int ActionBar_divider=11;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#elevation}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#elevation}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4948,11 +4936,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:elevation
+     * @attr name com.example.calculator:elevation
      */
     public static final int ActionBar_elevation=12;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#height}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#height}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4961,21 +4949,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:height
+     * @attr name com.example.calculator:height
      */
     public static final int ActionBar_height=13;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#hideOnContentScroll}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#hideOnContentScroll}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.lenovo.calculator:hideOnContentScroll
+     * @attr name com.example.calculator:hideOnContentScroll
      */
     public static final int ActionBar_hideOnContentScroll=14;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#homeAsUpIndicator}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#homeAsUpIndicator}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4983,11 +4971,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:homeAsUpIndicator
+     * @attr name com.example.calculator:homeAsUpIndicator
      */
     public static final int ActionBar_homeAsUpIndicator=15;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#homeLayout}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#homeLayout}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4995,11 +4983,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:homeLayout
+     * @attr name com.example.calculator:homeLayout
      */
     public static final int ActionBar_homeLayout=16;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#icon}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#icon}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5007,11 +4995,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:icon
+     * @attr name com.example.calculator:icon
      */
     public static final int ActionBar_icon=17;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#indeterminateProgressStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#indeterminateProgressStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5019,11 +5007,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:indeterminateProgressStyle
+     * @attr name com.example.calculator:indeterminateProgressStyle
      */
     public static final int ActionBar_indeterminateProgressStyle=18;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#itemPadding}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#itemPadding}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5032,11 +5020,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:itemPadding
+     * @attr name com.example.calculator:itemPadding
      */
     public static final int ActionBar_itemPadding=19;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#logo}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#logo}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5044,11 +5032,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:logo
+     * @attr name com.example.calculator:logo
      */
     public static final int ActionBar_logo=20;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#navigationMode}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#navigationMode}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -5062,11 +5050,11 @@ public final class R {
      * <tr><td>tabMode</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:navigationMode
+     * @attr name com.example.calculator:navigationMode
      */
     public static final int ActionBar_navigationMode=21;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#popupTheme}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5074,11 +5062,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:popupTheme
+     * @attr name com.example.calculator:popupTheme
      */
     public static final int ActionBar_popupTheme=22;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#progressBarPadding}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#progressBarPadding}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5087,11 +5075,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:progressBarPadding
+     * @attr name com.example.calculator:progressBarPadding
      */
     public static final int ActionBar_progressBarPadding=23;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#progressBarStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#progressBarStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5099,21 +5087,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:progressBarStyle
+     * @attr name com.example.calculator:progressBarStyle
      */
     public static final int ActionBar_progressBarStyle=24;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#subtitle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#subtitle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.example.lenovo.calculator:subtitle
+     * @attr name com.example.calculator:subtitle
      */
     public static final int ActionBar_subtitle=25;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#subtitleTextStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#subtitleTextStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5121,21 +5109,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:subtitleTextStyle
+     * @attr name com.example.calculator:subtitleTextStyle
      */
     public static final int ActionBar_subtitleTextStyle=26;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#title}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#title}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.example.lenovo.calculator:title
+     * @attr name com.example.calculator:title
      */
     public static final int ActionBar_title=27;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#titleTextStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#titleTextStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5143,7 +5131,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:titleTextStyle
+     * @attr name com.example.calculator:titleTextStyle
      */
     public static final int ActionBar_titleTextStyle=28;
     /**
@@ -5182,12 +5170,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionMode_background com.example.lenovo.calculator:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_backgroundSplit com.example.lenovo.calculator:backgroundSplit}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_closeItemLayout com.example.lenovo.calculator:closeItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_height com.example.lenovo.calculator:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_subtitleTextStyle com.example.lenovo.calculator:subtitleTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_titleTextStyle com.example.lenovo.calculator:titleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_background com.example.calculator:background}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_backgroundSplit com.example.calculator:backgroundSplit}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_closeItemLayout com.example.calculator:closeItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_height com.example.calculator:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_subtitleTextStyle com.example.calculator:subtitleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_titleTextStyle com.example.calculator:titleTextStyle}</code></td><td></td></tr>
      * </table>
      * @see #ActionMode_background
      * @see #ActionMode_backgroundSplit
@@ -5201,7 +5189,7 @@ public final class R {
         0x7f02017b, 0x7f0201a3
       };
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#background}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#background}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5209,11 +5197,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:background
+     * @attr name com.example.calculator:background
      */
     public static final int ActionMode_background=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#backgroundSplit}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#backgroundSplit}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5224,11 +5212,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:backgroundSplit
+     * @attr name com.example.calculator:backgroundSplit
      */
     public static final int ActionMode_backgroundSplit=1;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#closeItemLayout}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#closeItemLayout}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5236,11 +5224,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:closeItemLayout
+     * @attr name com.example.calculator:closeItemLayout
      */
     public static final int ActionMode_closeItemLayout=2;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#height}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#height}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5249,11 +5237,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:height
+     * @attr name com.example.calculator:height
      */
     public static final int ActionMode_height=3;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#subtitleTextStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#subtitleTextStyle}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5261,11 +5249,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:subtitleTextStyle
+     * @attr name com.example.calculator:subtitleTextStyle
      */
     public static final int ActionMode_subtitleTextStyle=4;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#titleTextStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#titleTextStyle}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5273,7 +5261,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:titleTextStyle
+     * @attr name com.example.calculator:titleTextStyle
      */
     public static final int ActionMode_titleTextStyle=5;
     /**
@@ -5283,8 +5271,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.example.lenovo.calculator:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.example.lenovo.calculator:initialActivityCount}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.example.calculator:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.example.calculator:initialActivityCount}</code></td><td></td></tr>
      * </table>
      * @see #ActivityChooserView_expandActivityOverflowButtonDrawable
      * @see #ActivityChooserView_initialActivityCount
@@ -5293,7 +5281,7 @@ public final class R {
         0x7f02009b, 0x7f0200c8
       };
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#expandActivityOverflowButtonDrawable}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#expandActivityOverflowButtonDrawable}
      * attribute's value can be found in the {@link #ActivityChooserView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5301,17 +5289,17 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:expandActivityOverflowButtonDrawable
+     * @attr name com.example.calculator:expandActivityOverflowButtonDrawable
      */
     public static final int ActivityChooserView_expandActivityOverflowButtonDrawable=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#initialActivityCount}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#initialActivityCount}
      * attribute's value can be found in the {@link #ActivityChooserView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.example.lenovo.calculator:initialActivityCount
+     * @attr name com.example.calculator:initialActivityCount
      */
     public static final int ActivityChooserView_initialActivityCount=1;
     /**
@@ -5322,13 +5310,13 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_buttonIconDimen com.example.lenovo.calculator:buttonIconDimen}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.example.lenovo.calculator:buttonPanelSideLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listItemLayout com.example.lenovo.calculator:listItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listLayout com.example.lenovo.calculator:listLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.example.lenovo.calculator:multiChoiceItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_showTitle com.example.lenovo.calculator:showTitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.example.lenovo.calculator:singleChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_buttonIconDimen com.example.calculator:buttonIconDimen}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.example.calculator:buttonPanelSideLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listItemLayout com.example.calculator:listItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listLayout com.example.calculator:listLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.example.calculator:multiChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_showTitle com.example.calculator:showTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.example.calculator:singleChoiceItemLayout}</code></td><td></td></tr>
      * </table>
      * @see #AlertDialog_android_layout
      * @see #AlertDialog_buttonIconDimen
@@ -5356,7 +5344,7 @@ public final class R {
      */
     public static final int AlertDialog_android_layout=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#buttonIconDimen}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#buttonIconDimen}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5365,11 +5353,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:buttonIconDimen
+     * @attr name com.example.calculator:buttonIconDimen
      */
     public static final int AlertDialog_buttonIconDimen=1;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#buttonPanelSideLayout}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#buttonPanelSideLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5377,11 +5365,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:buttonPanelSideLayout
+     * @attr name com.example.calculator:buttonPanelSideLayout
      */
     public static final int AlertDialog_buttonPanelSideLayout=2;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#listItemLayout}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#listItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5389,11 +5377,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:listItemLayout
+     * @attr name com.example.calculator:listItemLayout
      */
     public static final int AlertDialog_listItemLayout=3;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#listLayout}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#listLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5401,11 +5389,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:listLayout
+     * @attr name com.example.calculator:listLayout
      */
     public static final int AlertDialog_listLayout=4;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#multiChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#multiChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5413,21 +5401,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:multiChoiceItemLayout
+     * @attr name com.example.calculator:multiChoiceItemLayout
      */
     public static final int AlertDialog_multiChoiceItemLayout=5;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#showTitle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#showTitle}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.lenovo.calculator:showTitle
+     * @attr name com.example.calculator:showTitle
      */
     public static final int AlertDialog_showTitle=6;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#singleChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#singleChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5435,7 +5423,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:singleChoiceItemLayout
+     * @attr name com.example.calculator:singleChoiceItemLayout
      */
     public static final int AlertDialog_singleChoiceItemLayout=7;
     /**
@@ -5635,9 +5623,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatImageView_android_src android:src}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_srcCompat com.example.lenovo.calculator:srcCompat}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_tint com.example.lenovo.calculator:tint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_tintMode com.example.lenovo.calculator:tintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_srcCompat com.example.calculator:srcCompat}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_tint com.example.calculator:tint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_tintMode com.example.calculator:tintMode}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatImageView_android_src
      * @see #AppCompatImageView_srcCompat
@@ -5663,7 +5651,7 @@ public final class R {
      */
     public static final int AppCompatImageView_android_src=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#srcCompat}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#srcCompat}
      * attribute's value can be found in the {@link #AppCompatImageView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5671,22 +5659,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:srcCompat
+     * @attr name com.example.calculator:srcCompat
      */
     public static final int AppCompatImageView_srcCompat=1;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#tint}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#tint}
      * attribute's value can be found in the {@link #AppCompatImageView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:tint
+     * @attr name com.example.calculator:tint
      */
     public static final int AppCompatImageView_tint=2;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#tintMode}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#tintMode}
      * attribute's value can be found in the {@link #AppCompatImageView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -5703,7 +5691,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:tintMode
+     * @attr name com.example.calculator:tintMode
      */
     public static final int AppCompatImageView_tintMode=3;
     /**
@@ -5714,9 +5702,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatSeekBar_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMark com.example.lenovo.calculator:tickMark}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.example.lenovo.calculator:tickMarkTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.example.lenovo.calculator:tickMarkTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMark com.example.calculator:tickMark}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.example.calculator:tickMarkTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.example.calculator:tickMarkTintMode}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatSeekBar_android_thumb
      * @see #AppCompatSeekBar_tickMark
@@ -5739,7 +5727,7 @@ public final class R {
      */
     public static final int AppCompatSeekBar_android_thumb=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#tickMark}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#tickMark}
      * attribute's value can be found in the {@link #AppCompatSeekBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5747,22 +5735,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:tickMark
+     * @attr name com.example.calculator:tickMark
      */
     public static final int AppCompatSeekBar_tickMark=1;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#tickMarkTint}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#tickMarkTint}
      * attribute's value can be found in the {@link #AppCompatSeekBar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:tickMarkTint
+     * @attr name com.example.calculator:tickMarkTint
      */
     public static final int AppCompatSeekBar_tickMarkTint=2;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#tickMarkTintMode}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#tickMarkTintMode}
      * attribute's value can be found in the {@link #AppCompatSeekBar} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -5779,7 +5767,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:tickMarkTintMode
+     * @attr name com.example.calculator:tickMarkTintMode
      */
     public static final int AppCompatSeekBar_tickMarkTintMode=3;
     /**
@@ -5919,16 +5907,16 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize com.example.lenovo.calculator:autoSizeMaxTextSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize com.example.lenovo.calculator:autoSizeMinTextSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes com.example.lenovo.calculator:autoSizePresetSizes}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity com.example.lenovo.calculator:autoSizeStepGranularity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeTextType com.example.lenovo.calculator:autoSizeTextType}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_firstBaselineToTopHeight com.example.lenovo.calculator:firstBaselineToTopHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_fontFamily com.example.lenovo.calculator:fontFamily}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_lastBaselineToBottomHeight com.example.lenovo.calculator:lastBaselineToBottomHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_lineHeight com.example.lenovo.calculator:lineHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_textAllCaps com.example.lenovo.calculator:textAllCaps}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize com.example.calculator:autoSizeMaxTextSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize com.example.calculator:autoSizeMinTextSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes com.example.calculator:autoSizePresetSizes}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity com.example.calculator:autoSizeStepGranularity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeTextType com.example.calculator:autoSizeTextType}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_firstBaselineToTopHeight com.example.calculator:firstBaselineToTopHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_fontFamily com.example.calculator:fontFamily}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_lastBaselineToBottomHeight com.example.calculator:lastBaselineToBottomHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_lineHeight com.example.calculator:lineHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_textAllCaps com.example.calculator:textAllCaps}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatTextView_android_textAppearance
      * @see #AppCompatTextView_autoSizeMaxTextSize
@@ -5960,7 +5948,7 @@ public final class R {
      */
     public static final int AppCompatTextView_android_textAppearance=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#autoSizeMaxTextSize}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#autoSizeMaxTextSize}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5969,11 +5957,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:autoSizeMaxTextSize
+     * @attr name com.example.calculator:autoSizeMaxTextSize
      */
     public static final int AppCompatTextView_autoSizeMaxTextSize=1;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#autoSizeMinTextSize}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#autoSizeMinTextSize}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5982,11 +5970,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:autoSizeMinTextSize
+     * @attr name com.example.calculator:autoSizeMinTextSize
      */
     public static final int AppCompatTextView_autoSizeMinTextSize=2;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#autoSizePresetSizes}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#autoSizePresetSizes}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5994,11 +5982,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:autoSizePresetSizes
+     * @attr name com.example.calculator:autoSizePresetSizes
      */
     public static final int AppCompatTextView_autoSizePresetSizes=3;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#autoSizeStepGranularity}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#autoSizeStepGranularity}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6007,11 +5995,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:autoSizeStepGranularity
+     * @attr name com.example.calculator:autoSizeStepGranularity
      */
     public static final int AppCompatTextView_autoSizeStepGranularity=4;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#autoSizeTextType}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#autoSizeTextType}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -6024,11 +6012,11 @@ public final class R {
      * <tr><td>uniform</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:autoSizeTextType
+     * @attr name com.example.calculator:autoSizeTextType
      */
     public static final int AppCompatTextView_autoSizeTextType=5;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#firstBaselineToTopHeight}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#firstBaselineToTopHeight}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6037,21 +6025,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:firstBaselineToTopHeight
+     * @attr name com.example.calculator:firstBaselineToTopHeight
      */
     public static final int AppCompatTextView_firstBaselineToTopHeight=6;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#fontFamily}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#fontFamily}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.example.lenovo.calculator:fontFamily
+     * @attr name com.example.calculator:fontFamily
      */
     public static final int AppCompatTextView_fontFamily=7;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#lastBaselineToBottomHeight}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#lastBaselineToBottomHeight}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6060,11 +6048,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:lastBaselineToBottomHeight
+     * @attr name com.example.calculator:lastBaselineToBottomHeight
      */
     public static final int AppCompatTextView_lastBaselineToBottomHeight=8;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#lineHeight}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#lineHeight}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6073,11 +6061,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:lineHeight
+     * @attr name com.example.calculator:lineHeight
      */
     public static final int AppCompatTextView_lineHeight=9;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#textAllCaps}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#textAllCaps}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6087,7 +6075,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.lenovo.calculator:textAllCaps
+     * @attr name com.example.calculator:textAllCaps
      */
     public static final int AppCompatTextView_textAllCaps=10;
     /**
@@ -6099,125 +6087,125 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.example.lenovo.calculator:actionBarDivider}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.example.lenovo.calculator:actionBarItemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.example.lenovo.calculator:actionBarPopupTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarSize com.example.lenovo.calculator:actionBarSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.example.lenovo.calculator:actionBarSplitStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.example.lenovo.calculator:actionBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.example.lenovo.calculator:actionBarTabBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.example.lenovo.calculator:actionBarTabStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.example.lenovo.calculator:actionBarTabTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.example.lenovo.calculator:actionBarTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.example.lenovo.calculator:actionBarWidgetTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.example.lenovo.calculator:actionButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.example.lenovo.calculator:actionDropDownStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.example.lenovo.calculator:actionMenuTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.example.lenovo.calculator:actionMenuTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.example.lenovo.calculator:actionModeBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.example.lenovo.calculator:actionModeCloseButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.example.lenovo.calculator:actionModeCloseDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.example.lenovo.calculator:actionModeCopyDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.example.lenovo.calculator:actionModeCutDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.example.lenovo.calculator:actionModeFindDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.example.lenovo.calculator:actionModePasteDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.example.lenovo.calculator:actionModePopupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.example.lenovo.calculator:actionModeSelectAllDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.example.lenovo.calculator:actionModeShareDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.example.lenovo.calculator:actionModeSplitBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.example.lenovo.calculator:actionModeStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.example.lenovo.calculator:actionModeWebSearchDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.example.lenovo.calculator:actionOverflowButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.example.lenovo.calculator:actionOverflowMenuStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.example.lenovo.calculator:activityChooserViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.example.lenovo.calculator:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.example.lenovo.calculator:alertDialogCenterButtons}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.example.lenovo.calculator:alertDialogStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.example.lenovo.calculator:alertDialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.example.lenovo.calculator:autoCompleteTextViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.example.lenovo.calculator:borderlessButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.example.lenovo.calculator:buttonBarButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.example.lenovo.calculator:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.example.lenovo.calculator:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.example.lenovo.calculator:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.example.lenovo.calculator:buttonBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonStyle com.example.lenovo.calculator:buttonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.example.lenovo.calculator:buttonStyleSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.example.lenovo.calculator:checkboxStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.example.lenovo.calculator:checkedTextViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorAccent com.example.lenovo.calculator:colorAccent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.example.lenovo.calculator:colorBackgroundFloating}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.example.lenovo.calculator:colorButtonNormal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.example.lenovo.calculator:colorControlActivated}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.example.lenovo.calculator:colorControlHighlight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.example.lenovo.calculator:colorControlNormal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorError com.example.lenovo.calculator:colorError}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorPrimary com.example.lenovo.calculator:colorPrimary}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.example.lenovo.calculator:colorPrimaryDark}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.example.lenovo.calculator:colorSwitchThumbNormal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_controlBackground com.example.lenovo.calculator:controlBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogCornerRadius com.example.lenovo.calculator:dialogCornerRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.example.lenovo.calculator:dialogPreferredPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogTheme com.example.lenovo.calculator:dialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.example.lenovo.calculator:dividerHorizontal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dividerVertical com.example.lenovo.calculator:dividerVertical}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.example.lenovo.calculator:dropDownListViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.example.lenovo.calculator:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextBackground com.example.lenovo.calculator:editTextBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextColor com.example.lenovo.calculator:editTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextStyle com.example.lenovo.calculator:editTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.example.lenovo.calculator:homeAsUpIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.example.lenovo.calculator:imageButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.example.lenovo.calculator:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.example.lenovo.calculator:listDividerAlertDialog}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.example.lenovo.calculator:listMenuViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.example.lenovo.calculator:listPopupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.example.lenovo.calculator:listPreferredItemHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.example.lenovo.calculator:listPreferredItemHeightLarge}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.example.lenovo.calculator:listPreferredItemHeightSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.example.lenovo.calculator:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.example.lenovo.calculator:listPreferredItemPaddingRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelBackground com.example.lenovo.calculator:panelBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.example.lenovo.calculator:panelMenuListTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.example.lenovo.calculator:panelMenuListWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.example.lenovo.calculator:popupMenuStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.example.lenovo.calculator:popupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.example.lenovo.calculator:radioButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.example.lenovo.calculator:ratingBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.example.lenovo.calculator:ratingBarStyleIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.example.lenovo.calculator:ratingBarStyleSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.example.lenovo.calculator:searchViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.example.lenovo.calculator:seekBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.example.lenovo.calculator:selectableItemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.example.lenovo.calculator:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.example.lenovo.calculator:spinnerDropDownItemStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.example.lenovo.calculator:spinnerStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_switchStyle com.example.lenovo.calculator:switchStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.example.lenovo.calculator:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.example.lenovo.calculator:textAppearanceListItem}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary com.example.lenovo.calculator:textAppearanceListItemSecondary}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.example.lenovo.calculator:textAppearanceListItemSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.example.lenovo.calculator:textAppearancePopupMenuHeader}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.example.lenovo.calculator:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.example.lenovo.calculator:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.example.lenovo.calculator:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.example.lenovo.calculator:textColorAlertDialogListItem}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.example.lenovo.calculator:textColorSearchUrl}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.example.lenovo.calculator:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.example.lenovo.calculator:toolbarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor com.example.lenovo.calculator:tooltipForegroundColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground com.example.lenovo.calculator:tooltipFrameBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_viewInflaterClass com.example.lenovo.calculator:viewInflaterClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionBar com.example.lenovo.calculator:windowActionBar}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.example.lenovo.calculator:windowActionBarOverlay}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.example.lenovo.calculator:windowActionModeOverlay}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.example.lenovo.calculator:windowFixedHeightMajor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.example.lenovo.calculator:windowFixedHeightMinor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.example.lenovo.calculator:windowFixedWidthMajor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.example.lenovo.calculator:windowFixedWidthMinor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.example.lenovo.calculator:windowMinWidthMajor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.example.lenovo.calculator:windowMinWidthMinor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.example.lenovo.calculator:windowNoTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.example.calculator:actionBarDivider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.example.calculator:actionBarItemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.example.calculator:actionBarPopupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarSize com.example.calculator:actionBarSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.example.calculator:actionBarSplitStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.example.calculator:actionBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.example.calculator:actionBarTabBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.example.calculator:actionBarTabStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.example.calculator:actionBarTabTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.example.calculator:actionBarTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.example.calculator:actionBarWidgetTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.example.calculator:actionButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.example.calculator:actionDropDownStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.example.calculator:actionMenuTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.example.calculator:actionMenuTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.example.calculator:actionModeBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.example.calculator:actionModeCloseButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.example.calculator:actionModeCloseDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.example.calculator:actionModeCopyDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.example.calculator:actionModeCutDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.example.calculator:actionModeFindDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.example.calculator:actionModePasteDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.example.calculator:actionModePopupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.example.calculator:actionModeSelectAllDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.example.calculator:actionModeShareDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.example.calculator:actionModeSplitBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.example.calculator:actionModeStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.example.calculator:actionModeWebSearchDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.example.calculator:actionOverflowButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.example.calculator:actionOverflowMenuStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.example.calculator:activityChooserViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.example.calculator:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.example.calculator:alertDialogCenterButtons}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.example.calculator:alertDialogStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.example.calculator:alertDialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.example.calculator:autoCompleteTextViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.example.calculator:borderlessButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.example.calculator:buttonBarButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.example.calculator:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.example.calculator:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.example.calculator:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.example.calculator:buttonBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonStyle com.example.calculator:buttonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.example.calculator:buttonStyleSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.example.calculator:checkboxStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.example.calculator:checkedTextViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorAccent com.example.calculator:colorAccent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.example.calculator:colorBackgroundFloating}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.example.calculator:colorButtonNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.example.calculator:colorControlActivated}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.example.calculator:colorControlHighlight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.example.calculator:colorControlNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorError com.example.calculator:colorError}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorPrimary com.example.calculator:colorPrimary}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.example.calculator:colorPrimaryDark}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.example.calculator:colorSwitchThumbNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_controlBackground com.example.calculator:controlBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogCornerRadius com.example.calculator:dialogCornerRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.example.calculator:dialogPreferredPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogTheme com.example.calculator:dialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.example.calculator:dividerHorizontal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dividerVertical com.example.calculator:dividerVertical}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.example.calculator:dropDownListViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.example.calculator:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextBackground com.example.calculator:editTextBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextColor com.example.calculator:editTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextStyle com.example.calculator:editTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.example.calculator:homeAsUpIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.example.calculator:imageButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.example.calculator:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.example.calculator:listDividerAlertDialog}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.example.calculator:listMenuViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.example.calculator:listPopupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.example.calculator:listPreferredItemHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.example.calculator:listPreferredItemHeightLarge}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.example.calculator:listPreferredItemHeightSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.example.calculator:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.example.calculator:listPreferredItemPaddingRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelBackground com.example.calculator:panelBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.example.calculator:panelMenuListTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.example.calculator:panelMenuListWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.example.calculator:popupMenuStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.example.calculator:popupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.example.calculator:radioButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.example.calculator:ratingBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.example.calculator:ratingBarStyleIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.example.calculator:ratingBarStyleSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.example.calculator:searchViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.example.calculator:seekBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.example.calculator:selectableItemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.example.calculator:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.example.calculator:spinnerDropDownItemStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.example.calculator:spinnerStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_switchStyle com.example.calculator:switchStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.example.calculator:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.example.calculator:textAppearanceListItem}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary com.example.calculator:textAppearanceListItemSecondary}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.example.calculator:textAppearanceListItemSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.example.calculator:textAppearancePopupMenuHeader}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.example.calculator:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.example.calculator:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.example.calculator:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.example.calculator:textColorAlertDialogListItem}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.example.calculator:textColorSearchUrl}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.example.calculator:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.example.calculator:toolbarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor com.example.calculator:tooltipForegroundColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground com.example.calculator:tooltipFrameBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_viewInflaterClass com.example.calculator:viewInflaterClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionBar com.example.calculator:windowActionBar}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.example.calculator:windowActionBarOverlay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.example.calculator:windowActionModeOverlay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.example.calculator:windowFixedHeightMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.example.calculator:windowFixedHeightMinor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.example.calculator:windowFixedWidthMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.example.calculator:windowFixedWidthMinor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.example.calculator:windowMinWidthMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.example.calculator:windowMinWidthMinor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.example.calculator:windowNoTitle}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatTheme_android_windowIsFloating
      * @see #AppCompatTheme_android_windowAnimationStyle
@@ -6375,7 +6363,7 @@ public final class R {
         0x7f0201c9
       };
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#actionBarDivider}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#actionBarDivider}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6383,11 +6371,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:actionBarDivider
+     * @attr name com.example.calculator:actionBarDivider
      */
     public static final int AppCompatTheme_actionBarDivider=2;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#actionBarItemBackground}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#actionBarItemBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6395,11 +6383,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:actionBarItemBackground
+     * @attr name com.example.calculator:actionBarItemBackground
      */
     public static final int AppCompatTheme_actionBarItemBackground=3;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#actionBarPopupTheme}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#actionBarPopupTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6407,11 +6395,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:actionBarPopupTheme
+     * @attr name com.example.calculator:actionBarPopupTheme
      */
     public static final int AppCompatTheme_actionBarPopupTheme=4;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#actionBarSize}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#actionBarSize}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6428,11 +6416,11 @@ public final class R {
      * <tr><td>wrap_content</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:actionBarSize
+     * @attr name com.example.calculator:actionBarSize
      */
     public static final int AppCompatTheme_actionBarSize=5;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#actionBarSplitStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#actionBarSplitStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6440,11 +6428,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:actionBarSplitStyle
+     * @attr name com.example.calculator:actionBarSplitStyle
      */
     public static final int AppCompatTheme_actionBarSplitStyle=6;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#actionBarStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#actionBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6452,11 +6440,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:actionBarStyle
+     * @attr name com.example.calculator:actionBarStyle
      */
     public static final int AppCompatTheme_actionBarStyle=7;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#actionBarTabBarStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#actionBarTabBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6464,11 +6452,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:actionBarTabBarStyle
+     * @attr name com.example.calculator:actionBarTabBarStyle
      */
     public static final int AppCompatTheme_actionBarTabBarStyle=8;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#actionBarTabStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#actionBarTabStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6476,11 +6464,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:actionBarTabStyle
+     * @attr name com.example.calculator:actionBarTabStyle
      */
     public static final int AppCompatTheme_actionBarTabStyle=9;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#actionBarTabTextStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#actionBarTabTextStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6488,11 +6476,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:actionBarTabTextStyle
+     * @attr name com.example.calculator:actionBarTabTextStyle
      */
     public static final int AppCompatTheme_actionBarTabTextStyle=10;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#actionBarTheme}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#actionBarTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6500,11 +6488,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:actionBarTheme
+     * @attr name com.example.calculator:actionBarTheme
      */
     public static final int AppCompatTheme_actionBarTheme=11;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#actionBarWidgetTheme}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#actionBarWidgetTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6512,11 +6500,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:actionBarWidgetTheme
+     * @attr name com.example.calculator:actionBarWidgetTheme
      */
     public static final int AppCompatTheme_actionBarWidgetTheme=12;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#actionButtonStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#actionButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6524,11 +6512,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:actionButtonStyle
+     * @attr name com.example.calculator:actionButtonStyle
      */
     public static final int AppCompatTheme_actionButtonStyle=13;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#actionDropDownStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#actionDropDownStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6536,11 +6524,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:actionDropDownStyle
+     * @attr name com.example.calculator:actionDropDownStyle
      */
     public static final int AppCompatTheme_actionDropDownStyle=14;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#actionMenuTextAppearance}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#actionMenuTextAppearance}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6548,11 +6536,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:actionMenuTextAppearance
+     * @attr name com.example.calculator:actionMenuTextAppearance
      */
     public static final int AppCompatTheme_actionMenuTextAppearance=15;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#actionMenuTextColor}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#actionMenuTextColor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6563,11 +6551,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:actionMenuTextColor
+     * @attr name com.example.calculator:actionMenuTextColor
      */
     public static final int AppCompatTheme_actionMenuTextColor=16;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#actionModeBackground}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#actionModeBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6575,11 +6563,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:actionModeBackground
+     * @attr name com.example.calculator:actionModeBackground
      */
     public static final int AppCompatTheme_actionModeBackground=17;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#actionModeCloseButtonStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#actionModeCloseButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6587,11 +6575,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:actionModeCloseButtonStyle
+     * @attr name com.example.calculator:actionModeCloseButtonStyle
      */
     public static final int AppCompatTheme_actionModeCloseButtonStyle=18;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#actionModeCloseDrawable}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#actionModeCloseDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6599,11 +6587,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:actionModeCloseDrawable
+     * @attr name com.example.calculator:actionModeCloseDrawable
      */
     public static final int AppCompatTheme_actionModeCloseDrawable=19;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#actionModeCopyDrawable}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#actionModeCopyDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6611,11 +6599,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:actionModeCopyDrawable
+     * @attr name com.example.calculator:actionModeCopyDrawable
      */
     public static final int AppCompatTheme_actionModeCopyDrawable=20;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#actionModeCutDrawable}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#actionModeCutDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6623,11 +6611,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:actionModeCutDrawable
+     * @attr name com.example.calculator:actionModeCutDrawable
      */
     public static final int AppCompatTheme_actionModeCutDrawable=21;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#actionModeFindDrawable}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#actionModeFindDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6635,11 +6623,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:actionModeFindDrawable
+     * @attr name com.example.calculator:actionModeFindDrawable
      */
     public static final int AppCompatTheme_actionModeFindDrawable=22;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#actionModePasteDrawable}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#actionModePasteDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6647,11 +6635,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:actionModePasteDrawable
+     * @attr name com.example.calculator:actionModePasteDrawable
      */
     public static final int AppCompatTheme_actionModePasteDrawable=23;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#actionModePopupWindowStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#actionModePopupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6659,11 +6647,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:actionModePopupWindowStyle
+     * @attr name com.example.calculator:actionModePopupWindowStyle
      */
     public static final int AppCompatTheme_actionModePopupWindowStyle=24;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#actionModeSelectAllDrawable}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#actionModeSelectAllDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6671,11 +6659,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:actionModeSelectAllDrawable
+     * @attr name com.example.calculator:actionModeSelectAllDrawable
      */
     public static final int AppCompatTheme_actionModeSelectAllDrawable=25;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#actionModeShareDrawable}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#actionModeShareDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6683,11 +6671,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:actionModeShareDrawable
+     * @attr name com.example.calculator:actionModeShareDrawable
      */
     public static final int AppCompatTheme_actionModeShareDrawable=26;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#actionModeSplitBackground}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#actionModeSplitBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6695,11 +6683,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:actionModeSplitBackground
+     * @attr name com.example.calculator:actionModeSplitBackground
      */
     public static final int AppCompatTheme_actionModeSplitBackground=27;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#actionModeStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#actionModeStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6707,11 +6695,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:actionModeStyle
+     * @attr name com.example.calculator:actionModeStyle
      */
     public static final int AppCompatTheme_actionModeStyle=28;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#actionModeWebSearchDrawable}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#actionModeWebSearchDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6719,11 +6707,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:actionModeWebSearchDrawable
+     * @attr name com.example.calculator:actionModeWebSearchDrawable
      */
     public static final int AppCompatTheme_actionModeWebSearchDrawable=29;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#actionOverflowButtonStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#actionOverflowButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6731,11 +6719,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:actionOverflowButtonStyle
+     * @attr name com.example.calculator:actionOverflowButtonStyle
      */
     public static final int AppCompatTheme_actionOverflowButtonStyle=30;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#actionOverflowMenuStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#actionOverflowMenuStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6743,11 +6731,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:actionOverflowMenuStyle
+     * @attr name com.example.calculator:actionOverflowMenuStyle
      */
     public static final int AppCompatTheme_actionOverflowMenuStyle=31;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#activityChooserViewStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#activityChooserViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6755,11 +6743,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:activityChooserViewStyle
+     * @attr name com.example.calculator:activityChooserViewStyle
      */
     public static final int AppCompatTheme_activityChooserViewStyle=32;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#alertDialogButtonGroupStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#alertDialogButtonGroupStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6767,21 +6755,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:alertDialogButtonGroupStyle
+     * @attr name com.example.calculator:alertDialogButtonGroupStyle
      */
     public static final int AppCompatTheme_alertDialogButtonGroupStyle=33;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#alertDialogCenterButtons}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#alertDialogCenterButtons}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.lenovo.calculator:alertDialogCenterButtons
+     * @attr name com.example.calculator:alertDialogCenterButtons
      */
     public static final int AppCompatTheme_alertDialogCenterButtons=34;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#alertDialogStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#alertDialogStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6789,11 +6777,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:alertDialogStyle
+     * @attr name com.example.calculator:alertDialogStyle
      */
     public static final int AppCompatTheme_alertDialogStyle=35;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#alertDialogTheme}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#alertDialogTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6801,7 +6789,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:alertDialogTheme
+     * @attr name com.example.calculator:alertDialogTheme
      */
     public static final int AppCompatTheme_alertDialogTheme=36;
     /**
@@ -6827,7 +6815,7 @@ public final class R {
      */
     public static final int AppCompatTheme_android_windowIsFloating=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#autoCompleteTextViewStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#autoCompleteTextViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6835,11 +6823,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:autoCompleteTextViewStyle
+     * @attr name com.example.calculator:autoCompleteTextViewStyle
      */
     public static final int AppCompatTheme_autoCompleteTextViewStyle=37;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#borderlessButtonStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#borderlessButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6847,11 +6835,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:borderlessButtonStyle
+     * @attr name com.example.calculator:borderlessButtonStyle
      */
     public static final int AppCompatTheme_borderlessButtonStyle=38;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#buttonBarButtonStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#buttonBarButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6859,11 +6847,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:buttonBarButtonStyle
+     * @attr name com.example.calculator:buttonBarButtonStyle
      */
     public static final int AppCompatTheme_buttonBarButtonStyle=39;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#buttonBarNegativeButtonStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#buttonBarNegativeButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6871,11 +6859,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:buttonBarNegativeButtonStyle
+     * @attr name com.example.calculator:buttonBarNegativeButtonStyle
      */
     public static final int AppCompatTheme_buttonBarNegativeButtonStyle=40;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#buttonBarNeutralButtonStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#buttonBarNeutralButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6883,11 +6871,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:buttonBarNeutralButtonStyle
+     * @attr name com.example.calculator:buttonBarNeutralButtonStyle
      */
     public static final int AppCompatTheme_buttonBarNeutralButtonStyle=41;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#buttonBarPositiveButtonStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#buttonBarPositiveButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6895,11 +6883,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:buttonBarPositiveButtonStyle
+     * @attr name com.example.calculator:buttonBarPositiveButtonStyle
      */
     public static final int AppCompatTheme_buttonBarPositiveButtonStyle=42;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#buttonBarStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#buttonBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6907,11 +6895,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:buttonBarStyle
+     * @attr name com.example.calculator:buttonBarStyle
      */
     public static final int AppCompatTheme_buttonBarStyle=43;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#buttonStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#buttonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6919,11 +6907,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:buttonStyle
+     * @attr name com.example.calculator:buttonStyle
      */
     public static final int AppCompatTheme_buttonStyle=44;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#buttonStyleSmall}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#buttonStyleSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6931,11 +6919,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:buttonStyleSmall
+     * @attr name com.example.calculator:buttonStyleSmall
      */
     public static final int AppCompatTheme_buttonStyleSmall=45;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#checkboxStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#checkboxStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6943,11 +6931,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:checkboxStyle
+     * @attr name com.example.calculator:checkboxStyle
      */
     public static final int AppCompatTheme_checkboxStyle=46;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#checkedTextViewStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#checkedTextViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6955,77 +6943,77 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:checkedTextViewStyle
+     * @attr name com.example.calculator:checkedTextViewStyle
      */
     public static final int AppCompatTheme_checkedTextViewStyle=47;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#colorAccent}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#colorAccent}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:colorAccent
+     * @attr name com.example.calculator:colorAccent
      */
     public static final int AppCompatTheme_colorAccent=48;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#colorBackgroundFloating}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#colorBackgroundFloating}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:colorBackgroundFloating
+     * @attr name com.example.calculator:colorBackgroundFloating
      */
     public static final int AppCompatTheme_colorBackgroundFloating=49;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#colorButtonNormal}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#colorButtonNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:colorButtonNormal
+     * @attr name com.example.calculator:colorButtonNormal
      */
     public static final int AppCompatTheme_colorButtonNormal=50;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#colorControlActivated}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#colorControlActivated}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:colorControlActivated
+     * @attr name com.example.calculator:colorControlActivated
      */
     public static final int AppCompatTheme_colorControlActivated=51;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#colorControlHighlight}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#colorControlHighlight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:colorControlHighlight
+     * @attr name com.example.calculator:colorControlHighlight
      */
     public static final int AppCompatTheme_colorControlHighlight=52;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#colorControlNormal}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#colorControlNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:colorControlNormal
+     * @attr name com.example.calculator:colorControlNormal
      */
     public static final int AppCompatTheme_colorControlNormal=53;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#colorError}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#colorError}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7036,44 +7024,44 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:colorError
+     * @attr name com.example.calculator:colorError
      */
     public static final int AppCompatTheme_colorError=54;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#colorPrimary}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#colorPrimary}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:colorPrimary
+     * @attr name com.example.calculator:colorPrimary
      */
     public static final int AppCompatTheme_colorPrimary=55;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#colorPrimaryDark}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#colorPrimaryDark}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:colorPrimaryDark
+     * @attr name com.example.calculator:colorPrimaryDark
      */
     public static final int AppCompatTheme_colorPrimaryDark=56;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#colorSwitchThumbNormal}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#colorSwitchThumbNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:colorSwitchThumbNormal
+     * @attr name com.example.calculator:colorSwitchThumbNormal
      */
     public static final int AppCompatTheme_colorSwitchThumbNormal=57;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#controlBackground}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#controlBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7081,11 +7069,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:controlBackground
+     * @attr name com.example.calculator:controlBackground
      */
     public static final int AppCompatTheme_controlBackground=58;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#dialogCornerRadius}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#dialogCornerRadius}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7094,11 +7082,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:dialogCornerRadius
+     * @attr name com.example.calculator:dialogCornerRadius
      */
     public static final int AppCompatTheme_dialogCornerRadius=59;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#dialogPreferredPadding}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#dialogPreferredPadding}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7107,11 +7095,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:dialogPreferredPadding
+     * @attr name com.example.calculator:dialogPreferredPadding
      */
     public static final int AppCompatTheme_dialogPreferredPadding=60;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#dialogTheme}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#dialogTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7119,11 +7107,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:dialogTheme
+     * @attr name com.example.calculator:dialogTheme
      */
     public static final int AppCompatTheme_dialogTheme=61;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#dividerHorizontal}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#dividerHorizontal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7131,11 +7119,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:dividerHorizontal
+     * @attr name com.example.calculator:dividerHorizontal
      */
     public static final int AppCompatTheme_dividerHorizontal=62;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#dividerVertical}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#dividerVertical}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7143,11 +7131,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:dividerVertical
+     * @attr name com.example.calculator:dividerVertical
      */
     public static final int AppCompatTheme_dividerVertical=63;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#dropDownListViewStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#dropDownListViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7155,11 +7143,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:dropDownListViewStyle
+     * @attr name com.example.calculator:dropDownListViewStyle
      */
     public static final int AppCompatTheme_dropDownListViewStyle=64;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#dropdownListPreferredItemHeight}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#dropdownListPreferredItemHeight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7168,11 +7156,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:dropdownListPreferredItemHeight
+     * @attr name com.example.calculator:dropdownListPreferredItemHeight
      */
     public static final int AppCompatTheme_dropdownListPreferredItemHeight=65;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#editTextBackground}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#editTextBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7180,11 +7168,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:editTextBackground
+     * @attr name com.example.calculator:editTextBackground
      */
     public static final int AppCompatTheme_editTextBackground=66;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#editTextColor}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#editTextColor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7195,11 +7183,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:editTextColor
+     * @attr name com.example.calculator:editTextColor
      */
     public static final int AppCompatTheme_editTextColor=67;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#editTextStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#editTextStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7207,11 +7195,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:editTextStyle
+     * @attr name com.example.calculator:editTextStyle
      */
     public static final int AppCompatTheme_editTextStyle=68;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#homeAsUpIndicator}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#homeAsUpIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7219,11 +7207,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:homeAsUpIndicator
+     * @attr name com.example.calculator:homeAsUpIndicator
      */
     public static final int AppCompatTheme_homeAsUpIndicator=69;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#imageButtonStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#imageButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7231,11 +7219,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:imageButtonStyle
+     * @attr name com.example.calculator:imageButtonStyle
      */
     public static final int AppCompatTheme_imageButtonStyle=70;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#listChoiceBackgroundIndicator}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#listChoiceBackgroundIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7243,11 +7231,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:listChoiceBackgroundIndicator
+     * @attr name com.example.calculator:listChoiceBackgroundIndicator
      */
     public static final int AppCompatTheme_listChoiceBackgroundIndicator=71;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#listDividerAlertDialog}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#listDividerAlertDialog}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7255,11 +7243,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:listDividerAlertDialog
+     * @attr name com.example.calculator:listDividerAlertDialog
      */
     public static final int AppCompatTheme_listDividerAlertDialog=72;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#listMenuViewStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#listMenuViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7267,11 +7255,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:listMenuViewStyle
+     * @attr name com.example.calculator:listMenuViewStyle
      */
     public static final int AppCompatTheme_listMenuViewStyle=73;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#listPopupWindowStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#listPopupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7279,11 +7267,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:listPopupWindowStyle
+     * @attr name com.example.calculator:listPopupWindowStyle
      */
     public static final int AppCompatTheme_listPopupWindowStyle=74;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#listPreferredItemHeight}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#listPreferredItemHeight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7292,11 +7280,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:listPreferredItemHeight
+     * @attr name com.example.calculator:listPreferredItemHeight
      */
     public static final int AppCompatTheme_listPreferredItemHeight=75;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#listPreferredItemHeightLarge}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#listPreferredItemHeightLarge}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7305,11 +7293,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:listPreferredItemHeightLarge
+     * @attr name com.example.calculator:listPreferredItemHeightLarge
      */
     public static final int AppCompatTheme_listPreferredItemHeightLarge=76;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#listPreferredItemHeightSmall}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#listPreferredItemHeightSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7318,11 +7306,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:listPreferredItemHeightSmall
+     * @attr name com.example.calculator:listPreferredItemHeightSmall
      */
     public static final int AppCompatTheme_listPreferredItemHeightSmall=77;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#listPreferredItemPaddingLeft}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#listPreferredItemPaddingLeft}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7331,11 +7319,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:listPreferredItemPaddingLeft
+     * @attr name com.example.calculator:listPreferredItemPaddingLeft
      */
     public static final int AppCompatTheme_listPreferredItemPaddingLeft=78;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#listPreferredItemPaddingRight}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#listPreferredItemPaddingRight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7344,11 +7332,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:listPreferredItemPaddingRight
+     * @attr name com.example.calculator:listPreferredItemPaddingRight
      */
     public static final int AppCompatTheme_listPreferredItemPaddingRight=79;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#panelBackground}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#panelBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7356,11 +7344,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:panelBackground
+     * @attr name com.example.calculator:panelBackground
      */
     public static final int AppCompatTheme_panelBackground=80;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#panelMenuListTheme}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#panelMenuListTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7368,11 +7356,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:panelMenuListTheme
+     * @attr name com.example.calculator:panelMenuListTheme
      */
     public static final int AppCompatTheme_panelMenuListTheme=81;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#panelMenuListWidth}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#panelMenuListWidth}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7381,11 +7369,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:panelMenuListWidth
+     * @attr name com.example.calculator:panelMenuListWidth
      */
     public static final int AppCompatTheme_panelMenuListWidth=82;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#popupMenuStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#popupMenuStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7393,11 +7381,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:popupMenuStyle
+     * @attr name com.example.calculator:popupMenuStyle
      */
     public static final int AppCompatTheme_popupMenuStyle=83;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#popupWindowStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#popupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7405,11 +7393,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:popupWindowStyle
+     * @attr name com.example.calculator:popupWindowStyle
      */
     public static final int AppCompatTheme_popupWindowStyle=84;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#radioButtonStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#radioButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7417,11 +7405,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:radioButtonStyle
+     * @attr name com.example.calculator:radioButtonStyle
      */
     public static final int AppCompatTheme_radioButtonStyle=85;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#ratingBarStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#ratingBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7429,11 +7417,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:ratingBarStyle
+     * @attr name com.example.calculator:ratingBarStyle
      */
     public static final int AppCompatTheme_ratingBarStyle=86;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#ratingBarStyleIndicator}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#ratingBarStyleIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7441,11 +7429,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:ratingBarStyleIndicator
+     * @attr name com.example.calculator:ratingBarStyleIndicator
      */
     public static final int AppCompatTheme_ratingBarStyleIndicator=87;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#ratingBarStyleSmall}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#ratingBarStyleSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7453,11 +7441,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:ratingBarStyleSmall
+     * @attr name com.example.calculator:ratingBarStyleSmall
      */
     public static final int AppCompatTheme_ratingBarStyleSmall=88;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#searchViewStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#searchViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7465,11 +7453,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:searchViewStyle
+     * @attr name com.example.calculator:searchViewStyle
      */
     public static final int AppCompatTheme_searchViewStyle=89;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#seekBarStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#seekBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7477,11 +7465,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:seekBarStyle
+     * @attr name com.example.calculator:seekBarStyle
      */
     public static final int AppCompatTheme_seekBarStyle=90;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#selectableItemBackground}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#selectableItemBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7489,11 +7477,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:selectableItemBackground
+     * @attr name com.example.calculator:selectableItemBackground
      */
     public static final int AppCompatTheme_selectableItemBackground=91;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#selectableItemBackgroundBorderless}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#selectableItemBackgroundBorderless}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7501,11 +7489,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:selectableItemBackgroundBorderless
+     * @attr name com.example.calculator:selectableItemBackgroundBorderless
      */
     public static final int AppCompatTheme_selectableItemBackgroundBorderless=92;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#spinnerDropDownItemStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#spinnerDropDownItemStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7513,11 +7501,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:spinnerDropDownItemStyle
+     * @attr name com.example.calculator:spinnerDropDownItemStyle
      */
     public static final int AppCompatTheme_spinnerDropDownItemStyle=93;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#spinnerStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#spinnerStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7525,11 +7513,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:spinnerStyle
+     * @attr name com.example.calculator:spinnerStyle
      */
     public static final int AppCompatTheme_spinnerStyle=94;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#switchStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#switchStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7537,11 +7525,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:switchStyle
+     * @attr name com.example.calculator:switchStyle
      */
     public static final int AppCompatTheme_switchStyle=95;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#textAppearanceLargePopupMenu}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#textAppearanceLargePopupMenu}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7549,11 +7537,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:textAppearanceLargePopupMenu
+     * @attr name com.example.calculator:textAppearanceLargePopupMenu
      */
     public static final int AppCompatTheme_textAppearanceLargePopupMenu=96;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#textAppearanceListItem}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#textAppearanceListItem}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7561,11 +7549,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:textAppearanceListItem
+     * @attr name com.example.calculator:textAppearanceListItem
      */
     public static final int AppCompatTheme_textAppearanceListItem=97;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#textAppearanceListItemSecondary}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#textAppearanceListItemSecondary}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7573,11 +7561,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:textAppearanceListItemSecondary
+     * @attr name com.example.calculator:textAppearanceListItemSecondary
      */
     public static final int AppCompatTheme_textAppearanceListItemSecondary=98;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#textAppearanceListItemSmall}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#textAppearanceListItemSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7585,11 +7573,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:textAppearanceListItemSmall
+     * @attr name com.example.calculator:textAppearanceListItemSmall
      */
     public static final int AppCompatTheme_textAppearanceListItemSmall=99;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#textAppearancePopupMenuHeader}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#textAppearancePopupMenuHeader}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7597,11 +7585,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:textAppearancePopupMenuHeader
+     * @attr name com.example.calculator:textAppearancePopupMenuHeader
      */
     public static final int AppCompatTheme_textAppearancePopupMenuHeader=100;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#textAppearanceSearchResultSubtitle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#textAppearanceSearchResultSubtitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7609,11 +7597,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:textAppearanceSearchResultSubtitle
+     * @attr name com.example.calculator:textAppearanceSearchResultSubtitle
      */
     public static final int AppCompatTheme_textAppearanceSearchResultSubtitle=101;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#textAppearanceSearchResultTitle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#textAppearanceSearchResultTitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7621,11 +7609,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:textAppearanceSearchResultTitle
+     * @attr name com.example.calculator:textAppearanceSearchResultTitle
      */
     public static final int AppCompatTheme_textAppearanceSearchResultTitle=102;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#textAppearanceSmallPopupMenu}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#textAppearanceSmallPopupMenu}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7633,11 +7621,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:textAppearanceSmallPopupMenu
+     * @attr name com.example.calculator:textAppearanceSmallPopupMenu
      */
     public static final int AppCompatTheme_textAppearanceSmallPopupMenu=103;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#textColorAlertDialogListItem}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#textColorAlertDialogListItem}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7648,11 +7636,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:textColorAlertDialogListItem
+     * @attr name com.example.calculator:textColorAlertDialogListItem
      */
     public static final int AppCompatTheme_textColorAlertDialogListItem=104;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#textColorSearchUrl}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#textColorSearchUrl}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7663,11 +7651,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:textColorSearchUrl
+     * @attr name com.example.calculator:textColorSearchUrl
      */
     public static final int AppCompatTheme_textColorSearchUrl=105;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#toolbarNavigationButtonStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#toolbarNavigationButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7675,11 +7663,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:toolbarNavigationButtonStyle
+     * @attr name com.example.calculator:toolbarNavigationButtonStyle
      */
     public static final int AppCompatTheme_toolbarNavigationButtonStyle=106;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#toolbarStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#toolbarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7687,11 +7675,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:toolbarStyle
+     * @attr name com.example.calculator:toolbarStyle
      */
     public static final int AppCompatTheme_toolbarStyle=107;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#tooltipForegroundColor}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#tooltipForegroundColor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7702,11 +7690,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:tooltipForegroundColor
+     * @attr name com.example.calculator:tooltipForegroundColor
      */
     public static final int AppCompatTheme_tooltipForegroundColor=108;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#tooltipFrameBackground}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#tooltipFrameBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7714,51 +7702,51 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:tooltipFrameBackground
+     * @attr name com.example.calculator:tooltipFrameBackground
      */
     public static final int AppCompatTheme_tooltipFrameBackground=109;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#viewInflaterClass}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#viewInflaterClass}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.example.lenovo.calculator:viewInflaterClass
+     * @attr name com.example.calculator:viewInflaterClass
      */
     public static final int AppCompatTheme_viewInflaterClass=110;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#windowActionBar}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#windowActionBar}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.lenovo.calculator:windowActionBar
+     * @attr name com.example.calculator:windowActionBar
      */
     public static final int AppCompatTheme_windowActionBar=111;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#windowActionBarOverlay}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#windowActionBarOverlay}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.lenovo.calculator:windowActionBarOverlay
+     * @attr name com.example.calculator:windowActionBarOverlay
      */
     public static final int AppCompatTheme_windowActionBarOverlay=112;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#windowActionModeOverlay}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#windowActionModeOverlay}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.lenovo.calculator:windowActionModeOverlay
+     * @attr name com.example.calculator:windowActionModeOverlay
      */
     public static final int AppCompatTheme_windowActionModeOverlay=113;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#windowFixedHeightMajor}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#windowFixedHeightMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7771,11 +7759,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.example.lenovo.calculator:windowFixedHeightMajor
+     * @attr name com.example.calculator:windowFixedHeightMajor
      */
     public static final int AppCompatTheme_windowFixedHeightMajor=114;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#windowFixedHeightMinor}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#windowFixedHeightMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7788,11 +7776,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.example.lenovo.calculator:windowFixedHeightMinor
+     * @attr name com.example.calculator:windowFixedHeightMinor
      */
     public static final int AppCompatTheme_windowFixedHeightMinor=115;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#windowFixedWidthMajor}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#windowFixedWidthMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7805,11 +7793,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.example.lenovo.calculator:windowFixedWidthMajor
+     * @attr name com.example.calculator:windowFixedWidthMajor
      */
     public static final int AppCompatTheme_windowFixedWidthMajor=116;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#windowFixedWidthMinor}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#windowFixedWidthMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7822,11 +7810,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.example.lenovo.calculator:windowFixedWidthMinor
+     * @attr name com.example.calculator:windowFixedWidthMinor
      */
     public static final int AppCompatTheme_windowFixedWidthMinor=117;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#windowMinWidthMajor}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#windowMinWidthMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7839,11 +7827,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.example.lenovo.calculator:windowMinWidthMajor
+     * @attr name com.example.calculator:windowMinWidthMajor
      */
     public static final int AppCompatTheme_windowMinWidthMajor=118;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#windowMinWidthMinor}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#windowMinWidthMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7856,17 +7844,17 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.example.lenovo.calculator:windowMinWidthMinor
+     * @attr name com.example.calculator:windowMinWidthMinor
      */
     public static final int AppCompatTheme_windowMinWidthMinor=119;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#windowNoTitle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#windowNoTitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.lenovo.calculator:windowNoTitle
+     * @attr name com.example.calculator:windowNoTitle
      */
     public static final int AppCompatTheme_windowNoTitle=120;
     /**
@@ -7876,7 +7864,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ButtonBarLayout_allowStacking com.example.lenovo.calculator:allowStacking}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ButtonBarLayout_allowStacking com.example.calculator:allowStacking}</code></td><td></td></tr>
      * </table>
      * @see #ButtonBarLayout_allowStacking
      */
@@ -7884,13 +7872,13 @@ public final class R {
         0x7f020026
       };
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#allowStacking}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#allowStacking}
      * attribute's value can be found in the {@link #ButtonBarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.lenovo.calculator:allowStacking
+     * @attr name com.example.calculator:allowStacking
      */
     public static final int ButtonBarLayout_allowStacking=0;
     /**
@@ -7902,7 +7890,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ColorStateListItem_android_color android:color}</code></td><td></td></tr>
      * <tr><td><code>{@link #ColorStateListItem_android_alpha android:alpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ColorStateListItem_alpha com.example.lenovo.calculator:alpha}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ColorStateListItem_alpha com.example.calculator:alpha}</code></td><td></td></tr>
      * </table>
      * @see #ColorStateListItem_android_color
      * @see #ColorStateListItem_android_alpha
@@ -7912,12 +7900,12 @@ public final class R {
         0x010101a5, 0x0101031f, 0x7f020027
       };
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#alpha}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#alpha}
      * attribute's value can be found in the {@link #ColorStateListItem} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:alpha
+     * @attr name com.example.calculator:alpha
      */
     public static final int ColorStateListItem_alpha=2;
     /**
@@ -7948,8 +7936,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTint com.example.lenovo.calculator:buttonTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTintMode com.example.lenovo.calculator:buttonTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTint com.example.calculator:buttonTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTintMode com.example.calculator:buttonTintMode}</code></td><td></td></tr>
      * </table>
      * @see #CompoundButton_android_button
      * @see #CompoundButton_buttonTint
@@ -7971,18 +7959,18 @@ public final class R {
      */
     public static final int CompoundButton_android_button=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#buttonTint}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#buttonTint}
      * attribute's value can be found in the {@link #CompoundButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:buttonTint
+     * @attr name com.example.calculator:buttonTint
      */
     public static final int CompoundButton_buttonTint=1;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#buttonTintMode}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#buttonTintMode}
      * attribute's value can be found in the {@link #CompoundButton} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -7999,7 +7987,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:buttonTintMode
+     * @attr name com.example.calculator:buttonTintMode
      */
     public static final int CompoundButton_buttonTintMode=2;
     /**
@@ -8036,89 +8024,89 @@ public final class R {
      * <tr><td><code>{@link #Constraint_android_layout_marginEnd android:layout_marginEnd}</code></td><td></td></tr>
      * <tr><td><code>{@link #Constraint_android_translationZ android:translationZ}</code></td><td></td></tr>
      * <tr><td><code>{@link #Constraint_android_elevation android:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_animate_relativeTo com.example.lenovo.calculator:animate_relativeTo}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_barrierAllowsGoneWidgets com.example.lenovo.calculator:barrierAllowsGoneWidgets}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_barrierDirection com.example.lenovo.calculator:barrierDirection}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_barrierMargin com.example.lenovo.calculator:barrierMargin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_chainUseRtl com.example.lenovo.calculator:chainUseRtl}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_constraint_referenced_ids com.example.lenovo.calculator:constraint_referenced_ids}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_constraint_referenced_tags com.example.lenovo.calculator:constraint_referenced_tags}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_drawPath com.example.lenovo.calculator:drawPath}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_flow_firstHorizontalBias com.example.lenovo.calculator:flow_firstHorizontalBias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_flow_firstHorizontalStyle com.example.lenovo.calculator:flow_firstHorizontalStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_flow_firstVerticalBias com.example.lenovo.calculator:flow_firstVerticalBias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_flow_firstVerticalStyle com.example.lenovo.calculator:flow_firstVerticalStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_flow_horizontalAlign com.example.lenovo.calculator:flow_horizontalAlign}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_flow_horizontalBias com.example.lenovo.calculator:flow_horizontalBias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_flow_horizontalGap com.example.lenovo.calculator:flow_horizontalGap}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_flow_horizontalStyle com.example.lenovo.calculator:flow_horizontalStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_flow_lastHorizontalBias com.example.lenovo.calculator:flow_lastHorizontalBias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_flow_lastHorizontalStyle com.example.lenovo.calculator:flow_lastHorizontalStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_flow_lastVerticalBias com.example.lenovo.calculator:flow_lastVerticalBias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_flow_lastVerticalStyle com.example.lenovo.calculator:flow_lastVerticalStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_flow_maxElementsWrap com.example.lenovo.calculator:flow_maxElementsWrap}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_flow_verticalAlign com.example.lenovo.calculator:flow_verticalAlign}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_flow_verticalBias com.example.lenovo.calculator:flow_verticalBias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_flow_verticalGap com.example.lenovo.calculator:flow_verticalGap}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_flow_verticalStyle com.example.lenovo.calculator:flow_verticalStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_flow_wrapMode com.example.lenovo.calculator:flow_wrapMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constrainedHeight com.example.lenovo.calculator:layout_constrainedHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constrainedWidth com.example.lenovo.calculator:layout_constrainedWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintBaseline_creator com.example.lenovo.calculator:layout_constraintBaseline_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintBaseline_toBaselineOf com.example.lenovo.calculator:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintBottom_creator com.example.lenovo.calculator:layout_constraintBottom_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintBottom_toBottomOf com.example.lenovo.calculator:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintBottom_toTopOf com.example.lenovo.calculator:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintCircle com.example.lenovo.calculator:layout_constraintCircle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintCircleAngle com.example.lenovo.calculator:layout_constraintCircleAngle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintCircleRadius com.example.lenovo.calculator:layout_constraintCircleRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintDimensionRatio com.example.lenovo.calculator:layout_constraintDimensionRatio}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintEnd_toEndOf com.example.lenovo.calculator:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintEnd_toStartOf com.example.lenovo.calculator:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintGuide_begin com.example.lenovo.calculator:layout_constraintGuide_begin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintGuide_end com.example.lenovo.calculator:layout_constraintGuide_end}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintGuide_percent com.example.lenovo.calculator:layout_constraintGuide_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintHeight_default com.example.lenovo.calculator:layout_constraintHeight_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintHeight_max com.example.lenovo.calculator:layout_constraintHeight_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintHeight_min com.example.lenovo.calculator:layout_constraintHeight_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintHeight_percent com.example.lenovo.calculator:layout_constraintHeight_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintHorizontal_bias com.example.lenovo.calculator:layout_constraintHorizontal_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintHorizontal_chainStyle com.example.lenovo.calculator:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintHorizontal_weight com.example.lenovo.calculator:layout_constraintHorizontal_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintLeft_creator com.example.lenovo.calculator:layout_constraintLeft_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintLeft_toLeftOf com.example.lenovo.calculator:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintLeft_toRightOf com.example.lenovo.calculator:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintRight_creator com.example.lenovo.calculator:layout_constraintRight_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintRight_toLeftOf com.example.lenovo.calculator:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintRight_toRightOf com.example.lenovo.calculator:layout_constraintRight_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintStart_toEndOf com.example.lenovo.calculator:layout_constraintStart_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintStart_toStartOf com.example.lenovo.calculator:layout_constraintStart_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintTag com.example.lenovo.calculator:layout_constraintTag}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintTop_creator com.example.lenovo.calculator:layout_constraintTop_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintTop_toBottomOf com.example.lenovo.calculator:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintTop_toTopOf com.example.lenovo.calculator:layout_constraintTop_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintVertical_bias com.example.lenovo.calculator:layout_constraintVertical_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintVertical_chainStyle com.example.lenovo.calculator:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintVertical_weight com.example.lenovo.calculator:layout_constraintVertical_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintWidth_default com.example.lenovo.calculator:layout_constraintWidth_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintWidth_max com.example.lenovo.calculator:layout_constraintWidth_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintWidth_min com.example.lenovo.calculator:layout_constraintWidth_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintWidth_percent com.example.lenovo.calculator:layout_constraintWidth_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_editor_absoluteX com.example.lenovo.calculator:layout_editor_absoluteX}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_editor_absoluteY com.example.lenovo.calculator:layout_editor_absoluteY}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_goneMarginBottom com.example.lenovo.calculator:layout_goneMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_goneMarginEnd com.example.lenovo.calculator:layout_goneMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_goneMarginLeft com.example.lenovo.calculator:layout_goneMarginLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_goneMarginRight com.example.lenovo.calculator:layout_goneMarginRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_goneMarginStart com.example.lenovo.calculator:layout_goneMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_goneMarginTop com.example.lenovo.calculator:layout_goneMarginTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_motionProgress com.example.lenovo.calculator:motionProgress}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_motionStagger com.example.lenovo.calculator:motionStagger}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_pathMotionArc com.example.lenovo.calculator:pathMotionArc}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_pivotAnchor com.example.lenovo.calculator:pivotAnchor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_transitionEasing com.example.lenovo.calculator:transitionEasing}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_transitionPathRotate com.example.lenovo.calculator:transitionPathRotate}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_visibilityMode com.example.lenovo.calculator:visibilityMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_animate_relativeTo com.example.calculator:animate_relativeTo}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_barrierAllowsGoneWidgets com.example.calculator:barrierAllowsGoneWidgets}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_barrierDirection com.example.calculator:barrierDirection}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_barrierMargin com.example.calculator:barrierMargin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_chainUseRtl com.example.calculator:chainUseRtl}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_constraint_referenced_ids com.example.calculator:constraint_referenced_ids}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_constraint_referenced_tags com.example.calculator:constraint_referenced_tags}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_drawPath com.example.calculator:drawPath}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_flow_firstHorizontalBias com.example.calculator:flow_firstHorizontalBias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_flow_firstHorizontalStyle com.example.calculator:flow_firstHorizontalStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_flow_firstVerticalBias com.example.calculator:flow_firstVerticalBias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_flow_firstVerticalStyle com.example.calculator:flow_firstVerticalStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_flow_horizontalAlign com.example.calculator:flow_horizontalAlign}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_flow_horizontalBias com.example.calculator:flow_horizontalBias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_flow_horizontalGap com.example.calculator:flow_horizontalGap}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_flow_horizontalStyle com.example.calculator:flow_horizontalStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_flow_lastHorizontalBias com.example.calculator:flow_lastHorizontalBias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_flow_lastHorizontalStyle com.example.calculator:flow_lastHorizontalStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_flow_lastVerticalBias com.example.calculator:flow_lastVerticalBias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_flow_lastVerticalStyle com.example.calculator:flow_lastVerticalStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_flow_maxElementsWrap com.example.calculator:flow_maxElementsWrap}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_flow_verticalAlign com.example.calculator:flow_verticalAlign}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_flow_verticalBias com.example.calculator:flow_verticalBias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_flow_verticalGap com.example.calculator:flow_verticalGap}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_flow_verticalStyle com.example.calculator:flow_verticalStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_flow_wrapMode com.example.calculator:flow_wrapMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constrainedHeight com.example.calculator:layout_constrainedHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constrainedWidth com.example.calculator:layout_constrainedWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintBaseline_creator com.example.calculator:layout_constraintBaseline_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintBaseline_toBaselineOf com.example.calculator:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintBottom_creator com.example.calculator:layout_constraintBottom_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintBottom_toBottomOf com.example.calculator:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintBottom_toTopOf com.example.calculator:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintCircle com.example.calculator:layout_constraintCircle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintCircleAngle com.example.calculator:layout_constraintCircleAngle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintCircleRadius com.example.calculator:layout_constraintCircleRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintDimensionRatio com.example.calculator:layout_constraintDimensionRatio}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintEnd_toEndOf com.example.calculator:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintEnd_toStartOf com.example.calculator:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintGuide_begin com.example.calculator:layout_constraintGuide_begin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintGuide_end com.example.calculator:layout_constraintGuide_end}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintGuide_percent com.example.calculator:layout_constraintGuide_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintHeight_default com.example.calculator:layout_constraintHeight_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintHeight_max com.example.calculator:layout_constraintHeight_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintHeight_min com.example.calculator:layout_constraintHeight_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintHeight_percent com.example.calculator:layout_constraintHeight_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintHorizontal_bias com.example.calculator:layout_constraintHorizontal_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintHorizontal_chainStyle com.example.calculator:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintHorizontal_weight com.example.calculator:layout_constraintHorizontal_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintLeft_creator com.example.calculator:layout_constraintLeft_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintLeft_toLeftOf com.example.calculator:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintLeft_toRightOf com.example.calculator:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintRight_creator com.example.calculator:layout_constraintRight_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintRight_toLeftOf com.example.calculator:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintRight_toRightOf com.example.calculator:layout_constraintRight_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintStart_toEndOf com.example.calculator:layout_constraintStart_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintStart_toStartOf com.example.calculator:layout_constraintStart_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintTag com.example.calculator:layout_constraintTag}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintTop_creator com.example.calculator:layout_constraintTop_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintTop_toBottomOf com.example.calculator:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintTop_toTopOf com.example.calculator:layout_constraintTop_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintVertical_bias com.example.calculator:layout_constraintVertical_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintVertical_chainStyle com.example.calculator:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintVertical_weight com.example.calculator:layout_constraintVertical_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintWidth_default com.example.calculator:layout_constraintWidth_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintWidth_max com.example.calculator:layout_constraintWidth_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintWidth_min com.example.calculator:layout_constraintWidth_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintWidth_percent com.example.calculator:layout_constraintWidth_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_editor_absoluteX com.example.calculator:layout_editor_absoluteX}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_editor_absoluteY com.example.calculator:layout_editor_absoluteY}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_goneMarginBottom com.example.calculator:layout_goneMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_goneMarginEnd com.example.calculator:layout_goneMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_goneMarginLeft com.example.calculator:layout_goneMarginLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_goneMarginRight com.example.calculator:layout_goneMarginRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_goneMarginStart com.example.calculator:layout_goneMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_goneMarginTop com.example.calculator:layout_goneMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_motionProgress com.example.calculator:motionProgress}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_motionStagger com.example.calculator:motionStagger}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_pathMotionArc com.example.calculator:pathMotionArc}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_pivotAnchor com.example.calculator:pivotAnchor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_transitionEasing com.example.calculator:transitionEasing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_transitionPathRotate com.example.calculator:transitionPathRotate}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_visibilityMode com.example.calculator:visibilityMode}</code></td><td></td></tr>
      * </table>
      * @see #Constraint_android_orientation
      * @see #Constraint_android_id
@@ -8282,83 +8270,83 @@ public final class R {
      * <tr><td><code>{@link #ConstraintLayout_Layout_android_paddingStart android:paddingStart}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintLayout_Layout_android_paddingEnd android:paddingEnd}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintLayout_Layout_android_elevation android:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierAllowsGoneWidgets com.example.lenovo.calculator:barrierAllowsGoneWidgets}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierDirection com.example.lenovo.calculator:barrierDirection}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierMargin com.example.lenovo.calculator:barrierMargin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_chainUseRtl com.example.lenovo.calculator:chainUseRtl}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_constraintSet com.example.lenovo.calculator:constraintSet}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_constraint_referenced_ids com.example.lenovo.calculator:constraint_referenced_ids}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_constraint_referenced_tags com.example.lenovo.calculator:constraint_referenced_tags}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_firstHorizontalBias com.example.lenovo.calculator:flow_firstHorizontalBias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_firstHorizontalStyle com.example.lenovo.calculator:flow_firstHorizontalStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_firstVerticalBias com.example.lenovo.calculator:flow_firstVerticalBias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_firstVerticalStyle com.example.lenovo.calculator:flow_firstVerticalStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_horizontalAlign com.example.lenovo.calculator:flow_horizontalAlign}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_horizontalBias com.example.lenovo.calculator:flow_horizontalBias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_horizontalGap com.example.lenovo.calculator:flow_horizontalGap}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_horizontalStyle com.example.lenovo.calculator:flow_horizontalStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_lastHorizontalBias com.example.lenovo.calculator:flow_lastHorizontalBias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_lastHorizontalStyle com.example.lenovo.calculator:flow_lastHorizontalStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_lastVerticalBias com.example.lenovo.calculator:flow_lastVerticalBias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_lastVerticalStyle com.example.lenovo.calculator:flow_lastVerticalStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_maxElementsWrap com.example.lenovo.calculator:flow_maxElementsWrap}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_verticalAlign com.example.lenovo.calculator:flow_verticalAlign}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_verticalBias com.example.lenovo.calculator:flow_verticalBias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_verticalGap com.example.lenovo.calculator:flow_verticalGap}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_verticalStyle com.example.lenovo.calculator:flow_verticalStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_wrapMode com.example.lenovo.calculator:flow_wrapMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layoutDescription com.example.lenovo.calculator:layoutDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constrainedHeight com.example.lenovo.calculator:layout_constrainedHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constrainedWidth com.example.lenovo.calculator:layout_constrainedWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_creator com.example.lenovo.calculator:layout_constraintBaseline_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf com.example.lenovo.calculator:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_creator com.example.lenovo.calculator:layout_constraintBottom_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toBottomOf com.example.lenovo.calculator:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toTopOf com.example.lenovo.calculator:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircle com.example.lenovo.calculator:layout_constraintCircle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircleAngle com.example.lenovo.calculator:layout_constraintCircleAngle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircleRadius com.example.lenovo.calculator:layout_constraintCircleRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintDimensionRatio com.example.lenovo.calculator:layout_constraintDimensionRatio}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toEndOf com.example.lenovo.calculator:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toStartOf com.example.lenovo.calculator:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_begin com.example.lenovo.calculator:layout_constraintGuide_begin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_end com.example.lenovo.calculator:layout_constraintGuide_end}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_percent com.example.lenovo.calculator:layout_constraintGuide_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_default com.example.lenovo.calculator:layout_constraintHeight_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_max com.example.lenovo.calculator:layout_constraintHeight_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_min com.example.lenovo.calculator:layout_constraintHeight_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_percent com.example.lenovo.calculator:layout_constraintHeight_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_bias com.example.lenovo.calculator:layout_constraintHorizontal_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle com.example.lenovo.calculator:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_weight com.example.lenovo.calculator:layout_constraintHorizontal_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_creator com.example.lenovo.calculator:layout_constraintLeft_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toLeftOf com.example.lenovo.calculator:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toRightOf com.example.lenovo.calculator:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_creator com.example.lenovo.calculator:layout_constraintRight_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toLeftOf com.example.lenovo.calculator:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toRightOf com.example.lenovo.calculator:layout_constraintRight_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toEndOf com.example.lenovo.calculator:layout_constraintStart_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toStartOf com.example.lenovo.calculator:layout_constraintStart_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTag com.example.lenovo.calculator:layout_constraintTag}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_creator com.example.lenovo.calculator:layout_constraintTop_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toBottomOf com.example.lenovo.calculator:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toTopOf com.example.lenovo.calculator:layout_constraintTop_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_bias com.example.lenovo.calculator:layout_constraintVertical_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_chainStyle com.example.lenovo.calculator:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_weight com.example.lenovo.calculator:layout_constraintVertical_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_default com.example.lenovo.calculator:layout_constraintWidth_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_max com.example.lenovo.calculator:layout_constraintWidth_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_min com.example.lenovo.calculator:layout_constraintWidth_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_percent com.example.lenovo.calculator:layout_constraintWidth_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteX com.example.lenovo.calculator:layout_editor_absoluteX}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteY com.example.lenovo.calculator:layout_editor_absoluteY}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginBottom com.example.lenovo.calculator:layout_goneMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginEnd com.example.lenovo.calculator:layout_goneMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginLeft com.example.lenovo.calculator:layout_goneMarginLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginRight com.example.lenovo.calculator:layout_goneMarginRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginStart com.example.lenovo.calculator:layout_goneMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginTop com.example.lenovo.calculator:layout_goneMarginTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_optimizationLevel com.example.lenovo.calculator:layout_optimizationLevel}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierAllowsGoneWidgets com.example.calculator:barrierAllowsGoneWidgets}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierDirection com.example.calculator:barrierDirection}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierMargin com.example.calculator:barrierMargin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_chainUseRtl com.example.calculator:chainUseRtl}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_constraintSet com.example.calculator:constraintSet}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_constraint_referenced_ids com.example.calculator:constraint_referenced_ids}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_constraint_referenced_tags com.example.calculator:constraint_referenced_tags}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_firstHorizontalBias com.example.calculator:flow_firstHorizontalBias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_firstHorizontalStyle com.example.calculator:flow_firstHorizontalStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_firstVerticalBias com.example.calculator:flow_firstVerticalBias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_firstVerticalStyle com.example.calculator:flow_firstVerticalStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_horizontalAlign com.example.calculator:flow_horizontalAlign}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_horizontalBias com.example.calculator:flow_horizontalBias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_horizontalGap com.example.calculator:flow_horizontalGap}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_horizontalStyle com.example.calculator:flow_horizontalStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_lastHorizontalBias com.example.calculator:flow_lastHorizontalBias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_lastHorizontalStyle com.example.calculator:flow_lastHorizontalStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_lastVerticalBias com.example.calculator:flow_lastVerticalBias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_lastVerticalStyle com.example.calculator:flow_lastVerticalStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_maxElementsWrap com.example.calculator:flow_maxElementsWrap}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_verticalAlign com.example.calculator:flow_verticalAlign}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_verticalBias com.example.calculator:flow_verticalBias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_verticalGap com.example.calculator:flow_verticalGap}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_verticalStyle com.example.calculator:flow_verticalStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_wrapMode com.example.calculator:flow_wrapMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layoutDescription com.example.calculator:layoutDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constrainedHeight com.example.calculator:layout_constrainedHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constrainedWidth com.example.calculator:layout_constrainedWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_creator com.example.calculator:layout_constraintBaseline_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf com.example.calculator:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_creator com.example.calculator:layout_constraintBottom_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toBottomOf com.example.calculator:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toTopOf com.example.calculator:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircle com.example.calculator:layout_constraintCircle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircleAngle com.example.calculator:layout_constraintCircleAngle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircleRadius com.example.calculator:layout_constraintCircleRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintDimensionRatio com.example.calculator:layout_constraintDimensionRatio}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toEndOf com.example.calculator:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toStartOf com.example.calculator:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_begin com.example.calculator:layout_constraintGuide_begin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_end com.example.calculator:layout_constraintGuide_end}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_percent com.example.calculator:layout_constraintGuide_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_default com.example.calculator:layout_constraintHeight_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_max com.example.calculator:layout_constraintHeight_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_min com.example.calculator:layout_constraintHeight_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_percent com.example.calculator:layout_constraintHeight_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_bias com.example.calculator:layout_constraintHorizontal_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle com.example.calculator:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_weight com.example.calculator:layout_constraintHorizontal_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_creator com.example.calculator:layout_constraintLeft_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toLeftOf com.example.calculator:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toRightOf com.example.calculator:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_creator com.example.calculator:layout_constraintRight_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toLeftOf com.example.calculator:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toRightOf com.example.calculator:layout_constraintRight_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toEndOf com.example.calculator:layout_constraintStart_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toStartOf com.example.calculator:layout_constraintStart_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTag com.example.calculator:layout_constraintTag}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_creator com.example.calculator:layout_constraintTop_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toBottomOf com.example.calculator:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toTopOf com.example.calculator:layout_constraintTop_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_bias com.example.calculator:layout_constraintVertical_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_chainStyle com.example.calculator:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_weight com.example.calculator:layout_constraintVertical_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_default com.example.calculator:layout_constraintWidth_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_max com.example.calculator:layout_constraintWidth_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_min com.example.calculator:layout_constraintWidth_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_percent com.example.calculator:layout_constraintWidth_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteX com.example.calculator:layout_editor_absoluteX}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteY com.example.calculator:layout_editor_absoluteY}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginBottom com.example.calculator:layout_goneMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginEnd com.example.calculator:layout_goneMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginLeft com.example.calculator:layout_goneMarginLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginRight com.example.calculator:layout_goneMarginRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginStart com.example.calculator:layout_goneMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginTop com.example.calculator:layout_goneMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_optimizationLevel com.example.calculator:layout_optimizationLevel}</code></td><td></td></tr>
      * </table>
      * @see #ConstraintLayout_Layout_android_orientation
      * @see #ConstraintLayout_Layout_android_padding
@@ -8669,17 +8657,17 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_android_visibility=6;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#barrierAllowsGoneWidgets}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#barrierAllowsGoneWidgets}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.lenovo.calculator:barrierAllowsGoneWidgets
+     * @attr name com.example.calculator:barrierAllowsGoneWidgets
      */
     public static final int ConstraintLayout_Layout_barrierAllowsGoneWidgets=14;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#barrierDirection}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#barrierDirection}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8696,11 +8684,11 @@ public final class R {
      * <tr><td>top</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:barrierDirection
+     * @attr name com.example.calculator:barrierDirection
      */
     public static final int ConstraintLayout_Layout_barrierDirection=15;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#barrierMargin}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#barrierMargin}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8709,21 +8697,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:barrierMargin
+     * @attr name com.example.calculator:barrierMargin
      */
     public static final int ConstraintLayout_Layout_barrierMargin=16;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#chainUseRtl}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#chainUseRtl}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.lenovo.calculator:chainUseRtl
+     * @attr name com.example.calculator:chainUseRtl
      */
     public static final int ConstraintLayout_Layout_chainUseRtl=17;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#constraintSet}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#constraintSet}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8731,40 +8719,40 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:constraintSet
+     * @attr name com.example.calculator:constraintSet
      */
     public static final int ConstraintLayout_Layout_constraintSet=18;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#constraint_referenced_ids}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#constraint_referenced_ids}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.example.lenovo.calculator:constraint_referenced_ids
+     * @attr name com.example.calculator:constraint_referenced_ids
      */
     public static final int ConstraintLayout_Layout_constraint_referenced_ids=19;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#constraint_referenced_tags}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#constraint_referenced_tags}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.example.lenovo.calculator:constraint_referenced_tags
+     * @attr name com.example.calculator:constraint_referenced_tags
      */
     public static final int ConstraintLayout_Layout_constraint_referenced_tags=20;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#flow_firstHorizontalBias}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#flow_firstHorizontalBias}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:flow_firstHorizontalBias
+     * @attr name com.example.calculator:flow_firstHorizontalBias
      */
     public static final int ConstraintLayout_Layout_flow_firstHorizontalBias=21;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#flow_firstHorizontalStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#flow_firstHorizontalStyle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8778,20 +8766,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:flow_firstHorizontalStyle
+     * @attr name com.example.calculator:flow_firstHorizontalStyle
      */
     public static final int ConstraintLayout_Layout_flow_firstHorizontalStyle=22;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#flow_firstVerticalBias}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#flow_firstVerticalBias}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:flow_firstVerticalBias
+     * @attr name com.example.calculator:flow_firstVerticalBias
      */
     public static final int ConstraintLayout_Layout_flow_firstVerticalBias=23;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#flow_firstVerticalStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#flow_firstVerticalStyle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8805,11 +8793,11 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:flow_firstVerticalStyle
+     * @attr name com.example.calculator:flow_firstVerticalStyle
      */
     public static final int ConstraintLayout_Layout_flow_firstVerticalStyle=24;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#flow_horizontalAlign}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#flow_horizontalAlign}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8823,20 +8811,20 @@ public final class R {
      * <tr><td>start</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:flow_horizontalAlign
+     * @attr name com.example.calculator:flow_horizontalAlign
      */
     public static final int ConstraintLayout_Layout_flow_horizontalAlign=25;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#flow_horizontalBias}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#flow_horizontalBias}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:flow_horizontalBias
+     * @attr name com.example.calculator:flow_horizontalBias
      */
     public static final int ConstraintLayout_Layout_flow_horizontalBias=26;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#flow_horizontalGap}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#flow_horizontalGap}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8845,11 +8833,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:flow_horizontalGap
+     * @attr name com.example.calculator:flow_horizontalGap
      */
     public static final int ConstraintLayout_Layout_flow_horizontalGap=27;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#flow_horizontalStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#flow_horizontalStyle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8863,20 +8851,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:flow_horizontalStyle
+     * @attr name com.example.calculator:flow_horizontalStyle
      */
     public static final int ConstraintLayout_Layout_flow_horizontalStyle=28;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#flow_lastHorizontalBias}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#flow_lastHorizontalBias}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:flow_lastHorizontalBias
+     * @attr name com.example.calculator:flow_lastHorizontalBias
      */
     public static final int ConstraintLayout_Layout_flow_lastHorizontalBias=29;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#flow_lastHorizontalStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#flow_lastHorizontalStyle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8890,20 +8878,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:flow_lastHorizontalStyle
+     * @attr name com.example.calculator:flow_lastHorizontalStyle
      */
     public static final int ConstraintLayout_Layout_flow_lastHorizontalStyle=30;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#flow_lastVerticalBias}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#flow_lastVerticalBias}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:flow_lastVerticalBias
+     * @attr name com.example.calculator:flow_lastVerticalBias
      */
     public static final int ConstraintLayout_Layout_flow_lastVerticalBias=31;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#flow_lastVerticalStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#flow_lastVerticalStyle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8917,20 +8905,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:flow_lastVerticalStyle
+     * @attr name com.example.calculator:flow_lastVerticalStyle
      */
     public static final int ConstraintLayout_Layout_flow_lastVerticalStyle=32;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#flow_maxElementsWrap}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#flow_maxElementsWrap}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.example.lenovo.calculator:flow_maxElementsWrap
+     * @attr name com.example.calculator:flow_maxElementsWrap
      */
     public static final int ConstraintLayout_Layout_flow_maxElementsWrap=33;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#flow_verticalAlign}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#flow_verticalAlign}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8945,20 +8933,20 @@ public final class R {
      * <tr><td>top</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:flow_verticalAlign
+     * @attr name com.example.calculator:flow_verticalAlign
      */
     public static final int ConstraintLayout_Layout_flow_verticalAlign=34;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#flow_verticalBias}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#flow_verticalBias}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:flow_verticalBias
+     * @attr name com.example.calculator:flow_verticalBias
      */
     public static final int ConstraintLayout_Layout_flow_verticalBias=35;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#flow_verticalGap}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#flow_verticalGap}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8967,11 +8955,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:flow_verticalGap
+     * @attr name com.example.calculator:flow_verticalGap
      */
     public static final int ConstraintLayout_Layout_flow_verticalGap=36;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#flow_verticalStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#flow_verticalStyle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8985,11 +8973,11 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:flow_verticalStyle
+     * @attr name com.example.calculator:flow_verticalStyle
      */
     public static final int ConstraintLayout_Layout_flow_verticalStyle=37;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#flow_wrapMode}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#flow_wrapMode}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9003,11 +8991,11 @@ public final class R {
      * <tr><td>none</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:flow_wrapMode
+     * @attr name com.example.calculator:flow_wrapMode
      */
     public static final int ConstraintLayout_Layout_flow_wrapMode=38;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layoutDescription}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layoutDescription}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9015,40 +9003,40 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:layoutDescription
+     * @attr name com.example.calculator:layoutDescription
      */
     public static final int ConstraintLayout_Layout_layoutDescription=39;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constrainedHeight}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constrainedHeight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constrainedHeight
+     * @attr name com.example.calculator:layout_constrainedHeight
      */
     public static final int ConstraintLayout_Layout_layout_constrainedHeight=40;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constrainedWidth}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constrainedWidth}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constrainedWidth
+     * @attr name com.example.calculator:layout_constrainedWidth
      */
     public static final int ConstraintLayout_Layout_layout_constrainedWidth=41;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintBaseline_creator}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintBaseline_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintBaseline_creator
+     * @attr name com.example.calculator:layout_constraintBaseline_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintBaseline_creator=42;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintBaseline_toBaselineOf}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintBaseline_toBaselineOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9064,20 +9052,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintBaseline_toBaselineOf
+     * @attr name com.example.calculator:layout_constraintBaseline_toBaselineOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf=43;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintBottom_creator}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintBottom_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintBottom_creator
+     * @attr name com.example.calculator:layout_constraintBottom_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintBottom_creator=44;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintBottom_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintBottom_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9093,11 +9081,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintBottom_toBottomOf
+     * @attr name com.example.calculator:layout_constraintBottom_toBottomOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintBottom_toBottomOf=45;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintBottom_toTopOf}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintBottom_toTopOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9113,11 +9101,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintBottom_toTopOf
+     * @attr name com.example.calculator:layout_constraintBottom_toTopOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintBottom_toTopOf=46;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintCircle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintCircle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9125,20 +9113,20 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintCircle
+     * @attr name com.example.calculator:layout_constraintCircle
      */
     public static final int ConstraintLayout_Layout_layout_constraintCircle=47;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintCircleAngle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintCircleAngle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintCircleAngle
+     * @attr name com.example.calculator:layout_constraintCircleAngle
      */
     public static final int ConstraintLayout_Layout_layout_constraintCircleAngle=48;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintCircleRadius}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintCircleRadius}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9147,21 +9135,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintCircleRadius
+     * @attr name com.example.calculator:layout_constraintCircleRadius
      */
     public static final int ConstraintLayout_Layout_layout_constraintCircleRadius=49;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintDimensionRatio}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintDimensionRatio}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintDimensionRatio
+     * @attr name com.example.calculator:layout_constraintDimensionRatio
      */
     public static final int ConstraintLayout_Layout_layout_constraintDimensionRatio=50;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintEnd_toEndOf}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintEnd_toEndOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9177,11 +9165,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintEnd_toEndOf
+     * @attr name com.example.calculator:layout_constraintEnd_toEndOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintEnd_toEndOf=51;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintEnd_toStartOf}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintEnd_toStartOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9197,11 +9185,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintEnd_toStartOf
+     * @attr name com.example.calculator:layout_constraintEnd_toStartOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintEnd_toStartOf=52;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintGuide_begin}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintGuide_begin}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9210,11 +9198,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintGuide_begin
+     * @attr name com.example.calculator:layout_constraintGuide_begin
      */
     public static final int ConstraintLayout_Layout_layout_constraintGuide_begin=53;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintGuide_end}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintGuide_end}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9223,20 +9211,20 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintGuide_end
+     * @attr name com.example.calculator:layout_constraintGuide_end
      */
     public static final int ConstraintLayout_Layout_layout_constraintGuide_end=54;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintGuide_percent}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintGuide_percent}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintGuide_percent
+     * @attr name com.example.calculator:layout_constraintGuide_percent
      */
     public static final int ConstraintLayout_Layout_layout_constraintGuide_percent=55;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintHeight_default}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintHeight_default}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9250,11 +9238,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintHeight_default
+     * @attr name com.example.calculator:layout_constraintHeight_default
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_default=56;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintHeight_max}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintHeight_max}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9271,11 +9259,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintHeight_max
+     * @attr name com.example.calculator:layout_constraintHeight_max
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_max=57;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintHeight_min}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintHeight_min}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9292,29 +9280,29 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintHeight_min
+     * @attr name com.example.calculator:layout_constraintHeight_min
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_min=58;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintHeight_percent}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintHeight_percent}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintHeight_percent
+     * @attr name com.example.calculator:layout_constraintHeight_percent
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_percent=59;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintHorizontal_bias}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintHorizontal_bias}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintHorizontal_bias
+     * @attr name com.example.calculator:layout_constraintHorizontal_bias
      */
     public static final int ConstraintLayout_Layout_layout_constraintHorizontal_bias=60;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintHorizontal_chainStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintHorizontal_chainStyle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9328,29 +9316,29 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintHorizontal_chainStyle
+     * @attr name com.example.calculator:layout_constraintHorizontal_chainStyle
      */
     public static final int ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle=61;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintHorizontal_weight}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintHorizontal_weight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintHorizontal_weight
+     * @attr name com.example.calculator:layout_constraintHorizontal_weight
      */
     public static final int ConstraintLayout_Layout_layout_constraintHorizontal_weight=62;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintLeft_creator}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintLeft_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintLeft_creator
+     * @attr name com.example.calculator:layout_constraintLeft_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintLeft_creator=63;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintLeft_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintLeft_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9366,11 +9354,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintLeft_toLeftOf
+     * @attr name com.example.calculator:layout_constraintLeft_toLeftOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintLeft_toLeftOf=64;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintLeft_toRightOf}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintLeft_toRightOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9386,20 +9374,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintLeft_toRightOf
+     * @attr name com.example.calculator:layout_constraintLeft_toRightOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintLeft_toRightOf=65;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintRight_creator}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintRight_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintRight_creator
+     * @attr name com.example.calculator:layout_constraintRight_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintRight_creator=66;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintRight_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintRight_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9415,11 +9403,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintRight_toLeftOf
+     * @attr name com.example.calculator:layout_constraintRight_toLeftOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintRight_toLeftOf=67;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintRight_toRightOf}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintRight_toRightOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9435,11 +9423,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintRight_toRightOf
+     * @attr name com.example.calculator:layout_constraintRight_toRightOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintRight_toRightOf=68;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintStart_toEndOf}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintStart_toEndOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9455,11 +9443,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintStart_toEndOf
+     * @attr name com.example.calculator:layout_constraintStart_toEndOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintStart_toEndOf=69;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintStart_toStartOf}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintStart_toStartOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9475,30 +9463,30 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintStart_toStartOf
+     * @attr name com.example.calculator:layout_constraintStart_toStartOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintStart_toStartOf=70;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintTag}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintTag}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintTag
+     * @attr name com.example.calculator:layout_constraintTag
      */
     public static final int ConstraintLayout_Layout_layout_constraintTag=71;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintTop_creator}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintTop_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintTop_creator
+     * @attr name com.example.calculator:layout_constraintTop_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintTop_creator=72;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintTop_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintTop_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9514,11 +9502,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintTop_toBottomOf
+     * @attr name com.example.calculator:layout_constraintTop_toBottomOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintTop_toBottomOf=73;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintTop_toTopOf}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintTop_toTopOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9534,20 +9522,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintTop_toTopOf
+     * @attr name com.example.calculator:layout_constraintTop_toTopOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintTop_toTopOf=74;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintVertical_bias}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintVertical_bias}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintVertical_bias
+     * @attr name com.example.calculator:layout_constraintVertical_bias
      */
     public static final int ConstraintLayout_Layout_layout_constraintVertical_bias=75;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintVertical_chainStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintVertical_chainStyle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9561,20 +9549,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintVertical_chainStyle
+     * @attr name com.example.calculator:layout_constraintVertical_chainStyle
      */
     public static final int ConstraintLayout_Layout_layout_constraintVertical_chainStyle=76;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintVertical_weight}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintVertical_weight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintVertical_weight
+     * @attr name com.example.calculator:layout_constraintVertical_weight
      */
     public static final int ConstraintLayout_Layout_layout_constraintVertical_weight=77;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintWidth_default}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintWidth_default}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9588,11 +9576,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintWidth_default
+     * @attr name com.example.calculator:layout_constraintWidth_default
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_default=78;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintWidth_max}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintWidth_max}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9609,11 +9597,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintWidth_max
+     * @attr name com.example.calculator:layout_constraintWidth_max
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_max=79;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintWidth_min}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintWidth_min}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9630,20 +9618,20 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintWidth_min
+     * @attr name com.example.calculator:layout_constraintWidth_min
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_min=80;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintWidth_percent}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintWidth_percent}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintWidth_percent
+     * @attr name com.example.calculator:layout_constraintWidth_percent
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_percent=81;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_editor_absoluteX}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_editor_absoluteX}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9652,11 +9640,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:layout_editor_absoluteX
+     * @attr name com.example.calculator:layout_editor_absoluteX
      */
     public static final int ConstraintLayout_Layout_layout_editor_absoluteX=82;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_editor_absoluteY}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_editor_absoluteY}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9665,11 +9653,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:layout_editor_absoluteY
+     * @attr name com.example.calculator:layout_editor_absoluteY
      */
     public static final int ConstraintLayout_Layout_layout_editor_absoluteY=83;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_goneMarginBottom}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_goneMarginBottom}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9678,11 +9666,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:layout_goneMarginBottom
+     * @attr name com.example.calculator:layout_goneMarginBottom
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginBottom=84;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_goneMarginEnd}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_goneMarginEnd}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9691,11 +9679,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:layout_goneMarginEnd
+     * @attr name com.example.calculator:layout_goneMarginEnd
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginEnd=85;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_goneMarginLeft}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_goneMarginLeft}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9704,11 +9692,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:layout_goneMarginLeft
+     * @attr name com.example.calculator:layout_goneMarginLeft
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginLeft=86;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_goneMarginRight}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_goneMarginRight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9717,11 +9705,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:layout_goneMarginRight
+     * @attr name com.example.calculator:layout_goneMarginRight
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginRight=87;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_goneMarginStart}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_goneMarginStart}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9730,11 +9718,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:layout_goneMarginStart
+     * @attr name com.example.calculator:layout_goneMarginStart
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginStart=88;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_goneMarginTop}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_goneMarginTop}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9743,11 +9731,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:layout_goneMarginTop
+     * @attr name com.example.calculator:layout_goneMarginTop
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginTop=89;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_optimizationLevel}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_optimizationLevel}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -9771,7 +9759,7 @@ public final class R {
      * <tr><td>standard</td><td>101</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_optimizationLevel
+     * @attr name com.example.calculator:layout_optimizationLevel
      */
     public static final int ConstraintLayout_Layout_layout_optimizationLevel=90;
     /**
@@ -9781,8 +9769,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ConstraintLayout_placeholder_content com.example.lenovo.calculator:content}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_placeholder_placeholder_emptyVisibility com.example.lenovo.calculator:placeholder_emptyVisibility}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_placeholder_content com.example.calculator:content}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_placeholder_placeholder_emptyVisibility com.example.calculator:placeholder_emptyVisibility}</code></td><td></td></tr>
      * </table>
      * @see #ConstraintLayout_placeholder_content
      * @see #ConstraintLayout_placeholder_placeholder_emptyVisibility
@@ -9791,7 +9779,7 @@ public final class R {
         0x7f020069, 0x7f02014d
       };
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#content}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#content}
      * attribute's value can be found in the {@link #ConstraintLayout_placeholder} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9799,11 +9787,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:content
+     * @attr name com.example.calculator:content
      */
     public static final int ConstraintLayout_placeholder_content=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#placeholder_emptyVisibility}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#placeholder_emptyVisibility}
      * attribute's value can be found in the {@link #ConstraintLayout_placeholder} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9817,7 +9805,7 @@ public final class R {
      * <tr><td>visible</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:placeholder_emptyVisibility
+     * @attr name com.example.calculator:placeholder_emptyVisibility
      */
     public static final int ConstraintLayout_placeholder_placeholder_emptyVisibility=1;
     /**
@@ -9856,89 +9844,89 @@ public final class R {
      * <tr><td><code>{@link #ConstraintSet_android_layout_marginEnd android:layout_marginEnd}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintSet_android_translationZ android:translationZ}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintSet_android_elevation android:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_animate_relativeTo com.example.lenovo.calculator:animate_relativeTo}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_barrierAllowsGoneWidgets com.example.lenovo.calculator:barrierAllowsGoneWidgets}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_barrierDirection com.example.lenovo.calculator:barrierDirection}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_barrierMargin com.example.lenovo.calculator:barrierMargin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_chainUseRtl com.example.lenovo.calculator:chainUseRtl}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_constraint_referenced_ids com.example.lenovo.calculator:constraint_referenced_ids}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_constraint_referenced_tags com.example.lenovo.calculator:constraint_referenced_tags}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_deriveConstraintsFrom com.example.lenovo.calculator:deriveConstraintsFrom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_drawPath com.example.lenovo.calculator:drawPath}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_flow_firstHorizontalBias com.example.lenovo.calculator:flow_firstHorizontalBias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_flow_firstHorizontalStyle com.example.lenovo.calculator:flow_firstHorizontalStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_flow_firstVerticalBias com.example.lenovo.calculator:flow_firstVerticalBias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_flow_firstVerticalStyle com.example.lenovo.calculator:flow_firstVerticalStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_flow_horizontalAlign com.example.lenovo.calculator:flow_horizontalAlign}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_flow_horizontalBias com.example.lenovo.calculator:flow_horizontalBias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_flow_horizontalGap com.example.lenovo.calculator:flow_horizontalGap}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_flow_horizontalStyle com.example.lenovo.calculator:flow_horizontalStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_flow_lastHorizontalBias com.example.lenovo.calculator:flow_lastHorizontalBias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_flow_lastHorizontalStyle com.example.lenovo.calculator:flow_lastHorizontalStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_flow_lastVerticalBias com.example.lenovo.calculator:flow_lastVerticalBias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_flow_lastVerticalStyle com.example.lenovo.calculator:flow_lastVerticalStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_flow_maxElementsWrap com.example.lenovo.calculator:flow_maxElementsWrap}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_flow_verticalAlign com.example.lenovo.calculator:flow_verticalAlign}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_flow_verticalBias com.example.lenovo.calculator:flow_verticalBias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_flow_verticalGap com.example.lenovo.calculator:flow_verticalGap}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_flow_verticalStyle com.example.lenovo.calculator:flow_verticalStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_flow_wrapMode com.example.lenovo.calculator:flow_wrapMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constrainedHeight com.example.lenovo.calculator:layout_constrainedHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constrainedWidth com.example.lenovo.calculator:layout_constrainedWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_creator com.example.lenovo.calculator:layout_constraintBaseline_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_toBaselineOf com.example.lenovo.calculator:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_creator com.example.lenovo.calculator:layout_constraintBottom_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toBottomOf com.example.lenovo.calculator:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toTopOf com.example.lenovo.calculator:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircle com.example.lenovo.calculator:layout_constraintCircle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircleAngle com.example.lenovo.calculator:layout_constraintCircleAngle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircleRadius com.example.lenovo.calculator:layout_constraintCircleRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintDimensionRatio com.example.lenovo.calculator:layout_constraintDimensionRatio}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toEndOf com.example.lenovo.calculator:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toStartOf com.example.lenovo.calculator:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_begin com.example.lenovo.calculator:layout_constraintGuide_begin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_end com.example.lenovo.calculator:layout_constraintGuide_end}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_percent com.example.lenovo.calculator:layout_constraintGuide_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_default com.example.lenovo.calculator:layout_constraintHeight_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_max com.example.lenovo.calculator:layout_constraintHeight_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_min com.example.lenovo.calculator:layout_constraintHeight_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_percent com.example.lenovo.calculator:layout_constraintHeight_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_bias com.example.lenovo.calculator:layout_constraintHorizontal_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_chainStyle com.example.lenovo.calculator:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_weight com.example.lenovo.calculator:layout_constraintHorizontal_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_creator com.example.lenovo.calculator:layout_constraintLeft_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toLeftOf com.example.lenovo.calculator:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toRightOf com.example.lenovo.calculator:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_creator com.example.lenovo.calculator:layout_constraintRight_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toLeftOf com.example.lenovo.calculator:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toRightOf com.example.lenovo.calculator:layout_constraintRight_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toEndOf com.example.lenovo.calculator:layout_constraintStart_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toStartOf com.example.lenovo.calculator:layout_constraintStart_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintTag com.example.lenovo.calculator:layout_constraintTag}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_creator com.example.lenovo.calculator:layout_constraintTop_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toBottomOf com.example.lenovo.calculator:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toTopOf com.example.lenovo.calculator:layout_constraintTop_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_bias com.example.lenovo.calculator:layout_constraintVertical_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_chainStyle com.example.lenovo.calculator:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_weight com.example.lenovo.calculator:layout_constraintVertical_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_default com.example.lenovo.calculator:layout_constraintWidth_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_max com.example.lenovo.calculator:layout_constraintWidth_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_min com.example.lenovo.calculator:layout_constraintWidth_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_percent com.example.lenovo.calculator:layout_constraintWidth_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteX com.example.lenovo.calculator:layout_editor_absoluteX}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteY com.example.lenovo.calculator:layout_editor_absoluteY}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginBottom com.example.lenovo.calculator:layout_goneMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginEnd com.example.lenovo.calculator:layout_goneMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginLeft com.example.lenovo.calculator:layout_goneMarginLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginRight com.example.lenovo.calculator:layout_goneMarginRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginStart com.example.lenovo.calculator:layout_goneMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginTop com.example.lenovo.calculator:layout_goneMarginTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_motionProgress com.example.lenovo.calculator:motionProgress}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_motionStagger com.example.lenovo.calculator:motionStagger}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_pathMotionArc com.example.lenovo.calculator:pathMotionArc}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_pivotAnchor com.example.lenovo.calculator:pivotAnchor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_transitionEasing com.example.lenovo.calculator:transitionEasing}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_transitionPathRotate com.example.lenovo.calculator:transitionPathRotate}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_animate_relativeTo com.example.calculator:animate_relativeTo}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_barrierAllowsGoneWidgets com.example.calculator:barrierAllowsGoneWidgets}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_barrierDirection com.example.calculator:barrierDirection}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_barrierMargin com.example.calculator:barrierMargin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_chainUseRtl com.example.calculator:chainUseRtl}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_constraint_referenced_ids com.example.calculator:constraint_referenced_ids}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_constraint_referenced_tags com.example.calculator:constraint_referenced_tags}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_deriveConstraintsFrom com.example.calculator:deriveConstraintsFrom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_drawPath com.example.calculator:drawPath}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_flow_firstHorizontalBias com.example.calculator:flow_firstHorizontalBias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_flow_firstHorizontalStyle com.example.calculator:flow_firstHorizontalStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_flow_firstVerticalBias com.example.calculator:flow_firstVerticalBias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_flow_firstVerticalStyle com.example.calculator:flow_firstVerticalStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_flow_horizontalAlign com.example.calculator:flow_horizontalAlign}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_flow_horizontalBias com.example.calculator:flow_horizontalBias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_flow_horizontalGap com.example.calculator:flow_horizontalGap}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_flow_horizontalStyle com.example.calculator:flow_horizontalStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_flow_lastHorizontalBias com.example.calculator:flow_lastHorizontalBias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_flow_lastHorizontalStyle com.example.calculator:flow_lastHorizontalStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_flow_lastVerticalBias com.example.calculator:flow_lastVerticalBias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_flow_lastVerticalStyle com.example.calculator:flow_lastVerticalStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_flow_maxElementsWrap com.example.calculator:flow_maxElementsWrap}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_flow_verticalAlign com.example.calculator:flow_verticalAlign}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_flow_verticalBias com.example.calculator:flow_verticalBias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_flow_verticalGap com.example.calculator:flow_verticalGap}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_flow_verticalStyle com.example.calculator:flow_verticalStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_flow_wrapMode com.example.calculator:flow_wrapMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constrainedHeight com.example.calculator:layout_constrainedHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constrainedWidth com.example.calculator:layout_constrainedWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_creator com.example.calculator:layout_constraintBaseline_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_toBaselineOf com.example.calculator:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_creator com.example.calculator:layout_constraintBottom_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toBottomOf com.example.calculator:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toTopOf com.example.calculator:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircle com.example.calculator:layout_constraintCircle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircleAngle com.example.calculator:layout_constraintCircleAngle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircleRadius com.example.calculator:layout_constraintCircleRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintDimensionRatio com.example.calculator:layout_constraintDimensionRatio}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toEndOf com.example.calculator:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toStartOf com.example.calculator:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_begin com.example.calculator:layout_constraintGuide_begin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_end com.example.calculator:layout_constraintGuide_end}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_percent com.example.calculator:layout_constraintGuide_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_default com.example.calculator:layout_constraintHeight_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_max com.example.calculator:layout_constraintHeight_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_min com.example.calculator:layout_constraintHeight_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_percent com.example.calculator:layout_constraintHeight_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_bias com.example.calculator:layout_constraintHorizontal_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_chainStyle com.example.calculator:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_weight com.example.calculator:layout_constraintHorizontal_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_creator com.example.calculator:layout_constraintLeft_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toLeftOf com.example.calculator:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toRightOf com.example.calculator:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_creator com.example.calculator:layout_constraintRight_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toLeftOf com.example.calculator:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toRightOf com.example.calculator:layout_constraintRight_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toEndOf com.example.calculator:layout_constraintStart_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toStartOf com.example.calculator:layout_constraintStart_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintTag com.example.calculator:layout_constraintTag}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_creator com.example.calculator:layout_constraintTop_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toBottomOf com.example.calculator:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toTopOf com.example.calculator:layout_constraintTop_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_bias com.example.calculator:layout_constraintVertical_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_chainStyle com.example.calculator:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_weight com.example.calculator:layout_constraintVertical_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_default com.example.calculator:layout_constraintWidth_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_max com.example.calculator:layout_constraintWidth_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_min com.example.calculator:layout_constraintWidth_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_percent com.example.calculator:layout_constraintWidth_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteX com.example.calculator:layout_editor_absoluteX}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteY com.example.calculator:layout_editor_absoluteY}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginBottom com.example.calculator:layout_goneMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginEnd com.example.calculator:layout_goneMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginLeft com.example.calculator:layout_goneMarginLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginRight com.example.calculator:layout_goneMarginRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginStart com.example.calculator:layout_goneMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginTop com.example.calculator:layout_goneMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_motionProgress com.example.calculator:motionProgress}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_motionStagger com.example.calculator:motionStagger}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_pathMotionArc com.example.calculator:pathMotionArc}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_pivotAnchor com.example.calculator:pivotAnchor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_transitionEasing com.example.calculator:transitionEasing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_transitionPathRotate com.example.calculator:transitionPathRotate}</code></td><td></td></tr>
      * </table>
      * @see #ConstraintSet_android_orientation
      * @see #ConstraintSet_android_id
@@ -10465,7 +10453,7 @@ public final class R {
      */
     public static final int ConstraintSet_android_visibility=2;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#animate_relativeTo}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#animate_relativeTo}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10473,21 +10461,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:animate_relativeTo
+     * @attr name com.example.calculator:animate_relativeTo
      */
     public static final int ConstraintSet_animate_relativeTo=29;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#barrierAllowsGoneWidgets}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#barrierAllowsGoneWidgets}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.lenovo.calculator:barrierAllowsGoneWidgets
+     * @attr name com.example.calculator:barrierAllowsGoneWidgets
      */
     public static final int ConstraintSet_barrierAllowsGoneWidgets=30;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#barrierDirection}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#barrierDirection}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -10504,11 +10492,11 @@ public final class R {
      * <tr><td>top</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:barrierDirection
+     * @attr name com.example.calculator:barrierDirection
      */
     public static final int ConstraintSet_barrierDirection=31;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#barrierMargin}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#barrierMargin}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10517,41 +10505,41 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:barrierMargin
+     * @attr name com.example.calculator:barrierMargin
      */
     public static final int ConstraintSet_barrierMargin=32;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#chainUseRtl}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#chainUseRtl}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.lenovo.calculator:chainUseRtl
+     * @attr name com.example.calculator:chainUseRtl
      */
     public static final int ConstraintSet_chainUseRtl=33;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#constraint_referenced_ids}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#constraint_referenced_ids}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.example.lenovo.calculator:constraint_referenced_ids
+     * @attr name com.example.calculator:constraint_referenced_ids
      */
     public static final int ConstraintSet_constraint_referenced_ids=34;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#constraint_referenced_tags}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#constraint_referenced_tags}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.example.lenovo.calculator:constraint_referenced_tags
+     * @attr name com.example.calculator:constraint_referenced_tags
      */
     public static final int ConstraintSet_constraint_referenced_tags=35;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#deriveConstraintsFrom}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#deriveConstraintsFrom}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10559,11 +10547,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:deriveConstraintsFrom
+     * @attr name com.example.calculator:deriveConstraintsFrom
      */
     public static final int ConstraintSet_deriveConstraintsFrom=36;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#drawPath}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#drawPath}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -10580,20 +10568,20 @@ public final class R {
      * <tr><td>rectangles</td><td>5</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:drawPath
+     * @attr name com.example.calculator:drawPath
      */
     public static final int ConstraintSet_drawPath=37;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#flow_firstHorizontalBias}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#flow_firstHorizontalBias}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:flow_firstHorizontalBias
+     * @attr name com.example.calculator:flow_firstHorizontalBias
      */
     public static final int ConstraintSet_flow_firstHorizontalBias=38;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#flow_firstHorizontalStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#flow_firstHorizontalStyle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -10607,20 +10595,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:flow_firstHorizontalStyle
+     * @attr name com.example.calculator:flow_firstHorizontalStyle
      */
     public static final int ConstraintSet_flow_firstHorizontalStyle=39;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#flow_firstVerticalBias}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#flow_firstVerticalBias}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:flow_firstVerticalBias
+     * @attr name com.example.calculator:flow_firstVerticalBias
      */
     public static final int ConstraintSet_flow_firstVerticalBias=40;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#flow_firstVerticalStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#flow_firstVerticalStyle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -10634,11 +10622,11 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:flow_firstVerticalStyle
+     * @attr name com.example.calculator:flow_firstVerticalStyle
      */
     public static final int ConstraintSet_flow_firstVerticalStyle=41;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#flow_horizontalAlign}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#flow_horizontalAlign}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -10652,20 +10640,20 @@ public final class R {
      * <tr><td>start</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:flow_horizontalAlign
+     * @attr name com.example.calculator:flow_horizontalAlign
      */
     public static final int ConstraintSet_flow_horizontalAlign=42;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#flow_horizontalBias}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#flow_horizontalBias}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:flow_horizontalBias
+     * @attr name com.example.calculator:flow_horizontalBias
      */
     public static final int ConstraintSet_flow_horizontalBias=43;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#flow_horizontalGap}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#flow_horizontalGap}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10674,11 +10662,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:flow_horizontalGap
+     * @attr name com.example.calculator:flow_horizontalGap
      */
     public static final int ConstraintSet_flow_horizontalGap=44;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#flow_horizontalStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#flow_horizontalStyle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -10692,20 +10680,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:flow_horizontalStyle
+     * @attr name com.example.calculator:flow_horizontalStyle
      */
     public static final int ConstraintSet_flow_horizontalStyle=45;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#flow_lastHorizontalBias}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#flow_lastHorizontalBias}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:flow_lastHorizontalBias
+     * @attr name com.example.calculator:flow_lastHorizontalBias
      */
     public static final int ConstraintSet_flow_lastHorizontalBias=46;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#flow_lastHorizontalStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#flow_lastHorizontalStyle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -10719,20 +10707,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:flow_lastHorizontalStyle
+     * @attr name com.example.calculator:flow_lastHorizontalStyle
      */
     public static final int ConstraintSet_flow_lastHorizontalStyle=47;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#flow_lastVerticalBias}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#flow_lastVerticalBias}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:flow_lastVerticalBias
+     * @attr name com.example.calculator:flow_lastVerticalBias
      */
     public static final int ConstraintSet_flow_lastVerticalBias=48;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#flow_lastVerticalStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#flow_lastVerticalStyle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -10746,20 +10734,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:flow_lastVerticalStyle
+     * @attr name com.example.calculator:flow_lastVerticalStyle
      */
     public static final int ConstraintSet_flow_lastVerticalStyle=49;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#flow_maxElementsWrap}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#flow_maxElementsWrap}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.example.lenovo.calculator:flow_maxElementsWrap
+     * @attr name com.example.calculator:flow_maxElementsWrap
      */
     public static final int ConstraintSet_flow_maxElementsWrap=50;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#flow_verticalAlign}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#flow_verticalAlign}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -10774,20 +10762,20 @@ public final class R {
      * <tr><td>top</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:flow_verticalAlign
+     * @attr name com.example.calculator:flow_verticalAlign
      */
     public static final int ConstraintSet_flow_verticalAlign=51;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#flow_verticalBias}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#flow_verticalBias}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:flow_verticalBias
+     * @attr name com.example.calculator:flow_verticalBias
      */
     public static final int ConstraintSet_flow_verticalBias=52;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#flow_verticalGap}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#flow_verticalGap}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10796,11 +10784,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:flow_verticalGap
+     * @attr name com.example.calculator:flow_verticalGap
      */
     public static final int ConstraintSet_flow_verticalGap=53;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#flow_verticalStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#flow_verticalStyle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -10814,11 +10802,11 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:flow_verticalStyle
+     * @attr name com.example.calculator:flow_verticalStyle
      */
     public static final int ConstraintSet_flow_verticalStyle=54;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#flow_wrapMode}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#flow_wrapMode}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -10832,40 +10820,40 @@ public final class R {
      * <tr><td>none</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:flow_wrapMode
+     * @attr name com.example.calculator:flow_wrapMode
      */
     public static final int ConstraintSet_flow_wrapMode=55;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constrainedHeight}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constrainedHeight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constrainedHeight
+     * @attr name com.example.calculator:layout_constrainedHeight
      */
     public static final int ConstraintSet_layout_constrainedHeight=56;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constrainedWidth}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constrainedWidth}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constrainedWidth
+     * @attr name com.example.calculator:layout_constrainedWidth
      */
     public static final int ConstraintSet_layout_constrainedWidth=57;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintBaseline_creator}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintBaseline_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintBaseline_creator
+     * @attr name com.example.calculator:layout_constraintBaseline_creator
      */
     public static final int ConstraintSet_layout_constraintBaseline_creator=58;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintBaseline_toBaselineOf}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintBaseline_toBaselineOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10881,20 +10869,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintBaseline_toBaselineOf
+     * @attr name com.example.calculator:layout_constraintBaseline_toBaselineOf
      */
     public static final int ConstraintSet_layout_constraintBaseline_toBaselineOf=59;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintBottom_creator}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintBottom_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintBottom_creator
+     * @attr name com.example.calculator:layout_constraintBottom_creator
      */
     public static final int ConstraintSet_layout_constraintBottom_creator=60;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintBottom_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintBottom_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10910,11 +10898,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintBottom_toBottomOf
+     * @attr name com.example.calculator:layout_constraintBottom_toBottomOf
      */
     public static final int ConstraintSet_layout_constraintBottom_toBottomOf=61;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintBottom_toTopOf}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintBottom_toTopOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10930,11 +10918,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintBottom_toTopOf
+     * @attr name com.example.calculator:layout_constraintBottom_toTopOf
      */
     public static final int ConstraintSet_layout_constraintBottom_toTopOf=62;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintCircle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintCircle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10942,20 +10930,20 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintCircle
+     * @attr name com.example.calculator:layout_constraintCircle
      */
     public static final int ConstraintSet_layout_constraintCircle=63;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintCircleAngle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintCircleAngle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintCircleAngle
+     * @attr name com.example.calculator:layout_constraintCircleAngle
      */
     public static final int ConstraintSet_layout_constraintCircleAngle=64;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintCircleRadius}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintCircleRadius}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10964,21 +10952,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintCircleRadius
+     * @attr name com.example.calculator:layout_constraintCircleRadius
      */
     public static final int ConstraintSet_layout_constraintCircleRadius=65;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintDimensionRatio}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintDimensionRatio}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintDimensionRatio
+     * @attr name com.example.calculator:layout_constraintDimensionRatio
      */
     public static final int ConstraintSet_layout_constraintDimensionRatio=66;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintEnd_toEndOf}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintEnd_toEndOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10994,11 +10982,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintEnd_toEndOf
+     * @attr name com.example.calculator:layout_constraintEnd_toEndOf
      */
     public static final int ConstraintSet_layout_constraintEnd_toEndOf=67;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintEnd_toStartOf}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintEnd_toStartOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11014,11 +11002,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintEnd_toStartOf
+     * @attr name com.example.calculator:layout_constraintEnd_toStartOf
      */
     public static final int ConstraintSet_layout_constraintEnd_toStartOf=68;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintGuide_begin}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintGuide_begin}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11027,11 +11015,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintGuide_begin
+     * @attr name com.example.calculator:layout_constraintGuide_begin
      */
     public static final int ConstraintSet_layout_constraintGuide_begin=69;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintGuide_end}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintGuide_end}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11040,20 +11028,20 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintGuide_end
+     * @attr name com.example.calculator:layout_constraintGuide_end
      */
     public static final int ConstraintSet_layout_constraintGuide_end=70;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintGuide_percent}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintGuide_percent}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintGuide_percent
+     * @attr name com.example.calculator:layout_constraintGuide_percent
      */
     public static final int ConstraintSet_layout_constraintGuide_percent=71;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintHeight_default}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintHeight_default}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -11067,11 +11055,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintHeight_default
+     * @attr name com.example.calculator:layout_constraintHeight_default
      */
     public static final int ConstraintSet_layout_constraintHeight_default=72;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintHeight_max}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintHeight_max}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11088,11 +11076,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintHeight_max
+     * @attr name com.example.calculator:layout_constraintHeight_max
      */
     public static final int ConstraintSet_layout_constraintHeight_max=73;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintHeight_min}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintHeight_min}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11109,29 +11097,29 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintHeight_min
+     * @attr name com.example.calculator:layout_constraintHeight_min
      */
     public static final int ConstraintSet_layout_constraintHeight_min=74;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintHeight_percent}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintHeight_percent}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintHeight_percent
+     * @attr name com.example.calculator:layout_constraintHeight_percent
      */
     public static final int ConstraintSet_layout_constraintHeight_percent=75;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintHorizontal_bias}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintHorizontal_bias}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintHorizontal_bias
+     * @attr name com.example.calculator:layout_constraintHorizontal_bias
      */
     public static final int ConstraintSet_layout_constraintHorizontal_bias=76;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintHorizontal_chainStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintHorizontal_chainStyle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -11145,29 +11133,29 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintHorizontal_chainStyle
+     * @attr name com.example.calculator:layout_constraintHorizontal_chainStyle
      */
     public static final int ConstraintSet_layout_constraintHorizontal_chainStyle=77;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintHorizontal_weight}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintHorizontal_weight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintHorizontal_weight
+     * @attr name com.example.calculator:layout_constraintHorizontal_weight
      */
     public static final int ConstraintSet_layout_constraintHorizontal_weight=78;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintLeft_creator}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintLeft_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintLeft_creator
+     * @attr name com.example.calculator:layout_constraintLeft_creator
      */
     public static final int ConstraintSet_layout_constraintLeft_creator=79;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintLeft_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintLeft_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11183,11 +11171,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintLeft_toLeftOf
+     * @attr name com.example.calculator:layout_constraintLeft_toLeftOf
      */
     public static final int ConstraintSet_layout_constraintLeft_toLeftOf=80;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintLeft_toRightOf}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintLeft_toRightOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11203,20 +11191,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintLeft_toRightOf
+     * @attr name com.example.calculator:layout_constraintLeft_toRightOf
      */
     public static final int ConstraintSet_layout_constraintLeft_toRightOf=81;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintRight_creator}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintRight_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintRight_creator
+     * @attr name com.example.calculator:layout_constraintRight_creator
      */
     public static final int ConstraintSet_layout_constraintRight_creator=82;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintRight_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintRight_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11232,11 +11220,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintRight_toLeftOf
+     * @attr name com.example.calculator:layout_constraintRight_toLeftOf
      */
     public static final int ConstraintSet_layout_constraintRight_toLeftOf=83;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintRight_toRightOf}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintRight_toRightOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11252,11 +11240,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintRight_toRightOf
+     * @attr name com.example.calculator:layout_constraintRight_toRightOf
      */
     public static final int ConstraintSet_layout_constraintRight_toRightOf=84;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintStart_toEndOf}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintStart_toEndOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11272,11 +11260,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintStart_toEndOf
+     * @attr name com.example.calculator:layout_constraintStart_toEndOf
      */
     public static final int ConstraintSet_layout_constraintStart_toEndOf=85;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintStart_toStartOf}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintStart_toStartOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11292,30 +11280,30 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintStart_toStartOf
+     * @attr name com.example.calculator:layout_constraintStart_toStartOf
      */
     public static final int ConstraintSet_layout_constraintStart_toStartOf=86;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintTag}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintTag}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintTag
+     * @attr name com.example.calculator:layout_constraintTag
      */
     public static final int ConstraintSet_layout_constraintTag=87;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintTop_creator}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintTop_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintTop_creator
+     * @attr name com.example.calculator:layout_constraintTop_creator
      */
     public static final int ConstraintSet_layout_constraintTop_creator=88;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintTop_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintTop_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11331,11 +11319,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintTop_toBottomOf
+     * @attr name com.example.calculator:layout_constraintTop_toBottomOf
      */
     public static final int ConstraintSet_layout_constraintTop_toBottomOf=89;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintTop_toTopOf}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintTop_toTopOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11351,20 +11339,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintTop_toTopOf
+     * @attr name com.example.calculator:layout_constraintTop_toTopOf
      */
     public static final int ConstraintSet_layout_constraintTop_toTopOf=90;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintVertical_bias}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintVertical_bias}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintVertical_bias
+     * @attr name com.example.calculator:layout_constraintVertical_bias
      */
     public static final int ConstraintSet_layout_constraintVertical_bias=91;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintVertical_chainStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintVertical_chainStyle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -11378,20 +11366,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintVertical_chainStyle
+     * @attr name com.example.calculator:layout_constraintVertical_chainStyle
      */
     public static final int ConstraintSet_layout_constraintVertical_chainStyle=92;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintVertical_weight}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintVertical_weight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintVertical_weight
+     * @attr name com.example.calculator:layout_constraintVertical_weight
      */
     public static final int ConstraintSet_layout_constraintVertical_weight=93;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintWidth_default}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintWidth_default}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -11405,11 +11393,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintWidth_default
+     * @attr name com.example.calculator:layout_constraintWidth_default
      */
     public static final int ConstraintSet_layout_constraintWidth_default=94;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintWidth_max}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintWidth_max}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11426,11 +11414,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintWidth_max
+     * @attr name com.example.calculator:layout_constraintWidth_max
      */
     public static final int ConstraintSet_layout_constraintWidth_max=95;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintWidth_min}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintWidth_min}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11447,20 +11435,20 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintWidth_min
+     * @attr name com.example.calculator:layout_constraintWidth_min
      */
     public static final int ConstraintSet_layout_constraintWidth_min=96;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintWidth_percent}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintWidth_percent}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintWidth_percent
+     * @attr name com.example.calculator:layout_constraintWidth_percent
      */
     public static final int ConstraintSet_layout_constraintWidth_percent=97;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_editor_absoluteX}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_editor_absoluteX}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11469,11 +11457,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:layout_editor_absoluteX
+     * @attr name com.example.calculator:layout_editor_absoluteX
      */
     public static final int ConstraintSet_layout_editor_absoluteX=98;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_editor_absoluteY}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_editor_absoluteY}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11482,11 +11470,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:layout_editor_absoluteY
+     * @attr name com.example.calculator:layout_editor_absoluteY
      */
     public static final int ConstraintSet_layout_editor_absoluteY=99;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_goneMarginBottom}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_goneMarginBottom}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11495,11 +11483,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:layout_goneMarginBottom
+     * @attr name com.example.calculator:layout_goneMarginBottom
      */
     public static final int ConstraintSet_layout_goneMarginBottom=100;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_goneMarginEnd}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_goneMarginEnd}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11508,11 +11496,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:layout_goneMarginEnd
+     * @attr name com.example.calculator:layout_goneMarginEnd
      */
     public static final int ConstraintSet_layout_goneMarginEnd=101;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_goneMarginLeft}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_goneMarginLeft}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11521,11 +11509,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:layout_goneMarginLeft
+     * @attr name com.example.calculator:layout_goneMarginLeft
      */
     public static final int ConstraintSet_layout_goneMarginLeft=102;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_goneMarginRight}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_goneMarginRight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11534,11 +11522,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:layout_goneMarginRight
+     * @attr name com.example.calculator:layout_goneMarginRight
      */
     public static final int ConstraintSet_layout_goneMarginRight=103;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_goneMarginStart}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_goneMarginStart}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11547,11 +11535,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:layout_goneMarginStart
+     * @attr name com.example.calculator:layout_goneMarginStart
      */
     public static final int ConstraintSet_layout_goneMarginStart=104;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_goneMarginTop}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_goneMarginTop}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11560,29 +11548,29 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:layout_goneMarginTop
+     * @attr name com.example.calculator:layout_goneMarginTop
      */
     public static final int ConstraintSet_layout_goneMarginTop=105;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#motionProgress}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#motionProgress}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:motionProgress
+     * @attr name com.example.calculator:motionProgress
      */
     public static final int ConstraintSet_motionProgress=106;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#motionStagger}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#motionStagger}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:motionStagger
+     * @attr name com.example.calculator:motionStagger
      */
     public static final int ConstraintSet_motionStagger=107;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#pathMotionArc}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#pathMotionArc}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -11597,11 +11585,11 @@ public final class R {
      * <tr><td>startVertical</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:pathMotionArc
+     * @attr name com.example.calculator:pathMotionArc
      */
     public static final int ConstraintSet_pathMotionArc=108;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#pivotAnchor}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#pivotAnchor}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11617,11 +11605,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:pivotAnchor
+     * @attr name com.example.calculator:pivotAnchor
      */
     public static final int ConstraintSet_pivotAnchor=109;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#transitionEasing}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#transitionEasing}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -11638,16 +11626,16 @@ public final class R {
      * <tr><td>standard</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:transitionEasing
+     * @attr name com.example.calculator:transitionEasing
      */
     public static final int ConstraintSet_transitionEasing=110;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#transitionPathRotate}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#transitionPathRotate}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:transitionPathRotate
+     * @attr name com.example.calculator:transitionPathRotate
      */
     public static final int ConstraintSet_transitionPathRotate=111;
     /**
@@ -12006,7 +11994,7 @@ public final class R {
      */
     public static final int Constraint_android_visibility=2;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#animate_relativeTo}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#animate_relativeTo}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12014,21 +12002,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:animate_relativeTo
+     * @attr name com.example.calculator:animate_relativeTo
      */
     public static final int Constraint_animate_relativeTo=27;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#barrierAllowsGoneWidgets}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#barrierAllowsGoneWidgets}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.lenovo.calculator:barrierAllowsGoneWidgets
+     * @attr name com.example.calculator:barrierAllowsGoneWidgets
      */
     public static final int Constraint_barrierAllowsGoneWidgets=28;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#barrierDirection}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#barrierDirection}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -12045,11 +12033,11 @@ public final class R {
      * <tr><td>top</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:barrierDirection
+     * @attr name com.example.calculator:barrierDirection
      */
     public static final int Constraint_barrierDirection=29;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#barrierMargin}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#barrierMargin}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12058,41 +12046,41 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:barrierMargin
+     * @attr name com.example.calculator:barrierMargin
      */
     public static final int Constraint_barrierMargin=30;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#chainUseRtl}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#chainUseRtl}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.lenovo.calculator:chainUseRtl
+     * @attr name com.example.calculator:chainUseRtl
      */
     public static final int Constraint_chainUseRtl=31;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#constraint_referenced_ids}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#constraint_referenced_ids}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.example.lenovo.calculator:constraint_referenced_ids
+     * @attr name com.example.calculator:constraint_referenced_ids
      */
     public static final int Constraint_constraint_referenced_ids=32;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#constraint_referenced_tags}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#constraint_referenced_tags}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.example.lenovo.calculator:constraint_referenced_tags
+     * @attr name com.example.calculator:constraint_referenced_tags
      */
     public static final int Constraint_constraint_referenced_tags=33;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#drawPath}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#drawPath}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -12109,20 +12097,20 @@ public final class R {
      * <tr><td>rectangles</td><td>5</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:drawPath
+     * @attr name com.example.calculator:drawPath
      */
     public static final int Constraint_drawPath=34;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#flow_firstHorizontalBias}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#flow_firstHorizontalBias}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:flow_firstHorizontalBias
+     * @attr name com.example.calculator:flow_firstHorizontalBias
      */
     public static final int Constraint_flow_firstHorizontalBias=35;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#flow_firstHorizontalStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#flow_firstHorizontalStyle}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -12136,20 +12124,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:flow_firstHorizontalStyle
+     * @attr name com.example.calculator:flow_firstHorizontalStyle
      */
     public static final int Constraint_flow_firstHorizontalStyle=36;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#flow_firstVerticalBias}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#flow_firstVerticalBias}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:flow_firstVerticalBias
+     * @attr name com.example.calculator:flow_firstVerticalBias
      */
     public static final int Constraint_flow_firstVerticalBias=37;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#flow_firstVerticalStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#flow_firstVerticalStyle}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -12163,11 +12151,11 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:flow_firstVerticalStyle
+     * @attr name com.example.calculator:flow_firstVerticalStyle
      */
     public static final int Constraint_flow_firstVerticalStyle=38;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#flow_horizontalAlign}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#flow_horizontalAlign}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -12181,20 +12169,20 @@ public final class R {
      * <tr><td>start</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:flow_horizontalAlign
+     * @attr name com.example.calculator:flow_horizontalAlign
      */
     public static final int Constraint_flow_horizontalAlign=39;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#flow_horizontalBias}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#flow_horizontalBias}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:flow_horizontalBias
+     * @attr name com.example.calculator:flow_horizontalBias
      */
     public static final int Constraint_flow_horizontalBias=40;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#flow_horizontalGap}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#flow_horizontalGap}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12203,11 +12191,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:flow_horizontalGap
+     * @attr name com.example.calculator:flow_horizontalGap
      */
     public static final int Constraint_flow_horizontalGap=41;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#flow_horizontalStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#flow_horizontalStyle}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -12221,20 +12209,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:flow_horizontalStyle
+     * @attr name com.example.calculator:flow_horizontalStyle
      */
     public static final int Constraint_flow_horizontalStyle=42;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#flow_lastHorizontalBias}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#flow_lastHorizontalBias}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:flow_lastHorizontalBias
+     * @attr name com.example.calculator:flow_lastHorizontalBias
      */
     public static final int Constraint_flow_lastHorizontalBias=43;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#flow_lastHorizontalStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#flow_lastHorizontalStyle}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -12248,20 +12236,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:flow_lastHorizontalStyle
+     * @attr name com.example.calculator:flow_lastHorizontalStyle
      */
     public static final int Constraint_flow_lastHorizontalStyle=44;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#flow_lastVerticalBias}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#flow_lastVerticalBias}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:flow_lastVerticalBias
+     * @attr name com.example.calculator:flow_lastVerticalBias
      */
     public static final int Constraint_flow_lastVerticalBias=45;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#flow_lastVerticalStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#flow_lastVerticalStyle}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -12275,20 +12263,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:flow_lastVerticalStyle
+     * @attr name com.example.calculator:flow_lastVerticalStyle
      */
     public static final int Constraint_flow_lastVerticalStyle=46;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#flow_maxElementsWrap}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#flow_maxElementsWrap}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.example.lenovo.calculator:flow_maxElementsWrap
+     * @attr name com.example.calculator:flow_maxElementsWrap
      */
     public static final int Constraint_flow_maxElementsWrap=47;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#flow_verticalAlign}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#flow_verticalAlign}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -12303,20 +12291,20 @@ public final class R {
      * <tr><td>top</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:flow_verticalAlign
+     * @attr name com.example.calculator:flow_verticalAlign
      */
     public static final int Constraint_flow_verticalAlign=48;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#flow_verticalBias}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#flow_verticalBias}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:flow_verticalBias
+     * @attr name com.example.calculator:flow_verticalBias
      */
     public static final int Constraint_flow_verticalBias=49;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#flow_verticalGap}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#flow_verticalGap}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12325,11 +12313,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:flow_verticalGap
+     * @attr name com.example.calculator:flow_verticalGap
      */
     public static final int Constraint_flow_verticalGap=50;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#flow_verticalStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#flow_verticalStyle}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -12343,11 +12331,11 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:flow_verticalStyle
+     * @attr name com.example.calculator:flow_verticalStyle
      */
     public static final int Constraint_flow_verticalStyle=51;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#flow_wrapMode}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#flow_wrapMode}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -12361,40 +12349,40 @@ public final class R {
      * <tr><td>none</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:flow_wrapMode
+     * @attr name com.example.calculator:flow_wrapMode
      */
     public static final int Constraint_flow_wrapMode=52;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constrainedHeight}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constrainedHeight}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constrainedHeight
+     * @attr name com.example.calculator:layout_constrainedHeight
      */
     public static final int Constraint_layout_constrainedHeight=53;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constrainedWidth}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constrainedWidth}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constrainedWidth
+     * @attr name com.example.calculator:layout_constrainedWidth
      */
     public static final int Constraint_layout_constrainedWidth=54;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintBaseline_creator}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintBaseline_creator}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintBaseline_creator
+     * @attr name com.example.calculator:layout_constraintBaseline_creator
      */
     public static final int Constraint_layout_constraintBaseline_creator=55;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintBaseline_toBaselineOf}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintBaseline_toBaselineOf}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12410,20 +12398,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintBaseline_toBaselineOf
+     * @attr name com.example.calculator:layout_constraintBaseline_toBaselineOf
      */
     public static final int Constraint_layout_constraintBaseline_toBaselineOf=56;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintBottom_creator}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintBottom_creator}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintBottom_creator
+     * @attr name com.example.calculator:layout_constraintBottom_creator
      */
     public static final int Constraint_layout_constraintBottom_creator=57;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintBottom_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintBottom_toBottomOf}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12439,11 +12427,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintBottom_toBottomOf
+     * @attr name com.example.calculator:layout_constraintBottom_toBottomOf
      */
     public static final int Constraint_layout_constraintBottom_toBottomOf=58;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintBottom_toTopOf}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintBottom_toTopOf}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12459,11 +12447,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintBottom_toTopOf
+     * @attr name com.example.calculator:layout_constraintBottom_toTopOf
      */
     public static final int Constraint_layout_constraintBottom_toTopOf=59;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintCircle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintCircle}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12471,20 +12459,20 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintCircle
+     * @attr name com.example.calculator:layout_constraintCircle
      */
     public static final int Constraint_layout_constraintCircle=60;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintCircleAngle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintCircleAngle}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintCircleAngle
+     * @attr name com.example.calculator:layout_constraintCircleAngle
      */
     public static final int Constraint_layout_constraintCircleAngle=61;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintCircleRadius}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintCircleRadius}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12493,21 +12481,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintCircleRadius
+     * @attr name com.example.calculator:layout_constraintCircleRadius
      */
     public static final int Constraint_layout_constraintCircleRadius=62;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintDimensionRatio}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintDimensionRatio}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintDimensionRatio
+     * @attr name com.example.calculator:layout_constraintDimensionRatio
      */
     public static final int Constraint_layout_constraintDimensionRatio=63;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintEnd_toEndOf}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintEnd_toEndOf}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12523,11 +12511,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintEnd_toEndOf
+     * @attr name com.example.calculator:layout_constraintEnd_toEndOf
      */
     public static final int Constraint_layout_constraintEnd_toEndOf=64;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintEnd_toStartOf}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintEnd_toStartOf}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12543,11 +12531,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintEnd_toStartOf
+     * @attr name com.example.calculator:layout_constraintEnd_toStartOf
      */
     public static final int Constraint_layout_constraintEnd_toStartOf=65;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintGuide_begin}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintGuide_begin}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12556,11 +12544,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintGuide_begin
+     * @attr name com.example.calculator:layout_constraintGuide_begin
      */
     public static final int Constraint_layout_constraintGuide_begin=66;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintGuide_end}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintGuide_end}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12569,20 +12557,20 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintGuide_end
+     * @attr name com.example.calculator:layout_constraintGuide_end
      */
     public static final int Constraint_layout_constraintGuide_end=67;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintGuide_percent}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintGuide_percent}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintGuide_percent
+     * @attr name com.example.calculator:layout_constraintGuide_percent
      */
     public static final int Constraint_layout_constraintGuide_percent=68;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintHeight_default}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintHeight_default}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -12596,11 +12584,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintHeight_default
+     * @attr name com.example.calculator:layout_constraintHeight_default
      */
     public static final int Constraint_layout_constraintHeight_default=69;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintHeight_max}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintHeight_max}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12617,11 +12605,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintHeight_max
+     * @attr name com.example.calculator:layout_constraintHeight_max
      */
     public static final int Constraint_layout_constraintHeight_max=70;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintHeight_min}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintHeight_min}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12638,29 +12626,29 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintHeight_min
+     * @attr name com.example.calculator:layout_constraintHeight_min
      */
     public static final int Constraint_layout_constraintHeight_min=71;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintHeight_percent}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintHeight_percent}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintHeight_percent
+     * @attr name com.example.calculator:layout_constraintHeight_percent
      */
     public static final int Constraint_layout_constraintHeight_percent=72;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintHorizontal_bias}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintHorizontal_bias}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintHorizontal_bias
+     * @attr name com.example.calculator:layout_constraintHorizontal_bias
      */
     public static final int Constraint_layout_constraintHorizontal_bias=73;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintHorizontal_chainStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintHorizontal_chainStyle}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -12674,29 +12662,29 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintHorizontal_chainStyle
+     * @attr name com.example.calculator:layout_constraintHorizontal_chainStyle
      */
     public static final int Constraint_layout_constraintHorizontal_chainStyle=74;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintHorizontal_weight}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintHorizontal_weight}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintHorizontal_weight
+     * @attr name com.example.calculator:layout_constraintHorizontal_weight
      */
     public static final int Constraint_layout_constraintHorizontal_weight=75;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintLeft_creator}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintLeft_creator}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintLeft_creator
+     * @attr name com.example.calculator:layout_constraintLeft_creator
      */
     public static final int Constraint_layout_constraintLeft_creator=76;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintLeft_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintLeft_toLeftOf}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12712,11 +12700,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintLeft_toLeftOf
+     * @attr name com.example.calculator:layout_constraintLeft_toLeftOf
      */
     public static final int Constraint_layout_constraintLeft_toLeftOf=77;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintLeft_toRightOf}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintLeft_toRightOf}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12732,20 +12720,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintLeft_toRightOf
+     * @attr name com.example.calculator:layout_constraintLeft_toRightOf
      */
     public static final int Constraint_layout_constraintLeft_toRightOf=78;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintRight_creator}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintRight_creator}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintRight_creator
+     * @attr name com.example.calculator:layout_constraintRight_creator
      */
     public static final int Constraint_layout_constraintRight_creator=79;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintRight_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintRight_toLeftOf}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12761,11 +12749,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintRight_toLeftOf
+     * @attr name com.example.calculator:layout_constraintRight_toLeftOf
      */
     public static final int Constraint_layout_constraintRight_toLeftOf=80;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintRight_toRightOf}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintRight_toRightOf}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12781,11 +12769,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintRight_toRightOf
+     * @attr name com.example.calculator:layout_constraintRight_toRightOf
      */
     public static final int Constraint_layout_constraintRight_toRightOf=81;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintStart_toEndOf}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintStart_toEndOf}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12801,11 +12789,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintStart_toEndOf
+     * @attr name com.example.calculator:layout_constraintStart_toEndOf
      */
     public static final int Constraint_layout_constraintStart_toEndOf=82;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintStart_toStartOf}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintStart_toStartOf}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12821,30 +12809,30 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintStart_toStartOf
+     * @attr name com.example.calculator:layout_constraintStart_toStartOf
      */
     public static final int Constraint_layout_constraintStart_toStartOf=83;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintTag}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintTag}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintTag
+     * @attr name com.example.calculator:layout_constraintTag
      */
     public static final int Constraint_layout_constraintTag=84;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintTop_creator}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintTop_creator}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintTop_creator
+     * @attr name com.example.calculator:layout_constraintTop_creator
      */
     public static final int Constraint_layout_constraintTop_creator=85;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintTop_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintTop_toBottomOf}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12860,11 +12848,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintTop_toBottomOf
+     * @attr name com.example.calculator:layout_constraintTop_toBottomOf
      */
     public static final int Constraint_layout_constraintTop_toBottomOf=86;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintTop_toTopOf}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintTop_toTopOf}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12880,20 +12868,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintTop_toTopOf
+     * @attr name com.example.calculator:layout_constraintTop_toTopOf
      */
     public static final int Constraint_layout_constraintTop_toTopOf=87;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintVertical_bias}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintVertical_bias}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintVertical_bias
+     * @attr name com.example.calculator:layout_constraintVertical_bias
      */
     public static final int Constraint_layout_constraintVertical_bias=88;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintVertical_chainStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintVertical_chainStyle}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -12907,20 +12895,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintVertical_chainStyle
+     * @attr name com.example.calculator:layout_constraintVertical_chainStyle
      */
     public static final int Constraint_layout_constraintVertical_chainStyle=89;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintVertical_weight}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintVertical_weight}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintVertical_weight
+     * @attr name com.example.calculator:layout_constraintVertical_weight
      */
     public static final int Constraint_layout_constraintVertical_weight=90;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintWidth_default}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintWidth_default}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -12934,11 +12922,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintWidth_default
+     * @attr name com.example.calculator:layout_constraintWidth_default
      */
     public static final int Constraint_layout_constraintWidth_default=91;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintWidth_max}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintWidth_max}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12955,11 +12943,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintWidth_max
+     * @attr name com.example.calculator:layout_constraintWidth_max
      */
     public static final int Constraint_layout_constraintWidth_max=92;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintWidth_min}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintWidth_min}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12976,20 +12964,20 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintWidth_min
+     * @attr name com.example.calculator:layout_constraintWidth_min
      */
     public static final int Constraint_layout_constraintWidth_min=93;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintWidth_percent}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintWidth_percent}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintWidth_percent
+     * @attr name com.example.calculator:layout_constraintWidth_percent
      */
     public static final int Constraint_layout_constraintWidth_percent=94;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_editor_absoluteX}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_editor_absoluteX}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12998,11 +12986,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:layout_editor_absoluteX
+     * @attr name com.example.calculator:layout_editor_absoluteX
      */
     public static final int Constraint_layout_editor_absoluteX=95;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_editor_absoluteY}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_editor_absoluteY}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13011,11 +12999,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:layout_editor_absoluteY
+     * @attr name com.example.calculator:layout_editor_absoluteY
      */
     public static final int Constraint_layout_editor_absoluteY=96;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_goneMarginBottom}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_goneMarginBottom}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13024,11 +13012,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:layout_goneMarginBottom
+     * @attr name com.example.calculator:layout_goneMarginBottom
      */
     public static final int Constraint_layout_goneMarginBottom=97;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_goneMarginEnd}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_goneMarginEnd}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13037,11 +13025,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:layout_goneMarginEnd
+     * @attr name com.example.calculator:layout_goneMarginEnd
      */
     public static final int Constraint_layout_goneMarginEnd=98;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_goneMarginLeft}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_goneMarginLeft}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13050,11 +13038,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:layout_goneMarginLeft
+     * @attr name com.example.calculator:layout_goneMarginLeft
      */
     public static final int Constraint_layout_goneMarginLeft=99;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_goneMarginRight}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_goneMarginRight}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13063,11 +13051,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:layout_goneMarginRight
+     * @attr name com.example.calculator:layout_goneMarginRight
      */
     public static final int Constraint_layout_goneMarginRight=100;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_goneMarginStart}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_goneMarginStart}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13076,11 +13064,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:layout_goneMarginStart
+     * @attr name com.example.calculator:layout_goneMarginStart
      */
     public static final int Constraint_layout_goneMarginStart=101;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_goneMarginTop}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_goneMarginTop}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13089,29 +13077,29 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:layout_goneMarginTop
+     * @attr name com.example.calculator:layout_goneMarginTop
      */
     public static final int Constraint_layout_goneMarginTop=102;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#motionProgress}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#motionProgress}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:motionProgress
+     * @attr name com.example.calculator:motionProgress
      */
     public static final int Constraint_motionProgress=103;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#motionStagger}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#motionStagger}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:motionStagger
+     * @attr name com.example.calculator:motionStagger
      */
     public static final int Constraint_motionStagger=104;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#pathMotionArc}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#pathMotionArc}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -13126,11 +13114,11 @@ public final class R {
      * <tr><td>startVertical</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:pathMotionArc
+     * @attr name com.example.calculator:pathMotionArc
      */
     public static final int Constraint_pathMotionArc=105;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#pivotAnchor}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#pivotAnchor}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13146,11 +13134,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:pivotAnchor
+     * @attr name com.example.calculator:pivotAnchor
      */
     public static final int Constraint_pivotAnchor=106;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#transitionEasing}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#transitionEasing}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -13167,20 +13155,20 @@ public final class R {
      * <tr><td>standard</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:transitionEasing
+     * @attr name com.example.calculator:transitionEasing
      */
     public static final int Constraint_transitionEasing=107;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#transitionPathRotate}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#transitionPathRotate}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:transitionPathRotate
+     * @attr name com.example.calculator:transitionPathRotate
      */
     public static final int Constraint_transitionPathRotate=108;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#visibilityMode}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#visibilityMode}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -13193,7 +13181,7 @@ public final class R {
      * <tr><td>normal</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:visibilityMode
+     * @attr name com.example.calculator:visibilityMode
      */
     public static final int Constraint_visibilityMode=109;
     /**
@@ -13203,8 +13191,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_keylines com.example.lenovo.calculator:keylines}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.example.lenovo.calculator:statusBarBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_keylines com.example.calculator:keylines}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.example.calculator:statusBarBackground}</code></td><td></td></tr>
      * </table>
      * @see #CoordinatorLayout_keylines
      * @see #CoordinatorLayout_statusBarBackground
@@ -13220,12 +13208,12 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CoordinatorLayout_Layout_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.example.lenovo.calculator:layout_anchor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.example.lenovo.calculator:layout_anchorGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.example.lenovo.calculator:layout_behavior}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.example.lenovo.calculator:layout_dodgeInsetEdges}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.example.lenovo.calculator:layout_insetEdge}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.example.lenovo.calculator:layout_keyline}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.example.calculator:layout_anchor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.example.calculator:layout_anchorGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.example.calculator:layout_behavior}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.example.calculator:layout_dodgeInsetEdges}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.example.calculator:layout_insetEdge}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.example.calculator:layout_keyline}</code></td><td></td></tr>
      * </table>
      * @see #CoordinatorLayout_Layout_android_layout_gravity
      * @see #CoordinatorLayout_Layout_layout_anchor
@@ -13269,7 +13257,7 @@ public final class R {
      */
     public static final int CoordinatorLayout_Layout_android_layout_gravity=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_anchor}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_anchor}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13277,11 +13265,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_anchor
+     * @attr name com.example.calculator:layout_anchor
      */
     public static final int CoordinatorLayout_Layout_layout_anchor=1;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_anchorGravity}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_anchorGravity}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -13306,21 +13294,21 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_anchorGravity
+     * @attr name com.example.calculator:layout_anchorGravity
      */
     public static final int CoordinatorLayout_Layout_layout_anchorGravity=2;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_behavior}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_behavior}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.example.lenovo.calculator:layout_behavior
+     * @attr name com.example.calculator:layout_behavior
      */
     public static final int CoordinatorLayout_Layout_layout_behavior=3;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_dodgeInsetEdges}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_dodgeInsetEdges}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -13339,11 +13327,11 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_dodgeInsetEdges
+     * @attr name com.example.calculator:layout_dodgeInsetEdges
      */
     public static final int CoordinatorLayout_Layout_layout_dodgeInsetEdges=4;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_insetEdge}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_insetEdge}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -13361,20 +13349,20 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_insetEdge
+     * @attr name com.example.calculator:layout_insetEdge
      */
     public static final int CoordinatorLayout_Layout_layout_insetEdge=5;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_keyline}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_keyline}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_keyline
+     * @attr name com.example.calculator:layout_keyline
      */
     public static final int CoordinatorLayout_Layout_layout_keyline=6;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#keylines}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#keylines}
      * attribute's value can be found in the {@link #CoordinatorLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13382,11 +13370,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:keylines
+     * @attr name com.example.calculator:keylines
      */
     public static final int CoordinatorLayout_keylines=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#statusBarBackground}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#statusBarBackground}
      * attribute's value can be found in the {@link #CoordinatorLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13397,7 +13385,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:statusBarBackground
+     * @attr name com.example.calculator:statusBarBackground
      */
     public static final int CoordinatorLayout_statusBarBackground=1;
     /**
@@ -13407,15 +13395,15 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CustomAttribute_attributeName com.example.lenovo.calculator:attributeName}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CustomAttribute_customBoolean com.example.lenovo.calculator:customBoolean}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CustomAttribute_customColorDrawableValue com.example.lenovo.calculator:customColorDrawableValue}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CustomAttribute_customColorValue com.example.lenovo.calculator:customColorValue}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CustomAttribute_customDimension com.example.lenovo.calculator:customDimension}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CustomAttribute_customFloatValue com.example.lenovo.calculator:customFloatValue}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CustomAttribute_customIntegerValue com.example.lenovo.calculator:customIntegerValue}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CustomAttribute_customPixelDimension com.example.lenovo.calculator:customPixelDimension}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CustomAttribute_customStringValue com.example.lenovo.calculator:customStringValue}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CustomAttribute_attributeName com.example.calculator:attributeName}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CustomAttribute_customBoolean com.example.calculator:customBoolean}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CustomAttribute_customColorDrawableValue com.example.calculator:customColorDrawableValue}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CustomAttribute_customColorValue com.example.calculator:customColorValue}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CustomAttribute_customDimension com.example.calculator:customDimension}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CustomAttribute_customFloatValue com.example.calculator:customFloatValue}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CustomAttribute_customIntegerValue com.example.calculator:customIntegerValue}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CustomAttribute_customPixelDimension com.example.calculator:customPixelDimension}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CustomAttribute_customStringValue com.example.calculator:customStringValue}</code></td><td></td></tr>
      * </table>
      * @see #CustomAttribute_attributeName
      * @see #CustomAttribute_customBoolean
@@ -13433,49 +13421,49 @@ public final class R {
         0x7f02007f
       };
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#attributeName}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#attributeName}
      * attribute's value can be found in the {@link #CustomAttribute} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.example.lenovo.calculator:attributeName
+     * @attr name com.example.calculator:attributeName
      */
     public static final int CustomAttribute_attributeName=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#customBoolean}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#customBoolean}
      * attribute's value can be found in the {@link #CustomAttribute} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.lenovo.calculator:customBoolean
+     * @attr name com.example.calculator:customBoolean
      */
     public static final int CustomAttribute_customBoolean=1;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#customColorDrawableValue}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#customColorDrawableValue}
      * attribute's value can be found in the {@link #CustomAttribute} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:customColorDrawableValue
+     * @attr name com.example.calculator:customColorDrawableValue
      */
     public static final int CustomAttribute_customColorDrawableValue=2;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#customColorValue}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#customColorValue}
      * attribute's value can be found in the {@link #CustomAttribute} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:customColorValue
+     * @attr name com.example.calculator:customColorValue
      */
     public static final int CustomAttribute_customColorValue=3;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#customDimension}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#customDimension}
      * attribute's value can be found in the {@link #CustomAttribute} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13484,29 +13472,29 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:customDimension
+     * @attr name com.example.calculator:customDimension
      */
     public static final int CustomAttribute_customDimension=4;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#customFloatValue}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#customFloatValue}
      * attribute's value can be found in the {@link #CustomAttribute} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:customFloatValue
+     * @attr name com.example.calculator:customFloatValue
      */
     public static final int CustomAttribute_customFloatValue=5;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#customIntegerValue}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#customIntegerValue}
      * attribute's value can be found in the {@link #CustomAttribute} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.example.lenovo.calculator:customIntegerValue
+     * @attr name com.example.calculator:customIntegerValue
      */
     public static final int CustomAttribute_customIntegerValue=6;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#customPixelDimension}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#customPixelDimension}
      * attribute's value can be found in the {@link #CustomAttribute} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13515,17 +13503,17 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:customPixelDimension
+     * @attr name com.example.calculator:customPixelDimension
      */
     public static final int CustomAttribute_customPixelDimension=7;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#customStringValue}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#customStringValue}
      * attribute's value can be found in the {@link #CustomAttribute} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.example.lenovo.calculator:customStringValue
+     * @attr name com.example.calculator:customStringValue
      */
     public static final int CustomAttribute_customStringValue=8;
     /**
@@ -13535,14 +13523,14 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.example.lenovo.calculator:arrowHeadLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.example.lenovo.calculator:arrowShaftLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_barLength com.example.lenovo.calculator:barLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_color com.example.lenovo.calculator:color}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.example.lenovo.calculator:drawableSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.example.lenovo.calculator:gapBetweenBars}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_spinBars com.example.lenovo.calculator:spinBars}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_thickness com.example.lenovo.calculator:thickness}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.example.calculator:arrowHeadLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.example.calculator:arrowShaftLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_barLength com.example.calculator:barLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_color com.example.calculator:color}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.example.calculator:drawableSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.example.calculator:gapBetweenBars}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_spinBars com.example.calculator:spinBars}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_thickness com.example.calculator:thickness}</code></td><td></td></tr>
      * </table>
      * @see #DrawerArrowToggle_arrowHeadLength
      * @see #DrawerArrowToggle_arrowShaftLength
@@ -13558,7 +13546,7 @@ public final class R {
         0x7f020092, 0x7f0200bc, 0x7f02016e, 0x7f020191
       };
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#arrowHeadLength}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#arrowHeadLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13567,11 +13555,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:arrowHeadLength
+     * @attr name com.example.calculator:arrowHeadLength
      */
     public static final int DrawerArrowToggle_arrowHeadLength=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#arrowShaftLength}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#arrowShaftLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13580,11 +13568,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:arrowShaftLength
+     * @attr name com.example.calculator:arrowShaftLength
      */
     public static final int DrawerArrowToggle_arrowShaftLength=1;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#barLength}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#barLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13593,22 +13581,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:barLength
+     * @attr name com.example.calculator:barLength
      */
     public static final int DrawerArrowToggle_barLength=2;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#color}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#color}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:color
+     * @attr name com.example.calculator:color
      */
     public static final int DrawerArrowToggle_color=3;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#drawableSize}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#drawableSize}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13617,11 +13605,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:drawableSize
+     * @attr name com.example.calculator:drawableSize
      */
     public static final int DrawerArrowToggle_drawableSize=4;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#gapBetweenBars}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#gapBetweenBars}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13630,21 +13618,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:gapBetweenBars
+     * @attr name com.example.calculator:gapBetweenBars
      */
     public static final int DrawerArrowToggle_gapBetweenBars=5;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#spinBars}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#spinBars}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.lenovo.calculator:spinBars
+     * @attr name com.example.calculator:spinBars
      */
     public static final int DrawerArrowToggle_spinBars=6;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#thickness}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#thickness}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13653,7 +13641,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:thickness
+     * @attr name com.example.calculator:thickness
      */
     public static final int DrawerArrowToggle_thickness=7;
     /**
@@ -13663,12 +13651,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderAuthority com.example.lenovo.calculator:fontProviderAuthority}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderCerts com.example.lenovo.calculator:fontProviderCerts}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy com.example.lenovo.calculator:fontProviderFetchStrategy}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout com.example.lenovo.calculator:fontProviderFetchTimeout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderPackage com.example.lenovo.calculator:fontProviderPackage}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderQuery com.example.lenovo.calculator:fontProviderQuery}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderAuthority com.example.calculator:fontProviderAuthority}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderCerts com.example.calculator:fontProviderCerts}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy com.example.calculator:fontProviderFetchStrategy}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout com.example.calculator:fontProviderFetchTimeout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderPackage com.example.calculator:fontProviderPackage}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderQuery com.example.calculator:fontProviderQuery}</code></td><td></td></tr>
      * </table>
      * @see #FontFamily_fontProviderAuthority
      * @see #FontFamily_fontProviderCerts
@@ -13693,11 +13681,11 @@ public final class R {
      * <tr><td><code>{@link #FontFamilyFont_android_fontStyle android:fontStyle}</code></td><td></td></tr>
      * <tr><td><code>{@link #FontFamilyFont_android_ttcIndex android:ttcIndex}</code></td><td></td></tr>
      * <tr><td><code>{@link #FontFamilyFont_android_fontVariationSettings android:fontVariationSettings}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_font com.example.lenovo.calculator:font}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontStyle com.example.lenovo.calculator:fontStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontVariationSettings com.example.lenovo.calculator:fontVariationSettings}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontWeight com.example.lenovo.calculator:fontWeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_ttcIndex com.example.lenovo.calculator:ttcIndex}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_font com.example.calculator:font}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontStyle com.example.calculator:fontStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontVariationSettings com.example.calculator:fontVariationSettings}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontWeight com.example.calculator:fontWeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_ttcIndex com.example.calculator:ttcIndex}</code></td><td></td></tr>
      * </table>
      * @see #FontFamilyFont_android_font
      * @see #FontFamilyFont_android_fontWeight
@@ -13773,7 +13761,7 @@ public final class R {
      */
     public static final int FontFamilyFont_android_ttcIndex=3;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#font}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#font}
      * attribute's value can be found in the {@link #FontFamilyFont} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13781,11 +13769,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:font
+     * @attr name com.example.calculator:font
      */
     public static final int FontFamilyFont_font=5;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#fontStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#fontStyle}
      * attribute's value can be found in the {@link #FontFamilyFont} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -13798,49 +13786,49 @@ public final class R {
      * <tr><td>normal</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:fontStyle
+     * @attr name com.example.calculator:fontStyle
      */
     public static final int FontFamilyFont_fontStyle=6;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#fontVariationSettings}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#fontVariationSettings}
      * attribute's value can be found in the {@link #FontFamilyFont} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.example.lenovo.calculator:fontVariationSettings
+     * @attr name com.example.calculator:fontVariationSettings
      */
     public static final int FontFamilyFont_fontVariationSettings=7;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#fontWeight}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#fontWeight}
      * attribute's value can be found in the {@link #FontFamilyFont} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.example.lenovo.calculator:fontWeight
+     * @attr name com.example.calculator:fontWeight
      */
     public static final int FontFamilyFont_fontWeight=8;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#ttcIndex}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#ttcIndex}
      * attribute's value can be found in the {@link #FontFamilyFont} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.example.lenovo.calculator:ttcIndex
+     * @attr name com.example.calculator:ttcIndex
      */
     public static final int FontFamilyFont_ttcIndex=9;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#fontProviderAuthority}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#fontProviderAuthority}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.example.lenovo.calculator:fontProviderAuthority
+     * @attr name com.example.calculator:fontProviderAuthority
      */
     public static final int FontFamily_fontProviderAuthority=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#fontProviderCerts}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#fontProviderCerts}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13848,11 +13836,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:fontProviderCerts
+     * @attr name com.example.calculator:fontProviderCerts
      */
     public static final int FontFamily_fontProviderCerts=1;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#fontProviderFetchStrategy}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#fontProviderFetchStrategy}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -13865,11 +13853,11 @@ public final class R {
      * <tr><td>blocking</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:fontProviderFetchStrategy
+     * @attr name com.example.calculator:fontProviderFetchStrategy
      */
     public static final int FontFamily_fontProviderFetchStrategy=2;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#fontProviderFetchTimeout}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#fontProviderFetchTimeout}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
@@ -13882,27 +13870,27 @@ public final class R {
      * <tr><td>forever</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:fontProviderFetchTimeout
+     * @attr name com.example.calculator:fontProviderFetchTimeout
      */
     public static final int FontFamily_fontProviderFetchTimeout=3;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#fontProviderPackage}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#fontProviderPackage}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.example.lenovo.calculator:fontProviderPackage
+     * @attr name com.example.calculator:fontProviderPackage
      */
     public static final int FontFamily_fontProviderPackage=4;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#fontProviderQuery}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#fontProviderQuery}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.example.lenovo.calculator:fontProviderQuery
+     * @attr name com.example.calculator:fontProviderQuery
      */
     public static final int FontFamily_fontProviderQuery=5;
     /**
@@ -14136,15 +14124,15 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ImageFilterView_altSrc com.example.lenovo.calculator:altSrc}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ImageFilterView_brightness com.example.lenovo.calculator:brightness}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ImageFilterView_contrast com.example.lenovo.calculator:contrast}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ImageFilterView_crossfade com.example.lenovo.calculator:crossfade}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ImageFilterView_overlay com.example.lenovo.calculator:overlay}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ImageFilterView_round com.example.lenovo.calculator:round}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ImageFilterView_roundPercent com.example.lenovo.calculator:roundPercent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ImageFilterView_saturation com.example.lenovo.calculator:saturation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ImageFilterView_warmth com.example.lenovo.calculator:warmth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ImageFilterView_altSrc com.example.calculator:altSrc}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ImageFilterView_brightness com.example.calculator:brightness}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ImageFilterView_contrast com.example.calculator:contrast}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ImageFilterView_crossfade com.example.calculator:crossfade}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ImageFilterView_overlay com.example.calculator:overlay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ImageFilterView_round com.example.calculator:round}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ImageFilterView_roundPercent com.example.calculator:roundPercent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ImageFilterView_saturation com.example.calculator:saturation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ImageFilterView_warmth com.example.calculator:warmth}</code></td><td></td></tr>
      * </table>
      * @see #ImageFilterView_altSrc
      * @see #ImageFilterView_brightness
@@ -14162,7 +14150,7 @@ public final class R {
         0x7f0201ba
       };
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#altSrc}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#altSrc}
      * attribute's value can be found in the {@link #ImageFilterView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14170,48 +14158,48 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:altSrc
+     * @attr name com.example.calculator:altSrc
      */
     public static final int ImageFilterView_altSrc=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#brightness}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#brightness}
      * attribute's value can be found in the {@link #ImageFilterView} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:brightness
+     * @attr name com.example.calculator:brightness
      */
     public static final int ImageFilterView_brightness=1;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#contrast}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#contrast}
      * attribute's value can be found in the {@link #ImageFilterView} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:contrast
+     * @attr name com.example.calculator:contrast
      */
     public static final int ImageFilterView_contrast=2;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#crossfade}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#crossfade}
      * attribute's value can be found in the {@link #ImageFilterView} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:crossfade
+     * @attr name com.example.calculator:crossfade
      */
     public static final int ImageFilterView_crossfade=3;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#overlay}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#overlay}
      * attribute's value can be found in the {@link #ImageFilterView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.lenovo.calculator:overlay
+     * @attr name com.example.calculator:overlay
      */
     public static final int ImageFilterView_overlay=4;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#round}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#round}
      * attribute's value can be found in the {@link #ImageFilterView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14220,34 +14208,34 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:round
+     * @attr name com.example.calculator:round
      */
     public static final int ImageFilterView_round=5;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#roundPercent}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#roundPercent}
      * attribute's value can be found in the {@link #ImageFilterView} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:roundPercent
+     * @attr name com.example.calculator:roundPercent
      */
     public static final int ImageFilterView_roundPercent=6;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#saturation}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#saturation}
      * attribute's value can be found in the {@link #ImageFilterView} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:saturation
+     * @attr name com.example.calculator:saturation
      */
     public static final int ImageFilterView_saturation=7;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#warmth}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#warmth}
      * attribute's value can be found in the {@link #ImageFilterView} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:warmth
+     * @attr name com.example.calculator:warmth
      */
     public static final int ImageFilterView_warmth=8;
     /**
@@ -14269,12 +14257,12 @@ public final class R {
      * <tr><td><code>{@link #KeyAttribute_android_rotationY android:rotationY}</code></td><td></td></tr>
      * <tr><td><code>{@link #KeyAttribute_android_translationZ android:translationZ}</code></td><td></td></tr>
      * <tr><td><code>{@link #KeyAttribute_android_elevation android:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyAttribute_curveFit com.example.lenovo.calculator:curveFit}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyAttribute_framePosition com.example.lenovo.calculator:framePosition}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyAttribute_motionProgress com.example.lenovo.calculator:motionProgress}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyAttribute_motionTarget com.example.lenovo.calculator:motionTarget}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyAttribute_transitionEasing com.example.lenovo.calculator:transitionEasing}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyAttribute_transitionPathRotate com.example.lenovo.calculator:transitionPathRotate}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyAttribute_curveFit com.example.calculator:curveFit}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyAttribute_framePosition com.example.calculator:framePosition}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyAttribute_motionProgress com.example.calculator:motionProgress}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyAttribute_motionTarget com.example.calculator:motionTarget}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyAttribute_transitionEasing com.example.calculator:transitionEasing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyAttribute_transitionPathRotate com.example.calculator:transitionPathRotate}</code></td><td></td></tr>
      * </table>
      * @see #KeyAttribute_android_alpha
      * @see #KeyAttribute_android_transformPivotX
@@ -14435,7 +14423,7 @@ public final class R {
      */
     public static final int KeyAttribute_android_translationZ=10;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#curveFit}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#curveFit}
      * attribute's value can be found in the {@link #KeyAttribute} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -14448,29 +14436,29 @@ public final class R {
      * <tr><td>spline</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:curveFit
+     * @attr name com.example.calculator:curveFit
      */
     public static final int KeyAttribute_curveFit=12;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#framePosition}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#framePosition}
      * attribute's value can be found in the {@link #KeyAttribute} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.example.lenovo.calculator:framePosition
+     * @attr name com.example.calculator:framePosition
      */
     public static final int KeyAttribute_framePosition=13;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#motionProgress}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#motionProgress}
      * attribute's value can be found in the {@link #KeyAttribute} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:motionProgress
+     * @attr name com.example.calculator:motionProgress
      */
     public static final int KeyAttribute_motionProgress=14;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#motionTarget}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#motionTarget}
      * attribute's value can be found in the {@link #KeyAttribute} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14480,11 +14468,11 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.example.lenovo.calculator:motionTarget
+     * @attr name com.example.calculator:motionTarget
      */
     public static final int KeyAttribute_motionTarget=15;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#transitionEasing}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#transitionEasing}
      * attribute's value can be found in the {@link #KeyAttribute} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -14501,16 +14489,16 @@ public final class R {
      * <tr><td>standard</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:transitionEasing
+     * @attr name com.example.calculator:transitionEasing
      */
     public static final int KeyAttribute_transitionEasing=16;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#transitionPathRotate}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#transitionPathRotate}
      * attribute's value can be found in the {@link #KeyAttribute} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:transitionPathRotate
+     * @attr name com.example.calculator:transitionPathRotate
      */
     public static final int KeyAttribute_transitionPathRotate=17;
     /**
@@ -14530,16 +14518,16 @@ public final class R {
      * <tr><td><code>{@link #KeyCycle_android_rotationY android:rotationY}</code></td><td></td></tr>
      * <tr><td><code>{@link #KeyCycle_android_translationZ android:translationZ}</code></td><td></td></tr>
      * <tr><td><code>{@link #KeyCycle_android_elevation android:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyCycle_curveFit com.example.lenovo.calculator:curveFit}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyCycle_framePosition com.example.lenovo.calculator:framePosition}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyCycle_motionProgress com.example.lenovo.calculator:motionProgress}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyCycle_motionTarget com.example.lenovo.calculator:motionTarget}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyCycle_transitionEasing com.example.lenovo.calculator:transitionEasing}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyCycle_transitionPathRotate com.example.lenovo.calculator:transitionPathRotate}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyCycle_waveOffset com.example.lenovo.calculator:waveOffset}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyCycle_wavePeriod com.example.lenovo.calculator:wavePeriod}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyCycle_waveShape com.example.lenovo.calculator:waveShape}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyCycle_waveVariesBy com.example.lenovo.calculator:waveVariesBy}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyCycle_curveFit com.example.calculator:curveFit}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyCycle_framePosition com.example.calculator:framePosition}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyCycle_motionProgress com.example.calculator:motionProgress}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyCycle_motionTarget com.example.calculator:motionTarget}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyCycle_transitionEasing com.example.calculator:transitionEasing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyCycle_transitionPathRotate com.example.calculator:transitionPathRotate}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyCycle_waveOffset com.example.calculator:waveOffset}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyCycle_wavePeriod com.example.calculator:wavePeriod}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyCycle_waveShape com.example.calculator:waveShape}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyCycle_waveVariesBy com.example.calculator:waveVariesBy}</code></td><td></td></tr>
      * </table>
      * @see #KeyCycle_android_alpha
      * @see #KeyCycle_android_translationX
@@ -14676,7 +14664,7 @@ public final class R {
      */
     public static final int KeyCycle_android_translationZ=8;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#curveFit}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#curveFit}
      * attribute's value can be found in the {@link #KeyCycle} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -14689,29 +14677,29 @@ public final class R {
      * <tr><td>spline</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:curveFit
+     * @attr name com.example.calculator:curveFit
      */
     public static final int KeyCycle_curveFit=10;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#framePosition}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#framePosition}
      * attribute's value can be found in the {@link #KeyCycle} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.example.lenovo.calculator:framePosition
+     * @attr name com.example.calculator:framePosition
      */
     public static final int KeyCycle_framePosition=11;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#motionProgress}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#motionProgress}
      * attribute's value can be found in the {@link #KeyCycle} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:motionProgress
+     * @attr name com.example.calculator:motionProgress
      */
     public static final int KeyCycle_motionProgress=12;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#motionTarget}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#motionTarget}
      * attribute's value can be found in the {@link #KeyCycle} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14721,11 +14709,11 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.example.lenovo.calculator:motionTarget
+     * @attr name com.example.calculator:motionTarget
      */
     public static final int KeyCycle_motionTarget=13;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#transitionEasing}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#transitionEasing}
      * attribute's value can be found in the {@link #KeyCycle} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -14742,20 +14730,20 @@ public final class R {
      * <tr><td>standard</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:transitionEasing
+     * @attr name com.example.calculator:transitionEasing
      */
     public static final int KeyCycle_transitionEasing=14;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#transitionPathRotate}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#transitionPathRotate}
      * attribute's value can be found in the {@link #KeyCycle} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:transitionPathRotate
+     * @attr name com.example.calculator:transitionPathRotate
      */
     public static final int KeyCycle_transitionPathRotate=15;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#waveOffset}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#waveOffset}
      * attribute's value can be found in the {@link #KeyCycle} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
@@ -14765,20 +14753,20 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:waveOffset
+     * @attr name com.example.calculator:waveOffset
      */
     public static final int KeyCycle_waveOffset=16;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#wavePeriod}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#wavePeriod}
      * attribute's value can be found in the {@link #KeyCycle} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:wavePeriod
+     * @attr name com.example.calculator:wavePeriod
      */
     public static final int KeyCycle_wavePeriod=17;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#waveShape}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#waveShape}
      * attribute's value can be found in the {@link #KeyCycle} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -14796,11 +14784,11 @@ public final class R {
      * <tr><td>triangle</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:waveShape
+     * @attr name com.example.calculator:waveShape
      */
     public static final int KeyCycle_waveShape=18;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#waveVariesBy}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#waveVariesBy}
      * attribute's value can be found in the {@link #KeyCycle} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -14813,7 +14801,7 @@ public final class R {
      * <tr><td>position</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:waveVariesBy
+     * @attr name com.example.calculator:waveVariesBy
      */
     public static final int KeyCycle_waveVariesBy=19;
     public static final int[] KeyFrame={
@@ -14829,18 +14817,18 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #KeyPosition_curveFit com.example.lenovo.calculator:curveFit}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyPosition_drawPath com.example.lenovo.calculator:drawPath}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyPosition_framePosition com.example.lenovo.calculator:framePosition}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyPosition_keyPositionType com.example.lenovo.calculator:keyPositionType}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyPosition_motionTarget com.example.lenovo.calculator:motionTarget}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyPosition_pathMotionArc com.example.lenovo.calculator:pathMotionArc}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyPosition_percentHeight com.example.lenovo.calculator:percentHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyPosition_percentWidth com.example.lenovo.calculator:percentWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyPosition_percentX com.example.lenovo.calculator:percentX}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyPosition_percentY com.example.lenovo.calculator:percentY}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyPosition_sizePercent com.example.lenovo.calculator:sizePercent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyPosition_transitionEasing com.example.lenovo.calculator:transitionEasing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyPosition_curveFit com.example.calculator:curveFit}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyPosition_drawPath com.example.calculator:drawPath}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyPosition_framePosition com.example.calculator:framePosition}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyPosition_keyPositionType com.example.calculator:keyPositionType}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyPosition_motionTarget com.example.calculator:motionTarget}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyPosition_pathMotionArc com.example.calculator:pathMotionArc}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyPosition_percentHeight com.example.calculator:percentHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyPosition_percentWidth com.example.calculator:percentWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyPosition_percentX com.example.calculator:percentX}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyPosition_percentY com.example.calculator:percentY}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyPosition_sizePercent com.example.calculator:sizePercent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyPosition_transitionEasing com.example.calculator:transitionEasing}</code></td><td></td></tr>
      * </table>
      * @see #KeyPosition_curveFit
      * @see #KeyPosition_drawPath
@@ -14861,7 +14849,7 @@ public final class R {
         0x7f020149, 0x7f02014a, 0x7f02016d, 0x7f0201b0
       };
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#curveFit}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#curveFit}
      * attribute's value can be found in the {@link #KeyPosition} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -14874,11 +14862,11 @@ public final class R {
      * <tr><td>spline</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:curveFit
+     * @attr name com.example.calculator:curveFit
      */
     public static final int KeyPosition_curveFit=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#drawPath}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#drawPath}
      * attribute's value can be found in the {@link #KeyPosition} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -14895,20 +14883,20 @@ public final class R {
      * <tr><td>rectangles</td><td>5</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:drawPath
+     * @attr name com.example.calculator:drawPath
      */
     public static final int KeyPosition_drawPath=1;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#framePosition}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#framePosition}
      * attribute's value can be found in the {@link #KeyPosition} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.example.lenovo.calculator:framePosition
+     * @attr name com.example.calculator:framePosition
      */
     public static final int KeyPosition_framePosition=2;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#keyPositionType}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#keyPositionType}
      * attribute's value can be found in the {@link #KeyPosition} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -14922,11 +14910,11 @@ public final class R {
      * <tr><td>pathRelative</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:keyPositionType
+     * @attr name com.example.calculator:keyPositionType
      */
     public static final int KeyPosition_keyPositionType=3;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#motionTarget}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#motionTarget}
      * attribute's value can be found in the {@link #KeyPosition} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14936,11 +14924,11 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.example.lenovo.calculator:motionTarget
+     * @attr name com.example.calculator:motionTarget
      */
     public static final int KeyPosition_motionTarget=4;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#pathMotionArc}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#pathMotionArc}
      * attribute's value can be found in the {@link #KeyPosition} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -14955,56 +14943,56 @@ public final class R {
      * <tr><td>startVertical</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:pathMotionArc
+     * @attr name com.example.calculator:pathMotionArc
      */
     public static final int KeyPosition_pathMotionArc=5;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#percentHeight}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#percentHeight}
      * attribute's value can be found in the {@link #KeyPosition} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:percentHeight
+     * @attr name com.example.calculator:percentHeight
      */
     public static final int KeyPosition_percentHeight=6;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#percentWidth}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#percentWidth}
      * attribute's value can be found in the {@link #KeyPosition} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:percentWidth
+     * @attr name com.example.calculator:percentWidth
      */
     public static final int KeyPosition_percentWidth=7;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#percentX}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#percentX}
      * attribute's value can be found in the {@link #KeyPosition} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:percentX
+     * @attr name com.example.calculator:percentX
      */
     public static final int KeyPosition_percentX=8;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#percentY}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#percentY}
      * attribute's value can be found in the {@link #KeyPosition} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:percentY
+     * @attr name com.example.calculator:percentY
      */
     public static final int KeyPosition_percentY=9;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#sizePercent}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#sizePercent}
      * attribute's value can be found in the {@link #KeyPosition} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:sizePercent
+     * @attr name com.example.calculator:sizePercent
      */
     public static final int KeyPosition_sizePercent=10;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#transitionEasing}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#transitionEasing}
      * attribute's value can be found in the {@link #KeyPosition} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -15021,7 +15009,7 @@ public final class R {
      * <tr><td>standard</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:transitionEasing
+     * @attr name com.example.calculator:transitionEasing
      */
     public static final int KeyPosition_transitionEasing=11;
     /**
@@ -15041,16 +15029,16 @@ public final class R {
      * <tr><td><code>{@link #KeyTimeCycle_android_rotationY android:rotationY}</code></td><td></td></tr>
      * <tr><td><code>{@link #KeyTimeCycle_android_translationZ android:translationZ}</code></td><td></td></tr>
      * <tr><td><code>{@link #KeyTimeCycle_android_elevation android:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyTimeCycle_curveFit com.example.lenovo.calculator:curveFit}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyTimeCycle_framePosition com.example.lenovo.calculator:framePosition}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyTimeCycle_motionProgress com.example.lenovo.calculator:motionProgress}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyTimeCycle_motionTarget com.example.lenovo.calculator:motionTarget}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyTimeCycle_transitionEasing com.example.lenovo.calculator:transitionEasing}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyTimeCycle_transitionPathRotate com.example.lenovo.calculator:transitionPathRotate}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyTimeCycle_waveDecay com.example.lenovo.calculator:waveDecay}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyTimeCycle_waveOffset com.example.lenovo.calculator:waveOffset}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyTimeCycle_wavePeriod com.example.lenovo.calculator:wavePeriod}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyTimeCycle_waveShape com.example.lenovo.calculator:waveShape}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyTimeCycle_curveFit com.example.calculator:curveFit}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyTimeCycle_framePosition com.example.calculator:framePosition}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyTimeCycle_motionProgress com.example.calculator:motionProgress}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyTimeCycle_motionTarget com.example.calculator:motionTarget}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyTimeCycle_transitionEasing com.example.calculator:transitionEasing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyTimeCycle_transitionPathRotate com.example.calculator:transitionPathRotate}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyTimeCycle_waveDecay com.example.calculator:waveDecay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyTimeCycle_waveOffset com.example.calculator:waveOffset}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyTimeCycle_wavePeriod com.example.calculator:wavePeriod}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyTimeCycle_waveShape com.example.calculator:waveShape}</code></td><td></td></tr>
      * </table>
      * @see #KeyTimeCycle_android_alpha
      * @see #KeyTimeCycle_android_translationX
@@ -15187,7 +15175,7 @@ public final class R {
      */
     public static final int KeyTimeCycle_android_translationZ=8;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#curveFit}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#curveFit}
      * attribute's value can be found in the {@link #KeyTimeCycle} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -15200,29 +15188,29 @@ public final class R {
      * <tr><td>spline</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:curveFit
+     * @attr name com.example.calculator:curveFit
      */
     public static final int KeyTimeCycle_curveFit=10;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#framePosition}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#framePosition}
      * attribute's value can be found in the {@link #KeyTimeCycle} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.example.lenovo.calculator:framePosition
+     * @attr name com.example.calculator:framePosition
      */
     public static final int KeyTimeCycle_framePosition=11;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#motionProgress}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#motionProgress}
      * attribute's value can be found in the {@link #KeyTimeCycle} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:motionProgress
+     * @attr name com.example.calculator:motionProgress
      */
     public static final int KeyTimeCycle_motionProgress=12;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#motionTarget}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#motionTarget}
      * attribute's value can be found in the {@link #KeyTimeCycle} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15232,11 +15220,11 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.example.lenovo.calculator:motionTarget
+     * @attr name com.example.calculator:motionTarget
      */
     public static final int KeyTimeCycle_motionTarget=13;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#transitionEasing}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#transitionEasing}
      * attribute's value can be found in the {@link #KeyTimeCycle} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -15253,29 +15241,29 @@ public final class R {
      * <tr><td>standard</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:transitionEasing
+     * @attr name com.example.calculator:transitionEasing
      */
     public static final int KeyTimeCycle_transitionEasing=14;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#transitionPathRotate}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#transitionPathRotate}
      * attribute's value can be found in the {@link #KeyTimeCycle} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:transitionPathRotate
+     * @attr name com.example.calculator:transitionPathRotate
      */
     public static final int KeyTimeCycle_transitionPathRotate=15;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#waveDecay}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#waveDecay}
      * attribute's value can be found in the {@link #KeyTimeCycle} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.example.lenovo.calculator:waveDecay
+     * @attr name com.example.calculator:waveDecay
      */
     public static final int KeyTimeCycle_waveDecay=16;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#waveOffset}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#waveOffset}
      * attribute's value can be found in the {@link #KeyTimeCycle} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
@@ -15285,20 +15273,20 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:waveOffset
+     * @attr name com.example.calculator:waveOffset
      */
     public static final int KeyTimeCycle_waveOffset=17;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#wavePeriod}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#wavePeriod}
      * attribute's value can be found in the {@link #KeyTimeCycle} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:wavePeriod
+     * @attr name com.example.calculator:wavePeriod
      */
     public static final int KeyTimeCycle_wavePeriod=18;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#waveShape}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#waveShape}
      * attribute's value can be found in the {@link #KeyTimeCycle} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -15316,7 +15304,7 @@ public final class R {
      * <tr><td>triangle</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:waveShape
+     * @attr name com.example.calculator:waveShape
      */
     public static final int KeyTimeCycle_waveShape=19;
     /**
@@ -15326,16 +15314,16 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #KeyTrigger_framePosition com.example.lenovo.calculator:framePosition}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyTrigger_motionTarget com.example.lenovo.calculator:motionTarget}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyTrigger_motion_postLayoutCollision com.example.lenovo.calculator:motion_postLayoutCollision}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyTrigger_motion_triggerOnCollision com.example.lenovo.calculator:motion_triggerOnCollision}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyTrigger_onCross com.example.lenovo.calculator:onCross}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyTrigger_onNegativeCross com.example.lenovo.calculator:onNegativeCross}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyTrigger_onPositiveCross com.example.lenovo.calculator:onPositiveCross}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyTrigger_triggerId com.example.lenovo.calculator:triggerId}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyTrigger_triggerReceiver com.example.lenovo.calculator:triggerReceiver}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyTrigger_triggerSlack com.example.lenovo.calculator:triggerSlack}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyTrigger_framePosition com.example.calculator:framePosition}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyTrigger_motionTarget com.example.calculator:motionTarget}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyTrigger_motion_postLayoutCollision com.example.calculator:motion_postLayoutCollision}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyTrigger_motion_triggerOnCollision com.example.calculator:motion_triggerOnCollision}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyTrigger_onCross com.example.calculator:onCross}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyTrigger_onNegativeCross com.example.calculator:onNegativeCross}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyTrigger_onPositiveCross com.example.calculator:onPositiveCross}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyTrigger_triggerId com.example.calculator:triggerId}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyTrigger_triggerReceiver com.example.calculator:triggerReceiver}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyTrigger_triggerSlack com.example.calculator:triggerSlack}</code></td><td></td></tr>
      * </table>
      * @see #KeyTrigger_framePosition
      * @see #KeyTrigger_motionTarget
@@ -15354,16 +15342,16 @@ public final class R {
         0x7f0201b4, 0x7f0201b5
       };
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#framePosition}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#framePosition}
      * attribute's value can be found in the {@link #KeyTrigger} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.example.lenovo.calculator:framePosition
+     * @attr name com.example.calculator:framePosition
      */
     public static final int KeyTrigger_framePosition=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#motionTarget}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#motionTarget}
      * attribute's value can be found in the {@link #KeyTrigger} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15373,21 +15361,21 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.example.lenovo.calculator:motionTarget
+     * @attr name com.example.calculator:motionTarget
      */
     public static final int KeyTrigger_motionTarget=1;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#motion_postLayoutCollision}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#motion_postLayoutCollision}
      * attribute's value can be found in the {@link #KeyTrigger} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.lenovo.calculator:motion_postLayoutCollision
+     * @attr name com.example.calculator:motion_postLayoutCollision
      */
     public static final int KeyTrigger_motion_postLayoutCollision=2;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#motion_triggerOnCollision}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#motion_triggerOnCollision}
      * attribute's value can be found in the {@link #KeyTrigger} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15395,41 +15383,41 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:motion_triggerOnCollision
+     * @attr name com.example.calculator:motion_triggerOnCollision
      */
     public static final int KeyTrigger_motion_triggerOnCollision=3;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#onCross}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#onCross}
      * attribute's value can be found in the {@link #KeyTrigger} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.example.lenovo.calculator:onCross
+     * @attr name com.example.calculator:onCross
      */
     public static final int KeyTrigger_onCross=4;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#onNegativeCross}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#onNegativeCross}
      * attribute's value can be found in the {@link #KeyTrigger} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.example.lenovo.calculator:onNegativeCross
+     * @attr name com.example.calculator:onNegativeCross
      */
     public static final int KeyTrigger_onNegativeCross=5;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#onPositiveCross}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#onPositiveCross}
      * attribute's value can be found in the {@link #KeyTrigger} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.example.lenovo.calculator:onPositiveCross
+     * @attr name com.example.calculator:onPositiveCross
      */
     public static final int KeyTrigger_onPositiveCross=6;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#triggerId}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#triggerId}
      * attribute's value can be found in the {@link #KeyTrigger} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15437,11 +15425,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:triggerId
+     * @attr name com.example.calculator:triggerId
      */
     public static final int KeyTrigger_triggerId=7;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#triggerReceiver}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#triggerReceiver}
      * attribute's value can be found in the {@link #KeyTrigger} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15449,16 +15437,16 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:triggerReceiver
+     * @attr name com.example.calculator:triggerReceiver
      */
     public static final int KeyTrigger_triggerReceiver=8;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#triggerSlack}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#triggerSlack}
      * attribute's value can be found in the {@link #KeyTrigger} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:triggerSlack
+     * @attr name com.example.calculator:triggerSlack
      */
     public static final int KeyTrigger_triggerSlack=9;
     /**
@@ -15477,65 +15465,65 @@ public final class R {
      * <tr><td><code>{@link #Layout_android_layout_marginBottom android:layout_marginBottom}</code></td><td></td></tr>
      * <tr><td><code>{@link #Layout_android_layout_marginStart android:layout_marginStart}</code></td><td></td></tr>
      * <tr><td><code>{@link #Layout_android_layout_marginEnd android:layout_marginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_barrierAllowsGoneWidgets com.example.lenovo.calculator:barrierAllowsGoneWidgets}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_barrierDirection com.example.lenovo.calculator:barrierDirection}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_barrierMargin com.example.lenovo.calculator:barrierMargin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_chainUseRtl com.example.lenovo.calculator:chainUseRtl}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_constraint_referenced_ids com.example.lenovo.calculator:constraint_referenced_ids}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_constraint_referenced_tags com.example.lenovo.calculator:constraint_referenced_tags}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constrainedHeight com.example.lenovo.calculator:layout_constrainedHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constrainedWidth com.example.lenovo.calculator:layout_constrainedWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintBaseline_creator com.example.lenovo.calculator:layout_constraintBaseline_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintBaseline_toBaselineOf com.example.lenovo.calculator:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintBottom_creator com.example.lenovo.calculator:layout_constraintBottom_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintBottom_toBottomOf com.example.lenovo.calculator:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintBottom_toTopOf com.example.lenovo.calculator:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintCircle com.example.lenovo.calculator:layout_constraintCircle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintCircleAngle com.example.lenovo.calculator:layout_constraintCircleAngle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintCircleRadius com.example.lenovo.calculator:layout_constraintCircleRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintDimensionRatio com.example.lenovo.calculator:layout_constraintDimensionRatio}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintEnd_toEndOf com.example.lenovo.calculator:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintEnd_toStartOf com.example.lenovo.calculator:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintGuide_begin com.example.lenovo.calculator:layout_constraintGuide_begin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintGuide_end com.example.lenovo.calculator:layout_constraintGuide_end}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintGuide_percent com.example.lenovo.calculator:layout_constraintGuide_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintHeight_default com.example.lenovo.calculator:layout_constraintHeight_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintHeight_max com.example.lenovo.calculator:layout_constraintHeight_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintHeight_min com.example.lenovo.calculator:layout_constraintHeight_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintHeight_percent com.example.lenovo.calculator:layout_constraintHeight_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintHorizontal_bias com.example.lenovo.calculator:layout_constraintHorizontal_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintHorizontal_chainStyle com.example.lenovo.calculator:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintHorizontal_weight com.example.lenovo.calculator:layout_constraintHorizontal_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintLeft_creator com.example.lenovo.calculator:layout_constraintLeft_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintLeft_toLeftOf com.example.lenovo.calculator:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintLeft_toRightOf com.example.lenovo.calculator:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintRight_creator com.example.lenovo.calculator:layout_constraintRight_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintRight_toLeftOf com.example.lenovo.calculator:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintRight_toRightOf com.example.lenovo.calculator:layout_constraintRight_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintStart_toEndOf com.example.lenovo.calculator:layout_constraintStart_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintStart_toStartOf com.example.lenovo.calculator:layout_constraintStart_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintTop_creator com.example.lenovo.calculator:layout_constraintTop_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintTop_toBottomOf com.example.lenovo.calculator:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintTop_toTopOf com.example.lenovo.calculator:layout_constraintTop_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintVertical_bias com.example.lenovo.calculator:layout_constraintVertical_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintVertical_chainStyle com.example.lenovo.calculator:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintVertical_weight com.example.lenovo.calculator:layout_constraintVertical_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintWidth_default com.example.lenovo.calculator:layout_constraintWidth_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintWidth_max com.example.lenovo.calculator:layout_constraintWidth_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintWidth_min com.example.lenovo.calculator:layout_constraintWidth_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintWidth_percent com.example.lenovo.calculator:layout_constraintWidth_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_editor_absoluteX com.example.lenovo.calculator:layout_editor_absoluteX}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_editor_absoluteY com.example.lenovo.calculator:layout_editor_absoluteY}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_goneMarginBottom com.example.lenovo.calculator:layout_goneMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_goneMarginEnd com.example.lenovo.calculator:layout_goneMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_goneMarginLeft com.example.lenovo.calculator:layout_goneMarginLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_goneMarginRight com.example.lenovo.calculator:layout_goneMarginRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_goneMarginStart com.example.lenovo.calculator:layout_goneMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_goneMarginTop com.example.lenovo.calculator:layout_goneMarginTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_maxHeight com.example.lenovo.calculator:maxHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_maxWidth com.example.lenovo.calculator:maxWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_minHeight com.example.lenovo.calculator:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_minWidth com.example.lenovo.calculator:minWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_barrierAllowsGoneWidgets com.example.calculator:barrierAllowsGoneWidgets}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_barrierDirection com.example.calculator:barrierDirection}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_barrierMargin com.example.calculator:barrierMargin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_chainUseRtl com.example.calculator:chainUseRtl}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_constraint_referenced_ids com.example.calculator:constraint_referenced_ids}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_constraint_referenced_tags com.example.calculator:constraint_referenced_tags}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constrainedHeight com.example.calculator:layout_constrainedHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constrainedWidth com.example.calculator:layout_constrainedWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintBaseline_creator com.example.calculator:layout_constraintBaseline_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintBaseline_toBaselineOf com.example.calculator:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintBottom_creator com.example.calculator:layout_constraintBottom_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintBottom_toBottomOf com.example.calculator:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintBottom_toTopOf com.example.calculator:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintCircle com.example.calculator:layout_constraintCircle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintCircleAngle com.example.calculator:layout_constraintCircleAngle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintCircleRadius com.example.calculator:layout_constraintCircleRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintDimensionRatio com.example.calculator:layout_constraintDimensionRatio}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintEnd_toEndOf com.example.calculator:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintEnd_toStartOf com.example.calculator:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintGuide_begin com.example.calculator:layout_constraintGuide_begin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintGuide_end com.example.calculator:layout_constraintGuide_end}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintGuide_percent com.example.calculator:layout_constraintGuide_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintHeight_default com.example.calculator:layout_constraintHeight_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintHeight_max com.example.calculator:layout_constraintHeight_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintHeight_min com.example.calculator:layout_constraintHeight_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintHeight_percent com.example.calculator:layout_constraintHeight_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintHorizontal_bias com.example.calculator:layout_constraintHorizontal_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintHorizontal_chainStyle com.example.calculator:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintHorizontal_weight com.example.calculator:layout_constraintHorizontal_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintLeft_creator com.example.calculator:layout_constraintLeft_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintLeft_toLeftOf com.example.calculator:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintLeft_toRightOf com.example.calculator:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintRight_creator com.example.calculator:layout_constraintRight_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintRight_toLeftOf com.example.calculator:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintRight_toRightOf com.example.calculator:layout_constraintRight_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintStart_toEndOf com.example.calculator:layout_constraintStart_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintStart_toStartOf com.example.calculator:layout_constraintStart_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintTop_creator com.example.calculator:layout_constraintTop_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintTop_toBottomOf com.example.calculator:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintTop_toTopOf com.example.calculator:layout_constraintTop_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintVertical_bias com.example.calculator:layout_constraintVertical_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintVertical_chainStyle com.example.calculator:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintVertical_weight com.example.calculator:layout_constraintVertical_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintWidth_default com.example.calculator:layout_constraintWidth_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintWidth_max com.example.calculator:layout_constraintWidth_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintWidth_min com.example.calculator:layout_constraintWidth_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintWidth_percent com.example.calculator:layout_constraintWidth_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_editor_absoluteX com.example.calculator:layout_editor_absoluteX}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_editor_absoluteY com.example.calculator:layout_editor_absoluteY}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_goneMarginBottom com.example.calculator:layout_goneMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_goneMarginEnd com.example.calculator:layout_goneMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_goneMarginLeft com.example.calculator:layout_goneMarginLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_goneMarginRight com.example.calculator:layout_goneMarginRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_goneMarginStart com.example.calculator:layout_goneMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_goneMarginTop com.example.calculator:layout_goneMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_maxHeight com.example.calculator:maxHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_maxWidth com.example.calculator:maxWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_minHeight com.example.calculator:minHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_minWidth com.example.calculator:minWidth}</code></td><td></td></tr>
      * </table>
      * @see #Layout_android_orientation
      * @see #Layout_android_layout_width
@@ -15767,17 +15755,17 @@ public final class R {
      */
     public static final int Layout_android_orientation=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#barrierAllowsGoneWidgets}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#barrierAllowsGoneWidgets}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.lenovo.calculator:barrierAllowsGoneWidgets
+     * @attr name com.example.calculator:barrierAllowsGoneWidgets
      */
     public static final int Layout_barrierAllowsGoneWidgets=9;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#barrierDirection}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#barrierDirection}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -15794,11 +15782,11 @@ public final class R {
      * <tr><td>top</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:barrierDirection
+     * @attr name com.example.calculator:barrierDirection
      */
     public static final int Layout_barrierDirection=10;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#barrierMargin}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#barrierMargin}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15807,70 +15795,70 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:barrierMargin
+     * @attr name com.example.calculator:barrierMargin
      */
     public static final int Layout_barrierMargin=11;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#chainUseRtl}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#chainUseRtl}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.lenovo.calculator:chainUseRtl
+     * @attr name com.example.calculator:chainUseRtl
      */
     public static final int Layout_chainUseRtl=12;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#constraint_referenced_ids}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#constraint_referenced_ids}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.example.lenovo.calculator:constraint_referenced_ids
+     * @attr name com.example.calculator:constraint_referenced_ids
      */
     public static final int Layout_constraint_referenced_ids=13;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#constraint_referenced_tags}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#constraint_referenced_tags}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.example.lenovo.calculator:constraint_referenced_tags
+     * @attr name com.example.calculator:constraint_referenced_tags
      */
     public static final int Layout_constraint_referenced_tags=14;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constrainedHeight}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constrainedHeight}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constrainedHeight
+     * @attr name com.example.calculator:layout_constrainedHeight
      */
     public static final int Layout_layout_constrainedHeight=15;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constrainedWidth}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constrainedWidth}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constrainedWidth
+     * @attr name com.example.calculator:layout_constrainedWidth
      */
     public static final int Layout_layout_constrainedWidth=16;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintBaseline_creator}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintBaseline_creator}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintBaseline_creator
+     * @attr name com.example.calculator:layout_constraintBaseline_creator
      */
     public static final int Layout_layout_constraintBaseline_creator=17;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintBaseline_toBaselineOf}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintBaseline_toBaselineOf}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15886,20 +15874,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintBaseline_toBaselineOf
+     * @attr name com.example.calculator:layout_constraintBaseline_toBaselineOf
      */
     public static final int Layout_layout_constraintBaseline_toBaselineOf=18;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintBottom_creator}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintBottom_creator}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintBottom_creator
+     * @attr name com.example.calculator:layout_constraintBottom_creator
      */
     public static final int Layout_layout_constraintBottom_creator=19;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintBottom_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintBottom_toBottomOf}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15915,11 +15903,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintBottom_toBottomOf
+     * @attr name com.example.calculator:layout_constraintBottom_toBottomOf
      */
     public static final int Layout_layout_constraintBottom_toBottomOf=20;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintBottom_toTopOf}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintBottom_toTopOf}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15935,11 +15923,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintBottom_toTopOf
+     * @attr name com.example.calculator:layout_constraintBottom_toTopOf
      */
     public static final int Layout_layout_constraintBottom_toTopOf=21;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintCircle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintCircle}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15947,20 +15935,20 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintCircle
+     * @attr name com.example.calculator:layout_constraintCircle
      */
     public static final int Layout_layout_constraintCircle=22;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintCircleAngle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintCircleAngle}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintCircleAngle
+     * @attr name com.example.calculator:layout_constraintCircleAngle
      */
     public static final int Layout_layout_constraintCircleAngle=23;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintCircleRadius}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintCircleRadius}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15969,21 +15957,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintCircleRadius
+     * @attr name com.example.calculator:layout_constraintCircleRadius
      */
     public static final int Layout_layout_constraintCircleRadius=24;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintDimensionRatio}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintDimensionRatio}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintDimensionRatio
+     * @attr name com.example.calculator:layout_constraintDimensionRatio
      */
     public static final int Layout_layout_constraintDimensionRatio=25;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintEnd_toEndOf}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintEnd_toEndOf}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15999,11 +15987,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintEnd_toEndOf
+     * @attr name com.example.calculator:layout_constraintEnd_toEndOf
      */
     public static final int Layout_layout_constraintEnd_toEndOf=26;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintEnd_toStartOf}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintEnd_toStartOf}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16019,11 +16007,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintEnd_toStartOf
+     * @attr name com.example.calculator:layout_constraintEnd_toStartOf
      */
     public static final int Layout_layout_constraintEnd_toStartOf=27;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintGuide_begin}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintGuide_begin}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16032,11 +16020,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintGuide_begin
+     * @attr name com.example.calculator:layout_constraintGuide_begin
      */
     public static final int Layout_layout_constraintGuide_begin=28;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintGuide_end}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintGuide_end}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16045,20 +16033,20 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintGuide_end
+     * @attr name com.example.calculator:layout_constraintGuide_end
      */
     public static final int Layout_layout_constraintGuide_end=29;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintGuide_percent}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintGuide_percent}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintGuide_percent
+     * @attr name com.example.calculator:layout_constraintGuide_percent
      */
     public static final int Layout_layout_constraintGuide_percent=30;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintHeight_default}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintHeight_default}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -16072,11 +16060,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintHeight_default
+     * @attr name com.example.calculator:layout_constraintHeight_default
      */
     public static final int Layout_layout_constraintHeight_default=31;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintHeight_max}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintHeight_max}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16093,11 +16081,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintHeight_max
+     * @attr name com.example.calculator:layout_constraintHeight_max
      */
     public static final int Layout_layout_constraintHeight_max=32;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintHeight_min}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintHeight_min}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16114,29 +16102,29 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintHeight_min
+     * @attr name com.example.calculator:layout_constraintHeight_min
      */
     public static final int Layout_layout_constraintHeight_min=33;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintHeight_percent}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintHeight_percent}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintHeight_percent
+     * @attr name com.example.calculator:layout_constraintHeight_percent
      */
     public static final int Layout_layout_constraintHeight_percent=34;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintHorizontal_bias}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintHorizontal_bias}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintHorizontal_bias
+     * @attr name com.example.calculator:layout_constraintHorizontal_bias
      */
     public static final int Layout_layout_constraintHorizontal_bias=35;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintHorizontal_chainStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintHorizontal_chainStyle}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -16150,29 +16138,29 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintHorizontal_chainStyle
+     * @attr name com.example.calculator:layout_constraintHorizontal_chainStyle
      */
     public static final int Layout_layout_constraintHorizontal_chainStyle=36;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintHorizontal_weight}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintHorizontal_weight}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintHorizontal_weight
+     * @attr name com.example.calculator:layout_constraintHorizontal_weight
      */
     public static final int Layout_layout_constraintHorizontal_weight=37;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintLeft_creator}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintLeft_creator}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintLeft_creator
+     * @attr name com.example.calculator:layout_constraintLeft_creator
      */
     public static final int Layout_layout_constraintLeft_creator=38;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintLeft_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintLeft_toLeftOf}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16188,11 +16176,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintLeft_toLeftOf
+     * @attr name com.example.calculator:layout_constraintLeft_toLeftOf
      */
     public static final int Layout_layout_constraintLeft_toLeftOf=39;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintLeft_toRightOf}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintLeft_toRightOf}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16208,20 +16196,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintLeft_toRightOf
+     * @attr name com.example.calculator:layout_constraintLeft_toRightOf
      */
     public static final int Layout_layout_constraintLeft_toRightOf=40;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintRight_creator}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintRight_creator}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintRight_creator
+     * @attr name com.example.calculator:layout_constraintRight_creator
      */
     public static final int Layout_layout_constraintRight_creator=41;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintRight_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintRight_toLeftOf}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16237,11 +16225,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintRight_toLeftOf
+     * @attr name com.example.calculator:layout_constraintRight_toLeftOf
      */
     public static final int Layout_layout_constraintRight_toLeftOf=42;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintRight_toRightOf}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintRight_toRightOf}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16257,11 +16245,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintRight_toRightOf
+     * @attr name com.example.calculator:layout_constraintRight_toRightOf
      */
     public static final int Layout_layout_constraintRight_toRightOf=43;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintStart_toEndOf}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintStart_toEndOf}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16277,11 +16265,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintStart_toEndOf
+     * @attr name com.example.calculator:layout_constraintStart_toEndOf
      */
     public static final int Layout_layout_constraintStart_toEndOf=44;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintStart_toStartOf}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintStart_toStartOf}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16297,20 +16285,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintStart_toStartOf
+     * @attr name com.example.calculator:layout_constraintStart_toStartOf
      */
     public static final int Layout_layout_constraintStart_toStartOf=45;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintTop_creator}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintTop_creator}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintTop_creator
+     * @attr name com.example.calculator:layout_constraintTop_creator
      */
     public static final int Layout_layout_constraintTop_creator=46;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintTop_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintTop_toBottomOf}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16326,11 +16314,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintTop_toBottomOf
+     * @attr name com.example.calculator:layout_constraintTop_toBottomOf
      */
     public static final int Layout_layout_constraintTop_toBottomOf=47;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintTop_toTopOf}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintTop_toTopOf}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16346,20 +16334,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintTop_toTopOf
+     * @attr name com.example.calculator:layout_constraintTop_toTopOf
      */
     public static final int Layout_layout_constraintTop_toTopOf=48;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintVertical_bias}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintVertical_bias}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintVertical_bias
+     * @attr name com.example.calculator:layout_constraintVertical_bias
      */
     public static final int Layout_layout_constraintVertical_bias=49;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintVertical_chainStyle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintVertical_chainStyle}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -16373,20 +16361,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintVertical_chainStyle
+     * @attr name com.example.calculator:layout_constraintVertical_chainStyle
      */
     public static final int Layout_layout_constraintVertical_chainStyle=50;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintVertical_weight}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintVertical_weight}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintVertical_weight
+     * @attr name com.example.calculator:layout_constraintVertical_weight
      */
     public static final int Layout_layout_constraintVertical_weight=51;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintWidth_default}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintWidth_default}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -16400,11 +16388,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintWidth_default
+     * @attr name com.example.calculator:layout_constraintWidth_default
      */
     public static final int Layout_layout_constraintWidth_default=52;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintWidth_max}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintWidth_max}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16421,11 +16409,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintWidth_max
+     * @attr name com.example.calculator:layout_constraintWidth_max
      */
     public static final int Layout_layout_constraintWidth_max=53;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintWidth_min}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintWidth_min}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16442,20 +16430,20 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintWidth_min
+     * @attr name com.example.calculator:layout_constraintWidth_min
      */
     public static final int Layout_layout_constraintWidth_min=54;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintWidth_percent}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintWidth_percent}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintWidth_percent
+     * @attr name com.example.calculator:layout_constraintWidth_percent
      */
     public static final int Layout_layout_constraintWidth_percent=55;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_editor_absoluteX}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_editor_absoluteX}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16464,11 +16452,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:layout_editor_absoluteX
+     * @attr name com.example.calculator:layout_editor_absoluteX
      */
     public static final int Layout_layout_editor_absoluteX=56;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_editor_absoluteY}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_editor_absoluteY}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16477,11 +16465,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:layout_editor_absoluteY
+     * @attr name com.example.calculator:layout_editor_absoluteY
      */
     public static final int Layout_layout_editor_absoluteY=57;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_goneMarginBottom}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_goneMarginBottom}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16490,11 +16478,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:layout_goneMarginBottom
+     * @attr name com.example.calculator:layout_goneMarginBottom
      */
     public static final int Layout_layout_goneMarginBottom=58;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_goneMarginEnd}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_goneMarginEnd}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16503,11 +16491,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:layout_goneMarginEnd
+     * @attr name com.example.calculator:layout_goneMarginEnd
      */
     public static final int Layout_layout_goneMarginEnd=59;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_goneMarginLeft}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_goneMarginLeft}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16516,11 +16504,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:layout_goneMarginLeft
+     * @attr name com.example.calculator:layout_goneMarginLeft
      */
     public static final int Layout_layout_goneMarginLeft=60;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_goneMarginRight}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_goneMarginRight}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16529,11 +16517,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:layout_goneMarginRight
+     * @attr name com.example.calculator:layout_goneMarginRight
      */
     public static final int Layout_layout_goneMarginRight=61;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_goneMarginStart}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_goneMarginStart}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16542,11 +16530,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:layout_goneMarginStart
+     * @attr name com.example.calculator:layout_goneMarginStart
      */
     public static final int Layout_layout_goneMarginStart=62;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_goneMarginTop}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_goneMarginTop}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16555,11 +16543,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:layout_goneMarginTop
+     * @attr name com.example.calculator:layout_goneMarginTop
      */
     public static final int Layout_layout_goneMarginTop=63;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#maxHeight}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#maxHeight}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16568,11 +16556,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:maxHeight
+     * @attr name com.example.calculator:maxHeight
      */
     public static final int Layout_maxHeight=64;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#maxWidth}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#maxWidth}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16581,11 +16569,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:maxWidth
+     * @attr name com.example.calculator:maxWidth
      */
     public static final int Layout_maxWidth=65;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#minHeight}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#minHeight}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16594,11 +16582,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:minHeight
+     * @attr name com.example.calculator:minHeight
      */
     public static final int Layout_minHeight=66;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#minWidth}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#minWidth}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16607,7 +16595,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:minWidth
+     * @attr name com.example.calculator:minWidth
      */
     public static final int Layout_minWidth=67;
     /**
@@ -16622,10 +16610,10 @@ public final class R {
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAligned android:baselineAligned}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAlignedChildIndex android:baselineAlignedChildIndex}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_divider com.example.lenovo.calculator:divider}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.example.lenovo.calculator:dividerPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.example.lenovo.calculator:measureWithLargestChild}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_showDividers com.example.lenovo.calculator:showDividers}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_divider com.example.calculator:divider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.example.calculator:dividerPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.example.calculator:measureWithLargestChild}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_showDividers com.example.calculator:showDividers}</code></td><td></td></tr>
      * </table>
      * @see #LinearLayoutCompat_android_gravity
      * @see #LinearLayoutCompat_android_orientation
@@ -16821,7 +16809,7 @@ public final class R {
      */
     public static final int LinearLayoutCompat_android_weightSum=4;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#divider}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#divider}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16829,11 +16817,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:divider
+     * @attr name com.example.calculator:divider
      */
     public static final int LinearLayoutCompat_divider=5;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#dividerPadding}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#dividerPadding}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16842,21 +16830,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:dividerPadding
+     * @attr name com.example.calculator:dividerPadding
      */
     public static final int LinearLayoutCompat_dividerPadding=6;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#measureWithLargestChild}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#measureWithLargestChild}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.lenovo.calculator:measureWithLargestChild
+     * @attr name com.example.calculator:measureWithLargestChild
      */
     public static final int LinearLayoutCompat_measureWithLargestChild=7;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#showDividers}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#showDividers}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -16871,7 +16859,7 @@ public final class R {
      * <tr><td>none</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:showDividers
+     * @attr name com.example.calculator:showDividers
      */
     public static final int LinearLayoutCompat_showDividers=8;
     /**
@@ -17039,16 +17027,16 @@ public final class R {
      * <tr><td><code>{@link #MenuItem_android_numericShortcut android:numericShortcut}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_onClick android:onClick}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionLayout com.example.lenovo.calculator:actionLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionProviderClass com.example.lenovo.calculator:actionProviderClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionViewClass com.example.lenovo.calculator:actionViewClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_alphabeticModifiers com.example.lenovo.calculator:alphabeticModifiers}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_contentDescription com.example.lenovo.calculator:contentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_iconTint com.example.lenovo.calculator:iconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_iconTintMode com.example.lenovo.calculator:iconTintMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_numericModifiers com.example.lenovo.calculator:numericModifiers}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_showAsAction com.example.lenovo.calculator:showAsAction}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_tooltipText com.example.lenovo.calculator:tooltipText}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionLayout com.example.calculator:actionLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionProviderClass com.example.calculator:actionProviderClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionViewClass com.example.calculator:actionViewClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_alphabeticModifiers com.example.calculator:alphabeticModifiers}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_contentDescription com.example.calculator:contentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_iconTint com.example.calculator:iconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_iconTintMode com.example.calculator:iconTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_numericModifiers com.example.calculator:numericModifiers}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_showAsAction com.example.calculator:showAsAction}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_tooltipText com.example.calculator:tooltipText}</code></td><td></td></tr>
      * </table>
      * @see #MenuItem_android_icon
      * @see #MenuItem_android_enabled
@@ -17083,7 +17071,7 @@ public final class R {
         0x7f020135, 0x7f020167, 0x7f0201a8
       };
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#actionLayout}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#actionLayout}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17091,31 +17079,31 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:actionLayout
+     * @attr name com.example.calculator:actionLayout
      */
     public static final int MenuItem_actionLayout=13;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#actionProviderClass}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#actionProviderClass}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.example.lenovo.calculator:actionProviderClass
+     * @attr name com.example.calculator:actionProviderClass
      */
     public static final int MenuItem_actionProviderClass=14;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#actionViewClass}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#actionViewClass}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.example.lenovo.calculator:actionViewClass
+     * @attr name com.example.calculator:actionViewClass
      */
     public static final int MenuItem_actionViewClass=15;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#alphabeticModifiers}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#alphabeticModifiers}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -17132,7 +17120,7 @@ public final class R {
      * <tr><td>SYM</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:alphabeticModifiers
+     * @attr name com.example.calculator:alphabeticModifiers
      */
     public static final int MenuItem_alphabeticModifiers=16;
     /**
@@ -17278,28 +17266,28 @@ public final class R {
      */
     public static final int MenuItem_android_visible=4;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#contentDescription}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#contentDescription}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.example.lenovo.calculator:contentDescription
+     * @attr name com.example.calculator:contentDescription
      */
     public static final int MenuItem_contentDescription=17;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#iconTint}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#iconTint}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:iconTint
+     * @attr name com.example.calculator:iconTint
      */
     public static final int MenuItem_iconTint=18;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#iconTintMode}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#iconTintMode}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -17316,11 +17304,11 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:iconTintMode
+     * @attr name com.example.calculator:iconTintMode
      */
     public static final int MenuItem_iconTintMode=19;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#numericModifiers}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#numericModifiers}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -17337,11 +17325,11 @@ public final class R {
      * <tr><td>SYM</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:numericModifiers
+     * @attr name com.example.calculator:numericModifiers
      */
     public static final int MenuItem_numericModifiers=20;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#showAsAction}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#showAsAction}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -17357,17 +17345,17 @@ public final class R {
      * <tr><td>withText</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:showAsAction
+     * @attr name com.example.calculator:showAsAction
      */
     public static final int MenuItem_showAsAction=21;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#tooltipText}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#tooltipText}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.example.lenovo.calculator:tooltipText
+     * @attr name com.example.calculator:tooltipText
      */
     public static final int MenuItem_tooltipText=22;
     /**
@@ -17384,8 +17372,8 @@ public final class R {
      * <tr><td><code>{@link #MenuView_android_headerBackground android:headerBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemBackground android:itemBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemIconDisabledAlpha android:itemIconDisabledAlpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuView_preserveIconSpacing com.example.lenovo.calculator:preserveIconSpacing}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuView_subMenuArrow com.example.lenovo.calculator:subMenuArrow}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuView_preserveIconSpacing com.example.calculator:preserveIconSpacing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuView_subMenuArrow com.example.calculator:subMenuArrow}</code></td><td></td></tr>
      * </table>
      * @see #MenuView_android_windowAnimationStyle
      * @see #MenuView_android_itemTextAppearance
@@ -17490,17 +17478,17 @@ public final class R {
      */
     public static final int MenuView_android_windowAnimationStyle=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#preserveIconSpacing}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#preserveIconSpacing}
      * attribute's value can be found in the {@link #MenuView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.lenovo.calculator:preserveIconSpacing
+     * @attr name com.example.calculator:preserveIconSpacing
      */
     public static final int MenuView_preserveIconSpacing=7;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#subMenuArrow}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#subMenuArrow}
      * attribute's value can be found in the {@link #MenuView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17508,7 +17496,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:subMenuArrow
+     * @attr name com.example.calculator:subMenuArrow
      */
     public static final int MenuView_subMenuArrow=8;
     /**
@@ -17518,12 +17506,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #MockView_mock_diagonalsColor com.example.lenovo.calculator:mock_diagonalsColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MockView_mock_label com.example.lenovo.calculator:mock_label}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MockView_mock_labelBackgroundColor com.example.lenovo.calculator:mock_labelBackgroundColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MockView_mock_labelColor com.example.lenovo.calculator:mock_labelColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MockView_mock_showDiagonals com.example.lenovo.calculator:mock_showDiagonals}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MockView_mock_showLabel com.example.lenovo.calculator:mock_showLabel}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MockView_mock_diagonalsColor com.example.calculator:mock_diagonalsColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MockView_mock_label com.example.calculator:mock_label}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MockView_mock_labelBackgroundColor com.example.calculator:mock_labelBackgroundColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MockView_mock_labelColor com.example.calculator:mock_labelColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MockView_mock_showDiagonals com.example.calculator:mock_showDiagonals}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MockView_mock_showLabel com.example.calculator:mock_showLabel}</code></td><td></td></tr>
      * </table>
      * @see #MockView_mock_diagonalsColor
      * @see #MockView_mock_label
@@ -17537,66 +17525,66 @@ public final class R {
         0x7f020125, 0x7f020126
       };
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#mock_diagonalsColor}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#mock_diagonalsColor}
      * attribute's value can be found in the {@link #MockView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:mock_diagonalsColor
+     * @attr name com.example.calculator:mock_diagonalsColor
      */
     public static final int MockView_mock_diagonalsColor=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#mock_label}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#mock_label}
      * attribute's value can be found in the {@link #MockView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.example.lenovo.calculator:mock_label
+     * @attr name com.example.calculator:mock_label
      */
     public static final int MockView_mock_label=1;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#mock_labelBackgroundColor}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#mock_labelBackgroundColor}
      * attribute's value can be found in the {@link #MockView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:mock_labelBackgroundColor
+     * @attr name com.example.calculator:mock_labelBackgroundColor
      */
     public static final int MockView_mock_labelBackgroundColor=2;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#mock_labelColor}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#mock_labelColor}
      * attribute's value can be found in the {@link #MockView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:mock_labelColor
+     * @attr name com.example.calculator:mock_labelColor
      */
     public static final int MockView_mock_labelColor=3;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#mock_showDiagonals}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#mock_showDiagonals}
      * attribute's value can be found in the {@link #MockView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.lenovo.calculator:mock_showDiagonals
+     * @attr name com.example.calculator:mock_showDiagonals
      */
     public static final int MockView_mock_showDiagonals=4;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#mock_showLabel}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#mock_showLabel}
      * attribute's value can be found in the {@link #MockView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.lenovo.calculator:mock_showLabel
+     * @attr name com.example.calculator:mock_showLabel
      */
     public static final int MockView_mock_showLabel=5;
     /**
@@ -17606,12 +17594,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #Motion_animate_relativeTo com.example.lenovo.calculator:animate_relativeTo}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Motion_drawPath com.example.lenovo.calculator:drawPath}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Motion_motionPathRotate com.example.lenovo.calculator:motionPathRotate}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Motion_motionStagger com.example.lenovo.calculator:motionStagger}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Motion_pathMotionArc com.example.lenovo.calculator:pathMotionArc}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Motion_transitionEasing com.example.lenovo.calculator:transitionEasing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Motion_animate_relativeTo com.example.calculator:animate_relativeTo}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Motion_drawPath com.example.calculator:drawPath}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Motion_motionPathRotate com.example.calculator:motionPathRotate}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Motion_motionStagger com.example.calculator:motionStagger}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Motion_pathMotionArc com.example.calculator:pathMotionArc}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Motion_transitionEasing com.example.calculator:transitionEasing}</code></td><td></td></tr>
      * </table>
      * @see #Motion_animate_relativeTo
      * @see #Motion_drawPath
@@ -17631,8 +17619,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #MotionHelper_onHide com.example.lenovo.calculator:onHide}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MotionHelper_onShow com.example.lenovo.calculator:onShow}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MotionHelper_onHide com.example.calculator:onHide}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MotionHelper_onShow com.example.calculator:onShow}</code></td><td></td></tr>
      * </table>
      * @see #MotionHelper_onHide
      * @see #MotionHelper_onShow
@@ -17641,23 +17629,23 @@ public final class R {
         0x7f020137, 0x7f02013a
       };
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#onHide}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#onHide}
      * attribute's value can be found in the {@link #MotionHelper} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.lenovo.calculator:onHide
+     * @attr name com.example.calculator:onHide
      */
     public static final int MotionHelper_onHide=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#onShow}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#onShow}
      * attribute's value can be found in the {@link #MotionHelper} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.lenovo.calculator:onShow
+     * @attr name com.example.calculator:onShow
      */
     public static final int MotionHelper_onShow=1;
     /**
@@ -17667,12 +17655,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #MotionLayout_applyMotionScene com.example.lenovo.calculator:applyMotionScene}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MotionLayout_currentState com.example.lenovo.calculator:currentState}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MotionLayout_layoutDescription com.example.lenovo.calculator:layoutDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MotionLayout_motionDebug com.example.lenovo.calculator:motionDebug}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MotionLayout_motionProgress com.example.lenovo.calculator:motionProgress}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MotionLayout_showPaths com.example.lenovo.calculator:showPaths}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MotionLayout_applyMotionScene com.example.calculator:applyMotionScene}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MotionLayout_currentState com.example.calculator:currentState}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MotionLayout_layoutDescription com.example.calculator:layoutDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MotionLayout_motionDebug com.example.calculator:motionDebug}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MotionLayout_motionProgress com.example.calculator:motionProgress}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MotionLayout_showPaths com.example.calculator:showPaths}</code></td><td></td></tr>
      * </table>
      * @see #MotionLayout_applyMotionScene
      * @see #MotionLayout_currentState
@@ -17686,17 +17674,17 @@ public final class R {
         0x7f02012a, 0x7f020169
       };
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#applyMotionScene}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#applyMotionScene}
      * attribute's value can be found in the {@link #MotionLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.lenovo.calculator:applyMotionScene
+     * @attr name com.example.calculator:applyMotionScene
      */
     public static final int MotionLayout_applyMotionScene=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#currentState}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#currentState}
      * attribute's value can be found in the {@link #MotionLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17704,11 +17692,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:currentState
+     * @attr name com.example.calculator:currentState
      */
     public static final int MotionLayout_currentState=1;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layoutDescription}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layoutDescription}
      * attribute's value can be found in the {@link #MotionLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17716,11 +17704,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:layoutDescription
+     * @attr name com.example.calculator:layoutDescription
      */
     public static final int MotionLayout_layoutDescription=2;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#motionDebug}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#motionDebug}
      * attribute's value can be found in the {@link #MotionLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -17735,26 +17723,26 @@ public final class R {
      * <tr><td>SHOW_PROGRESS</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:motionDebug
+     * @attr name com.example.calculator:motionDebug
      */
     public static final int MotionLayout_motionDebug=3;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#motionProgress}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#motionProgress}
      * attribute's value can be found in the {@link #MotionLayout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:motionProgress
+     * @attr name com.example.calculator:motionProgress
      */
     public static final int MotionLayout_motionProgress=4;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#showPaths}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#showPaths}
      * attribute's value can be found in the {@link #MotionLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.lenovo.calculator:showPaths
+     * @attr name com.example.calculator:showPaths
      */
     public static final int MotionLayout_showPaths=5;
     /**
@@ -17764,8 +17752,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #MotionScene_defaultDuration com.example.lenovo.calculator:defaultDuration}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MotionScene_layoutDuringTransition com.example.lenovo.calculator:layoutDuringTransition}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MotionScene_defaultDuration com.example.calculator:defaultDuration}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MotionScene_layoutDuringTransition com.example.calculator:layoutDuringTransition}</code></td><td></td></tr>
      * </table>
      * @see #MotionScene_defaultDuration
      * @see #MotionScene_layoutDuringTransition
@@ -17774,16 +17762,16 @@ public final class R {
         0x7f020080, 0x7f0200d0
       };
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#defaultDuration}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#defaultDuration}
      * attribute's value can be found in the {@link #MotionScene} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.example.lenovo.calculator:defaultDuration
+     * @attr name com.example.calculator:defaultDuration
      */
     public static final int MotionScene_defaultDuration=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layoutDuringTransition}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layoutDuringTransition}
      * attribute's value can be found in the {@link #MotionScene} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -17796,7 +17784,7 @@ public final class R {
      * <tr><td>ignoreRequest</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layoutDuringTransition
+     * @attr name com.example.calculator:layoutDuringTransition
      */
     public static final int MotionScene_layoutDuringTransition=1;
     /**
@@ -17806,9 +17794,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #MotionTelltales_telltales_tailColor com.example.lenovo.calculator:telltales_tailColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MotionTelltales_telltales_tailScale com.example.lenovo.calculator:telltales_tailScale}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MotionTelltales_telltales_velocityMode com.example.lenovo.calculator:telltales_velocityMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MotionTelltales_telltales_tailColor com.example.calculator:telltales_tailColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MotionTelltales_telltales_tailScale com.example.calculator:telltales_tailScale}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MotionTelltales_telltales_velocityMode com.example.calculator:telltales_velocityMode}</code></td><td></td></tr>
      * </table>
      * @see #MotionTelltales_telltales_tailColor
      * @see #MotionTelltales_telltales_tailScale
@@ -17818,27 +17806,27 @@ public final class R {
         0x7f020182, 0x7f020183, 0x7f020184
       };
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#telltales_tailColor}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#telltales_tailColor}
      * attribute's value can be found in the {@link #MotionTelltales} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:telltales_tailColor
+     * @attr name com.example.calculator:telltales_tailColor
      */
     public static final int MotionTelltales_telltales_tailColor=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#telltales_tailScale}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#telltales_tailScale}
      * attribute's value can be found in the {@link #MotionTelltales} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:telltales_tailScale
+     * @attr name com.example.calculator:telltales_tailScale
      */
     public static final int MotionTelltales_telltales_tailScale=1;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#telltales_velocityMode}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#telltales_velocityMode}
      * attribute's value can be found in the {@link #MotionTelltales} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -17853,11 +17841,11 @@ public final class R {
      * <tr><td>staticPostLayout</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:telltales_velocityMode
+     * @attr name com.example.calculator:telltales_velocityMode
      */
     public static final int MotionTelltales_telltales_velocityMode=2;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#animate_relativeTo}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#animate_relativeTo}
      * attribute's value can be found in the {@link #Motion} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17865,11 +17853,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:animate_relativeTo
+     * @attr name com.example.calculator:animate_relativeTo
      */
     public static final int Motion_animate_relativeTo=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#drawPath}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#drawPath}
      * attribute's value can be found in the {@link #Motion} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -17886,29 +17874,29 @@ public final class R {
      * <tr><td>rectangles</td><td>5</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:drawPath
+     * @attr name com.example.calculator:drawPath
      */
     public static final int Motion_drawPath=1;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#motionPathRotate}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#motionPathRotate}
      * attribute's value can be found in the {@link #Motion} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:motionPathRotate
+     * @attr name com.example.calculator:motionPathRotate
      */
     public static final int Motion_motionPathRotate=2;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#motionStagger}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#motionStagger}
      * attribute's value can be found in the {@link #Motion} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:motionStagger
+     * @attr name com.example.calculator:motionStagger
      */
     public static final int Motion_motionStagger=3;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#pathMotionArc}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#pathMotionArc}
      * attribute's value can be found in the {@link #Motion} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -17923,11 +17911,11 @@ public final class R {
      * <tr><td>startVertical</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:pathMotionArc
+     * @attr name com.example.calculator:pathMotionArc
      */
     public static final int Motion_pathMotionArc=4;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#transitionEasing}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#transitionEasing}
      * attribute's value can be found in the {@link #Motion} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -17944,7 +17932,7 @@ public final class R {
      * <tr><td>standard</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:transitionEasing
+     * @attr name com.example.calculator:transitionEasing
      */
     public static final int Motion_transitionEasing=5;
     /**
@@ -17954,8 +17942,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #OnClick_clickAction com.example.lenovo.calculator:clickAction}</code></td><td></td></tr>
-     * <tr><td><code>{@link #OnClick_targetId com.example.lenovo.calculator:targetId}</code></td><td></td></tr>
+     * <tr><td><code>{@link #OnClick_clickAction com.example.calculator:clickAction}</code></td><td></td></tr>
+     * <tr><td><code>{@link #OnClick_targetId com.example.calculator:targetId}</code></td><td></td></tr>
      * </table>
      * @see #OnClick_clickAction
      * @see #OnClick_targetId
@@ -17964,7 +17952,7 @@ public final class R {
         0x7f020052, 0x7f020181
       };
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#clickAction}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#clickAction}
      * attribute's value can be found in the {@link #OnClick} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -17980,11 +17968,11 @@ public final class R {
      * <tr><td>transitionToStart</td><td>10</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:clickAction
+     * @attr name com.example.calculator:clickAction
      */
     public static final int OnClick_clickAction=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#targetId}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#targetId}
      * attribute's value can be found in the {@link #OnClick} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17992,7 +17980,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:targetId
+     * @attr name com.example.calculator:targetId
      */
     public static final int OnClick_targetId=1;
     /**
@@ -18002,18 +17990,18 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #OnSwipe_dragDirection com.example.lenovo.calculator:dragDirection}</code></td><td></td></tr>
-     * <tr><td><code>{@link #OnSwipe_dragScale com.example.lenovo.calculator:dragScale}</code></td><td></td></tr>
-     * <tr><td><code>{@link #OnSwipe_dragThreshold com.example.lenovo.calculator:dragThreshold}</code></td><td></td></tr>
-     * <tr><td><code>{@link #OnSwipe_limitBoundsTo com.example.lenovo.calculator:limitBoundsTo}</code></td><td></td></tr>
-     * <tr><td><code>{@link #OnSwipe_maxAcceleration com.example.lenovo.calculator:maxAcceleration}</code></td><td></td></tr>
-     * <tr><td><code>{@link #OnSwipe_maxVelocity com.example.lenovo.calculator:maxVelocity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #OnSwipe_moveWhenScrollAtTop com.example.lenovo.calculator:moveWhenScrollAtTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #OnSwipe_nestedScrollFlags com.example.lenovo.calculator:nestedScrollFlags}</code></td><td></td></tr>
-     * <tr><td><code>{@link #OnSwipe_onTouchUp com.example.lenovo.calculator:onTouchUp}</code></td><td></td></tr>
-     * <tr><td><code>{@link #OnSwipe_touchAnchorId com.example.lenovo.calculator:touchAnchorId}</code></td><td></td></tr>
-     * <tr><td><code>{@link #OnSwipe_touchAnchorSide com.example.lenovo.calculator:touchAnchorSide}</code></td><td></td></tr>
-     * <tr><td><code>{@link #OnSwipe_touchRegionId com.example.lenovo.calculator:touchRegionId}</code></td><td></td></tr>
+     * <tr><td><code>{@link #OnSwipe_dragDirection com.example.calculator:dragDirection}</code></td><td></td></tr>
+     * <tr><td><code>{@link #OnSwipe_dragScale com.example.calculator:dragScale}</code></td><td></td></tr>
+     * <tr><td><code>{@link #OnSwipe_dragThreshold com.example.calculator:dragThreshold}</code></td><td></td></tr>
+     * <tr><td><code>{@link #OnSwipe_limitBoundsTo com.example.calculator:limitBoundsTo}</code></td><td></td></tr>
+     * <tr><td><code>{@link #OnSwipe_maxAcceleration com.example.calculator:maxAcceleration}</code></td><td></td></tr>
+     * <tr><td><code>{@link #OnSwipe_maxVelocity com.example.calculator:maxVelocity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #OnSwipe_moveWhenScrollAtTop com.example.calculator:moveWhenScrollAtTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #OnSwipe_nestedScrollFlags com.example.calculator:nestedScrollFlags}</code></td><td></td></tr>
+     * <tr><td><code>{@link #OnSwipe_onTouchUp com.example.calculator:onTouchUp}</code></td><td></td></tr>
+     * <tr><td><code>{@link #OnSwipe_touchAnchorId com.example.calculator:touchAnchorId}</code></td><td></td></tr>
+     * <tr><td><code>{@link #OnSwipe_touchAnchorSide com.example.calculator:touchAnchorSide}</code></td><td></td></tr>
+     * <tr><td><code>{@link #OnSwipe_touchRegionId com.example.calculator:touchRegionId}</code></td><td></td></tr>
      * </table>
      * @see #OnSwipe_dragDirection
      * @see #OnSwipe_dragScale
@@ -18034,7 +18022,7 @@ public final class R {
         0x7f02013b, 0x7f0201a9, 0x7f0201aa, 0x7f0201ab
       };
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#dragDirection}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#dragDirection}
      * attribute's value can be found in the {@link #OnSwipe} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -18051,29 +18039,29 @@ public final class R {
      * <tr><td>dragUp</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:dragDirection
+     * @attr name com.example.calculator:dragDirection
      */
     public static final int OnSwipe_dragDirection=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#dragScale}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#dragScale}
      * attribute's value can be found in the {@link #OnSwipe} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:dragScale
+     * @attr name com.example.calculator:dragScale
      */
     public static final int OnSwipe_dragScale=1;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#dragThreshold}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#dragThreshold}
      * attribute's value can be found in the {@link #OnSwipe} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:dragThreshold
+     * @attr name com.example.calculator:dragThreshold
      */
     public static final int OnSwipe_dragThreshold=2;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#limitBoundsTo}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#limitBoundsTo}
      * attribute's value can be found in the {@link #OnSwipe} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18081,39 +18069,39 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:limitBoundsTo
+     * @attr name com.example.calculator:limitBoundsTo
      */
     public static final int OnSwipe_limitBoundsTo=3;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#maxAcceleration}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#maxAcceleration}
      * attribute's value can be found in the {@link #OnSwipe} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:maxAcceleration
+     * @attr name com.example.calculator:maxAcceleration
      */
     public static final int OnSwipe_maxAcceleration=4;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#maxVelocity}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#maxVelocity}
      * attribute's value can be found in the {@link #OnSwipe} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:maxVelocity
+     * @attr name com.example.calculator:maxVelocity
      */
     public static final int OnSwipe_maxVelocity=5;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#moveWhenScrollAtTop}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#moveWhenScrollAtTop}
      * attribute's value can be found in the {@link #OnSwipe} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.lenovo.calculator:moveWhenScrollAtTop
+     * @attr name com.example.calculator:moveWhenScrollAtTop
      */
     public static final int OnSwipe_moveWhenScrollAtTop=6;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#nestedScrollFlags}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#nestedScrollFlags}
      * attribute's value can be found in the {@link #OnSwipe} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -18127,11 +18115,11 @@ public final class R {
      * <tr><td>none</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:nestedScrollFlags
+     * @attr name com.example.calculator:nestedScrollFlags
      */
     public static final int OnSwipe_nestedScrollFlags=7;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#onTouchUp}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#onTouchUp}
      * attribute's value can be found in the {@link #OnSwipe} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -18148,11 +18136,11 @@ public final class R {
      * <tr><td>stop</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:onTouchUp
+     * @attr name com.example.calculator:onTouchUp
      */
     public static final int OnSwipe_onTouchUp=8;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#touchAnchorId}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#touchAnchorId}
      * attribute's value can be found in the {@link #OnSwipe} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18160,11 +18148,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:touchAnchorId
+     * @attr name com.example.calculator:touchAnchorId
      */
     public static final int OnSwipe_touchAnchorId=9;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#touchAnchorSide}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#touchAnchorSide}
      * attribute's value can be found in the {@link #OnSwipe} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -18182,11 +18170,11 @@ public final class R {
      * <tr><td>top</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:touchAnchorSide
+     * @attr name com.example.calculator:touchAnchorSide
      */
     public static final int OnSwipe_touchAnchorSide=10;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#touchRegionId}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#touchRegionId}
      * attribute's value can be found in the {@link #OnSwipe} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18194,7 +18182,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:touchRegionId
+     * @attr name com.example.calculator:touchRegionId
      */
     public static final int OnSwipe_touchRegionId=11;
     /**
@@ -18206,7 +18194,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupAnimationStyle android:popupAnimationStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PopupWindow_overlapAnchor com.example.lenovo.calculator:overlapAnchor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PopupWindow_overlapAnchor com.example.calculator:overlapAnchor}</code></td><td></td></tr>
      * </table>
      * @see #PopupWindow_android_popupBackground
      * @see #PopupWindow_android_popupAnimationStyle
@@ -18222,7 +18210,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.example.lenovo.calculator:state_above_anchor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.example.calculator:state_above_anchor}</code></td><td></td></tr>
      * </table>
      * @see #PopupWindowBackgroundState_state_above_anchor
      */
@@ -18230,13 +18218,13 @@ public final class R {
         0x7f020174
       };
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#state_above_anchor}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#state_above_anchor}
      * attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.lenovo.calculator:state_above_anchor
+     * @attr name com.example.calculator:state_above_anchor
      */
     public static final int PopupWindowBackgroundState_state_above_anchor=0;
     /**
@@ -18267,13 +18255,13 @@ public final class R {
      */
     public static final int PopupWindow_android_popupBackground=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#overlapAnchor}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#overlapAnchor}
      * attribute's value can be found in the {@link #PopupWindow} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.lenovo.calculator:overlapAnchor
+     * @attr name com.example.calculator:overlapAnchor
      */
     public static final int PopupWindow_overlapAnchor=2;
     /**
@@ -18285,9 +18273,9 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #PropertySet_android_visibility android:visibility}</code></td><td></td></tr>
      * <tr><td><code>{@link #PropertySet_android_alpha android:alpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PropertySet_layout_constraintTag com.example.lenovo.calculator:layout_constraintTag}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PropertySet_motionProgress com.example.lenovo.calculator:motionProgress}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PropertySet_visibilityMode com.example.lenovo.calculator:visibilityMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PropertySet_layout_constraintTag com.example.calculator:layout_constraintTag}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PropertySet_motionProgress com.example.calculator:motionProgress}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PropertySet_visibilityMode com.example.calculator:visibilityMode}</code></td><td></td></tr>
      * </table>
      * @see #PropertySet_android_visibility
      * @see #PropertySet_android_alpha
@@ -18327,26 +18315,26 @@ public final class R {
      */
     public static final int PropertySet_android_visibility=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout_constraintTag}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout_constraintTag}
      * attribute's value can be found in the {@link #PropertySet} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.example.lenovo.calculator:layout_constraintTag
+     * @attr name com.example.calculator:layout_constraintTag
      */
     public static final int PropertySet_layout_constraintTag=2;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#motionProgress}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#motionProgress}
      * attribute's value can be found in the {@link #PropertySet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:motionProgress
+     * @attr name com.example.calculator:motionProgress
      */
     public static final int PropertySet_motionProgress=3;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#visibilityMode}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#visibilityMode}
      * attribute's value can be found in the {@link #PropertySet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -18359,7 +18347,7 @@ public final class R {
      * <tr><td>normal</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:visibilityMode
+     * @attr name com.example.calculator:visibilityMode
      */
     public static final int PropertySet_visibilityMode=4;
     /**
@@ -18369,8 +18357,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.example.lenovo.calculator:paddingBottomNoButtons}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.example.lenovo.calculator:paddingTopNoTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.example.calculator:paddingBottomNoButtons}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.example.calculator:paddingTopNoTitle}</code></td><td></td></tr>
      * </table>
      * @see #RecycleListView_paddingBottomNoButtons
      * @see #RecycleListView_paddingTopNoTitle
@@ -18379,7 +18367,7 @@ public final class R {
         0x7f02013e, 0x7f020141
       };
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#paddingBottomNoButtons}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#paddingBottomNoButtons}
      * attribute's value can be found in the {@link #RecycleListView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18388,11 +18376,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:paddingBottomNoButtons
+     * @attr name com.example.calculator:paddingBottomNoButtons
      */
     public static final int RecycleListView_paddingBottomNoButtons=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#paddingTopNoTitle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#paddingTopNoTitle}
      * attribute's value can be found in the {@link #RecycleListView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18401,7 +18389,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:paddingTopNoTitle
+     * @attr name com.example.calculator:paddingTopNoTitle
      */
     public static final int RecycleListView_paddingTopNoTitle=1;
     /**
@@ -18415,19 +18403,19 @@ public final class R {
      * <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_closeIcon com.example.lenovo.calculator:closeIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_commitIcon com.example.lenovo.calculator:commitIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_defaultQueryHint com.example.lenovo.calculator:defaultQueryHint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_goIcon com.example.lenovo.calculator:goIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_iconifiedByDefault com.example.lenovo.calculator:iconifiedByDefault}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_layout com.example.lenovo.calculator:layout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_queryBackground com.example.lenovo.calculator:queryBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_queryHint com.example.lenovo.calculator:queryHint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_searchHintIcon com.example.lenovo.calculator:searchHintIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_searchIcon com.example.lenovo.calculator:searchIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_submitBackground com.example.lenovo.calculator:submitBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_suggestionRowLayout com.example.lenovo.calculator:suggestionRowLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_voiceIcon com.example.lenovo.calculator:voiceIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_closeIcon com.example.calculator:closeIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_commitIcon com.example.calculator:commitIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_defaultQueryHint com.example.calculator:defaultQueryHint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_goIcon com.example.calculator:goIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_iconifiedByDefault com.example.calculator:iconifiedByDefault}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_layout com.example.calculator:layout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_queryBackground com.example.calculator:queryBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_queryHint com.example.calculator:queryHint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_searchHintIcon com.example.calculator:searchHintIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_searchIcon com.example.calculator:searchIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_submitBackground com.example.calculator:submitBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_suggestionRowLayout com.example.calculator:suggestionRowLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_voiceIcon com.example.calculator:voiceIcon}</code></td><td></td></tr>
      * </table>
      * @see #SearchView_android_focusable
      * @see #SearchView_android_maxWidth
@@ -18565,7 +18553,7 @@ public final class R {
      */
     public static final int SearchView_android_maxWidth=1;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#closeIcon}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#closeIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18573,11 +18561,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:closeIcon
+     * @attr name com.example.calculator:closeIcon
      */
     public static final int SearchView_closeIcon=4;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#commitIcon}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#commitIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18585,21 +18573,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:commitIcon
+     * @attr name com.example.calculator:commitIcon
      */
     public static final int SearchView_commitIcon=5;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#defaultQueryHint}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#defaultQueryHint}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.example.lenovo.calculator:defaultQueryHint
+     * @attr name com.example.calculator:defaultQueryHint
      */
     public static final int SearchView_defaultQueryHint=6;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#goIcon}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#goIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18607,21 +18595,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:goIcon
+     * @attr name com.example.calculator:goIcon
      */
     public static final int SearchView_goIcon=7;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#iconifiedByDefault}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#iconifiedByDefault}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.lenovo.calculator:iconifiedByDefault
+     * @attr name com.example.calculator:iconifiedByDefault
      */
     public static final int SearchView_iconifiedByDefault=8;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layout}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layout}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18629,11 +18617,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:layout
+     * @attr name com.example.calculator:layout
      */
     public static final int SearchView_layout=9;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#queryBackground}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#queryBackground}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18641,21 +18629,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:queryBackground
+     * @attr name com.example.calculator:queryBackground
      */
     public static final int SearchView_queryBackground=10;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#queryHint}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#queryHint}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.example.lenovo.calculator:queryHint
+     * @attr name com.example.calculator:queryHint
      */
     public static final int SearchView_queryHint=11;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#searchHintIcon}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#searchHintIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18663,11 +18651,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:searchHintIcon
+     * @attr name com.example.calculator:searchHintIcon
      */
     public static final int SearchView_searchHintIcon=12;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#searchIcon}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#searchIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18675,11 +18663,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:searchIcon
+     * @attr name com.example.calculator:searchIcon
      */
     public static final int SearchView_searchIcon=13;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#submitBackground}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#submitBackground}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18687,11 +18675,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:submitBackground
+     * @attr name com.example.calculator:submitBackground
      */
     public static final int SearchView_submitBackground=14;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#suggestionRowLayout}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#suggestionRowLayout}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18699,11 +18687,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:suggestionRowLayout
+     * @attr name com.example.calculator:suggestionRowLayout
      */
     public static final int SearchView_suggestionRowLayout=15;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#voiceIcon}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#voiceIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18711,7 +18699,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:voiceIcon
+     * @attr name com.example.calculator:voiceIcon
      */
     public static final int SearchView_voiceIcon=16;
     /**
@@ -18725,7 +18713,7 @@ public final class R {
      * <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_dropDownWidth android:dropDownWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Spinner_popupTheme com.example.lenovo.calculator:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Spinner_popupTheme com.example.calculator:popupTheme}</code></td><td></td></tr>
      * </table>
      * @see #Spinner_android_entries
      * @see #Spinner_android_popupBackground
@@ -18800,7 +18788,7 @@ public final class R {
      */
     public static final int Spinner_android_prompt=2;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#popupTheme}
      * attribute's value can be found in the {@link #Spinner} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18808,7 +18796,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:popupTheme
+     * @attr name com.example.calculator:popupTheme
      */
     public static final int Spinner_popupTheme=4;
     /**
@@ -18819,7 +18807,7 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #State_android_id android:id}</code></td><td></td></tr>
-     * <tr><td><code>{@link #State_constraints com.example.lenovo.calculator:constraints}</code></td><td></td></tr>
+     * <tr><td><code>{@link #State_constraints com.example.calculator:constraints}</code></td><td></td></tr>
      * </table>
      * @see #State_android_id
      * @see #State_constraints
@@ -18943,7 +18931,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #StateSet_defaultState com.example.lenovo.calculator:defaultState}</code></td><td></td></tr>
+     * <tr><td><code>{@link #StateSet_defaultState com.example.calculator:defaultState}</code></td><td></td></tr>
      * </table>
      * @see #StateSet_defaultState
      */
@@ -18951,7 +18939,7 @@ public final class R {
         0x7f020082
       };
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#defaultState}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#defaultState}
      * attribute's value can be found in the {@link #StateSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18959,7 +18947,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:defaultState
+     * @attr name com.example.calculator:defaultState
      */
     public static final int StateSet_defaultState=0;
     /**
@@ -18975,7 +18963,7 @@ public final class R {
      */
     public static final int State_android_id=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#constraints}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#constraints}
      * attribute's value can be found in the {@link #State} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18983,7 +18971,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:constraints
+     * @attr name com.example.calculator:constraints
      */
     public static final int State_constraints=1;
     /**
@@ -18996,17 +18984,17 @@ public final class R {
      * <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_showText com.example.lenovo.calculator:showText}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_splitTrack com.example.lenovo.calculator:splitTrack}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchMinWidth com.example.lenovo.calculator:switchMinWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchPadding com.example.lenovo.calculator:switchPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.example.lenovo.calculator:switchTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.example.lenovo.calculator:thumbTextPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTint com.example.lenovo.calculator:thumbTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTintMode com.example.lenovo.calculator:thumbTintMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_track com.example.lenovo.calculator:track}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_trackTint com.example.lenovo.calculator:trackTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_trackTintMode com.example.lenovo.calculator:trackTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_showText com.example.calculator:showText}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_splitTrack com.example.calculator:splitTrack}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchMinWidth com.example.calculator:switchMinWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchPadding com.example.calculator:switchPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.example.calculator:switchTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.example.calculator:thumbTextPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTint com.example.calculator:thumbTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTintMode com.example.calculator:thumbTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_track com.example.calculator:track}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_trackTint com.example.calculator:trackTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_trackTintMode com.example.calculator:trackTintMode}</code></td><td></td></tr>
      * </table>
      * @see #SwitchCompat_android_textOn
      * @see #SwitchCompat_android_textOff
@@ -19062,27 +19050,27 @@ public final class R {
      */
     public static final int SwitchCompat_android_thumb=2;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#showText}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#showText}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.lenovo.calculator:showText
+     * @attr name com.example.calculator:showText
      */
     public static final int SwitchCompat_showText=3;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#splitTrack}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#splitTrack}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.lenovo.calculator:splitTrack
+     * @attr name com.example.calculator:splitTrack
      */
     public static final int SwitchCompat_splitTrack=4;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#switchMinWidth}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#switchMinWidth}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -19091,11 +19079,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:switchMinWidth
+     * @attr name com.example.calculator:switchMinWidth
      */
     public static final int SwitchCompat_switchMinWidth=5;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#switchPadding}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#switchPadding}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -19104,11 +19092,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:switchPadding
+     * @attr name com.example.calculator:switchPadding
      */
     public static final int SwitchCompat_switchPadding=6;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#switchTextAppearance}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#switchTextAppearance}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19116,11 +19104,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:switchTextAppearance
+     * @attr name com.example.calculator:switchTextAppearance
      */
     public static final int SwitchCompat_switchTextAppearance=7;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#thumbTextPadding}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#thumbTextPadding}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -19129,22 +19117,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:thumbTextPadding
+     * @attr name com.example.calculator:thumbTextPadding
      */
     public static final int SwitchCompat_thumbTextPadding=8;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#thumbTint}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#thumbTint}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:thumbTint
+     * @attr name com.example.calculator:thumbTint
      */
     public static final int SwitchCompat_thumbTint=9;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#thumbTintMode}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#thumbTintMode}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -19161,11 +19149,11 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:thumbTintMode
+     * @attr name com.example.calculator:thumbTintMode
      */
     public static final int SwitchCompat_thumbTintMode=10;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#track}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#track}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19173,22 +19161,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:track
+     * @attr name com.example.calculator:track
      */
     public static final int SwitchCompat_track=11;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#trackTint}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#trackTint}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:trackTint
+     * @attr name com.example.calculator:trackTint
      */
     public static final int SwitchCompat_trackTint=12;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#trackTintMode}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#trackTintMode}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -19205,7 +19193,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:trackTintMode
+     * @attr name com.example.calculator:trackTintMode
      */
     public static final int SwitchCompat_trackTintMode=13;
     /**
@@ -19226,8 +19214,8 @@ public final class R {
      * <tr><td><code>{@link #TextAppearance_android_shadowDy android:shadowDy}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_shadowRadius android:shadowRadius}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_fontFamily android:fontFamily}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextAppearance_fontFamily com.example.lenovo.calculator:fontFamily}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextAppearance_textAllCaps com.example.lenovo.calculator:textAllCaps}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextAppearance_fontFamily com.example.calculator:fontFamily}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextAppearance_textAllCaps com.example.calculator:textAllCaps}</code></td><td></td></tr>
      * </table>
      * @see #TextAppearance_android_textSize
      * @see #TextAppearance_android_typeface
@@ -19393,17 +19381,17 @@ public final class R {
      */
     public static final int TextAppearance_android_typeface=1;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#fontFamily}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#fontFamily}
      * attribute's value can be found in the {@link #TextAppearance} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.example.lenovo.calculator:fontFamily
+     * @attr name com.example.calculator:fontFamily
      */
     public static final int TextAppearance_fontFamily=11;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#textAllCaps}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#textAllCaps}
      * attribute's value can be found in the {@link #TextAppearance} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19413,7 +19401,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.lenovo.calculator:textAllCaps
+     * @attr name com.example.calculator:textAllCaps
      */
     public static final int TextAppearance_textAllCaps=12;
     /**
@@ -19425,33 +19413,33 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
      * <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_buttonGravity com.example.lenovo.calculator:buttonGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseContentDescription com.example.lenovo.calculator:collapseContentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseIcon com.example.lenovo.calculator:collapseIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEnd com.example.lenovo.calculator:contentInsetEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.example.lenovo.calculator:contentInsetEndWithActions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetLeft com.example.lenovo.calculator:contentInsetLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetRight com.example.lenovo.calculator:contentInsetRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStart com.example.lenovo.calculator:contentInsetStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.example.lenovo.calculator:contentInsetStartWithNavigation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_logo com.example.lenovo.calculator:logo}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_logoDescription com.example.lenovo.calculator:logoDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_maxButtonHeight com.example.lenovo.calculator:maxButtonHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationContentDescription com.example.lenovo.calculator:navigationContentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationIcon com.example.lenovo.calculator:navigationIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_popupTheme com.example.lenovo.calculator:popupTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitle com.example.lenovo.calculator:subtitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.example.lenovo.calculator:subtitleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextColor com.example.lenovo.calculator:subtitleTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_title com.example.lenovo.calculator:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMargin com.example.lenovo.calculator:titleMargin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginBottom com.example.lenovo.calculator:titleMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginEnd com.example.lenovo.calculator:titleMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginStart com.example.lenovo.calculator:titleMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginTop com.example.lenovo.calculator:titleMarginTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMargins com.example.lenovo.calculator:titleMargins}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextAppearance com.example.lenovo.calculator:titleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextColor com.example.lenovo.calculator:titleTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_buttonGravity com.example.calculator:buttonGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseContentDescription com.example.calculator:collapseContentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseIcon com.example.calculator:collapseIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEnd com.example.calculator:contentInsetEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.example.calculator:contentInsetEndWithActions}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetLeft com.example.calculator:contentInsetLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetRight com.example.calculator:contentInsetRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStart com.example.calculator:contentInsetStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.example.calculator:contentInsetStartWithNavigation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_logo com.example.calculator:logo}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_logoDescription com.example.calculator:logoDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_maxButtonHeight com.example.calculator:maxButtonHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_navigationContentDescription com.example.calculator:navigationContentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_navigationIcon com.example.calculator:navigationIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_popupTheme com.example.calculator:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitle com.example.calculator:subtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.example.calculator:subtitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextColor com.example.calculator:subtitleTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_title com.example.calculator:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMargin com.example.calculator:titleMargin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginBottom com.example.calculator:titleMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginEnd com.example.calculator:titleMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginStart com.example.calculator:titleMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginTop com.example.calculator:titleMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMargins com.example.calculator:titleMargins}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextAppearance com.example.calculator:titleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextColor com.example.calculator:titleTextColor}</code></td><td></td></tr>
      * </table>
      * @see #Toolbar_android_gravity
      * @see #Toolbar_android_minHeight
@@ -19536,7 +19524,7 @@ public final class R {
      */
     public static final int Toolbar_android_minHeight=1;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#buttonGravity}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#buttonGravity}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -19549,21 +19537,21 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:buttonGravity
+     * @attr name com.example.calculator:buttonGravity
      */
     public static final int Toolbar_buttonGravity=2;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#collapseContentDescription}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#collapseContentDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.example.lenovo.calculator:collapseContentDescription
+     * @attr name com.example.calculator:collapseContentDescription
      */
     public static final int Toolbar_collapseContentDescription=3;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#collapseIcon}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#collapseIcon}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19571,11 +19559,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:collapseIcon
+     * @attr name com.example.calculator:collapseIcon
      */
     public static final int Toolbar_collapseIcon=4;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#contentInsetEnd}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#contentInsetEnd}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -19584,11 +19572,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:contentInsetEnd
+     * @attr name com.example.calculator:contentInsetEnd
      */
     public static final int Toolbar_contentInsetEnd=5;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#contentInsetEndWithActions}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#contentInsetEndWithActions}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -19597,11 +19585,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:contentInsetEndWithActions
+     * @attr name com.example.calculator:contentInsetEndWithActions
      */
     public static final int Toolbar_contentInsetEndWithActions=6;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#contentInsetLeft}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#contentInsetLeft}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -19610,11 +19598,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:contentInsetLeft
+     * @attr name com.example.calculator:contentInsetLeft
      */
     public static final int Toolbar_contentInsetLeft=7;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#contentInsetRight}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#contentInsetRight}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -19623,11 +19611,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:contentInsetRight
+     * @attr name com.example.calculator:contentInsetRight
      */
     public static final int Toolbar_contentInsetRight=8;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#contentInsetStart}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#contentInsetStart}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -19636,11 +19624,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:contentInsetStart
+     * @attr name com.example.calculator:contentInsetStart
      */
     public static final int Toolbar_contentInsetStart=9;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#contentInsetStartWithNavigation}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#contentInsetStartWithNavigation}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -19649,11 +19637,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:contentInsetStartWithNavigation
+     * @attr name com.example.calculator:contentInsetStartWithNavigation
      */
     public static final int Toolbar_contentInsetStartWithNavigation=10;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#logo}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#logo}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19661,21 +19649,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:logo
+     * @attr name com.example.calculator:logo
      */
     public static final int Toolbar_logo=11;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#logoDescription}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#logoDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.example.lenovo.calculator:logoDescription
+     * @attr name com.example.calculator:logoDescription
      */
     public static final int Toolbar_logoDescription=12;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#maxButtonHeight}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#maxButtonHeight}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -19684,21 +19672,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:maxButtonHeight
+     * @attr name com.example.calculator:maxButtonHeight
      */
     public static final int Toolbar_maxButtonHeight=13;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#navigationContentDescription}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#navigationContentDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.example.lenovo.calculator:navigationContentDescription
+     * @attr name com.example.calculator:navigationContentDescription
      */
     public static final int Toolbar_navigationContentDescription=14;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#navigationIcon}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#navigationIcon}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19706,11 +19694,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:navigationIcon
+     * @attr name com.example.calculator:navigationIcon
      */
     public static final int Toolbar_navigationIcon=15;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#popupTheme}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19718,21 +19706,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:popupTheme
+     * @attr name com.example.calculator:popupTheme
      */
     public static final int Toolbar_popupTheme=16;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#subtitle}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#subtitle}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.example.lenovo.calculator:subtitle
+     * @attr name com.example.calculator:subtitle
      */
     public static final int Toolbar_subtitle=17;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#subtitleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#subtitleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19740,32 +19728,32 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:subtitleTextAppearance
+     * @attr name com.example.calculator:subtitleTextAppearance
      */
     public static final int Toolbar_subtitleTextAppearance=18;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#subtitleTextColor}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#subtitleTextColor}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:subtitleTextColor
+     * @attr name com.example.calculator:subtitleTextColor
      */
     public static final int Toolbar_subtitleTextColor=19;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#title}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#title}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.example.lenovo.calculator:title
+     * @attr name com.example.calculator:title
      */
     public static final int Toolbar_title=20;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#titleMargin}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#titleMargin}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -19774,11 +19762,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:titleMargin
+     * @attr name com.example.calculator:titleMargin
      */
     public static final int Toolbar_titleMargin=21;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#titleMarginBottom}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#titleMarginBottom}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -19787,11 +19775,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:titleMarginBottom
+     * @attr name com.example.calculator:titleMarginBottom
      */
     public static final int Toolbar_titleMarginBottom=22;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#titleMarginEnd}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#titleMarginEnd}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -19800,11 +19788,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:titleMarginEnd
+     * @attr name com.example.calculator:titleMarginEnd
      */
     public static final int Toolbar_titleMarginEnd=23;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#titleMarginStart}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#titleMarginStart}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -19813,11 +19801,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:titleMarginStart
+     * @attr name com.example.calculator:titleMarginStart
      */
     public static final int Toolbar_titleMarginStart=24;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#titleMarginTop}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#titleMarginTop}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -19826,11 +19814,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:titleMarginTop
+     * @attr name com.example.calculator:titleMarginTop
      */
     public static final int Toolbar_titleMarginTop=25;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#titleMargins}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#titleMargins}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -19839,11 +19827,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:titleMargins
+     * @attr name com.example.calculator:titleMargins
      */
     public static final int Toolbar_titleMargins=26;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#titleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#titleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19851,18 +19839,18 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:titleTextAppearance
+     * @attr name com.example.calculator:titleTextAppearance
      */
     public static final int Toolbar_titleTextAppearance=27;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#titleTextColor}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#titleTextColor}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:titleTextColor
+     * @attr name com.example.calculator:titleTextColor
      */
     public static final int Toolbar_titleTextColor=28;
     /**
@@ -20032,16 +20020,16 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #Transition_android_id android:id}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Transition_autoTransition com.example.lenovo.calculator:autoTransition}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Transition_constraintSetEnd com.example.lenovo.calculator:constraintSetEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Transition_constraintSetStart com.example.lenovo.calculator:constraintSetStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Transition_duration com.example.lenovo.calculator:duration}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Transition_layoutDuringTransition com.example.lenovo.calculator:layoutDuringTransition}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Transition_motionInterpolator com.example.lenovo.calculator:motionInterpolator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Transition_pathMotionArc com.example.lenovo.calculator:pathMotionArc}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Transition_staggered com.example.lenovo.calculator:staggered}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Transition_transitionDisable com.example.lenovo.calculator:transitionDisable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Transition_transitionFlags com.example.lenovo.calculator:transitionFlags}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Transition_autoTransition com.example.calculator:autoTransition}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Transition_constraintSetEnd com.example.calculator:constraintSetEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Transition_constraintSetStart com.example.calculator:constraintSetStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Transition_duration com.example.calculator:duration}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Transition_layoutDuringTransition com.example.calculator:layoutDuringTransition}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Transition_motionInterpolator com.example.calculator:motionInterpolator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Transition_pathMotionArc com.example.calculator:pathMotionArc}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Transition_staggered com.example.calculator:staggered}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Transition_transitionDisable com.example.calculator:transitionDisable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Transition_transitionFlags com.example.calculator:transitionFlags}</code></td><td></td></tr>
      * </table>
      * @see #Transition_android_id
      * @see #Transition_autoTransition
@@ -20073,7 +20061,7 @@ public final class R {
      */
     public static final int Transition_android_id=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#autoTransition}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#autoTransition}
      * attribute's value can be found in the {@link #Transition} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -20089,11 +20077,11 @@ public final class R {
      * <tr><td>none</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:autoTransition
+     * @attr name com.example.calculator:autoTransition
      */
     public static final int Transition_autoTransition=1;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#constraintSetEnd}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#constraintSetEnd}
      * attribute's value can be found in the {@link #Transition} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20101,11 +20089,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:constraintSetEnd
+     * @attr name com.example.calculator:constraintSetEnd
      */
     public static final int Transition_constraintSetEnd=2;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#constraintSetStart}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#constraintSetStart}
      * attribute's value can be found in the {@link #Transition} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20113,20 +20101,20 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:constraintSetStart
+     * @attr name com.example.calculator:constraintSetStart
      */
     public static final int Transition_constraintSetStart=3;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#duration}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#duration}
      * attribute's value can be found in the {@link #Transition} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.example.lenovo.calculator:duration
+     * @attr name com.example.calculator:duration
      */
     public static final int Transition_duration=4;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#layoutDuringTransition}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#layoutDuringTransition}
      * attribute's value can be found in the {@link #Transition} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -20139,11 +20127,11 @@ public final class R {
      * <tr><td>ignoreRequest</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:layoutDuringTransition
+     * @attr name com.example.calculator:layoutDuringTransition
      */
     public static final int Transition_layoutDuringTransition=5;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#motionInterpolator}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#motionInterpolator}
      * attribute's value can be found in the {@link #Transition} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20165,11 +20153,11 @@ public final class R {
      * <tr><td>linear</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:motionInterpolator
+     * @attr name com.example.calculator:motionInterpolator
      */
     public static final int Transition_motionInterpolator=6;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#pathMotionArc}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#pathMotionArc}
      * attribute's value can be found in the {@link #Transition} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -20184,30 +20172,30 @@ public final class R {
      * <tr><td>startVertical</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:pathMotionArc
+     * @attr name com.example.calculator:pathMotionArc
      */
     public static final int Transition_pathMotionArc=7;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#staggered}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#staggered}
      * attribute's value can be found in the {@link #Transition} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.lenovo.calculator:staggered
+     * @attr name com.example.calculator:staggered
      */
     public static final int Transition_staggered=8;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#transitionDisable}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#transitionDisable}
      * attribute's value can be found in the {@link #Transition} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.lenovo.calculator:transitionDisable
+     * @attr name com.example.calculator:transitionDisable
      */
     public static final int Transition_transitionDisable=9;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#transitionFlags}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#transitionFlags}
      * attribute's value can be found in the {@link #Transition} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -20220,7 +20208,7 @@ public final class R {
      * <tr><td>none</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:transitionFlags
+     * @attr name com.example.calculator:transitionFlags
      */
     public static final int Transition_transitionFlags=10;
     /**
@@ -20230,11 +20218,11 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #Variant_constraints com.example.lenovo.calculator:constraints}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Variant_region_heightLessThan com.example.lenovo.calculator:region_heightLessThan}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Variant_region_heightMoreThan com.example.lenovo.calculator:region_heightMoreThan}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Variant_region_widthLessThan com.example.lenovo.calculator:region_widthLessThan}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Variant_region_widthMoreThan com.example.lenovo.calculator:region_widthMoreThan}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Variant_constraints com.example.calculator:constraints}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Variant_region_heightLessThan com.example.calculator:region_heightLessThan}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Variant_region_heightMoreThan com.example.calculator:region_heightMoreThan}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Variant_region_widthLessThan com.example.calculator:region_widthLessThan}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Variant_region_widthMoreThan com.example.calculator:region_widthMoreThan}</code></td><td></td></tr>
      * </table>
      * @see #Variant_constraints
      * @see #Variant_region_heightLessThan
@@ -20247,7 +20235,7 @@ public final class R {
         0x7f02015d
       };
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#constraints}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#constraints}
      * attribute's value can be found in the {@link #Variant} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20255,11 +20243,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:constraints
+     * @attr name com.example.calculator:constraints
      */
     public static final int Variant_constraints=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#region_heightLessThan}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#region_heightLessThan}
      * attribute's value can be found in the {@link #Variant} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -20268,11 +20256,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:region_heightLessThan
+     * @attr name com.example.calculator:region_heightLessThan
      */
     public static final int Variant_region_heightLessThan=1;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#region_heightMoreThan}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#region_heightMoreThan}
      * attribute's value can be found in the {@link #Variant} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -20281,11 +20269,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:region_heightMoreThan
+     * @attr name com.example.calculator:region_heightMoreThan
      */
     public static final int Variant_region_heightMoreThan=2;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#region_widthLessThan}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#region_widthLessThan}
      * attribute's value can be found in the {@link #Variant} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -20294,11 +20282,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:region_widthLessThan
+     * @attr name com.example.calculator:region_widthLessThan
      */
     public static final int Variant_region_widthLessThan=3;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#region_widthMoreThan}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#region_widthMoreThan}
      * attribute's value can be found in the {@link #Variant} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -20307,7 +20295,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:region_widthMoreThan
+     * @attr name com.example.calculator:region_widthMoreThan
      */
     public static final int Variant_region_widthMoreThan=4;
     /**
@@ -20319,9 +20307,9 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
      * <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_paddingEnd com.example.lenovo.calculator:paddingEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_paddingStart com.example.lenovo.calculator:paddingStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_theme com.example.lenovo.calculator:theme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #View_paddingEnd com.example.calculator:paddingEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #View_paddingStart com.example.calculator:paddingStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #View_theme com.example.calculator:theme}</code></td><td></td></tr>
      * </table>
      * @see #View_android_theme
      * @see #View_android_focusable
@@ -20341,8 +20329,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.example.lenovo.calculator:backgroundTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.example.lenovo.calculator:backgroundTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.example.calculator:backgroundTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.example.calculator:backgroundTintMode}</code></td><td></td></tr>
      * </table>
      * @see #ViewBackgroundHelper_android_background
      * @see #ViewBackgroundHelper_backgroundTint
@@ -20367,18 +20355,18 @@ public final class R {
      */
     public static final int ViewBackgroundHelper_android_background=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#backgroundTint}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#backgroundTint}
      * attribute's value can be found in the {@link #ViewBackgroundHelper} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:backgroundTint
+     * @attr name com.example.calculator:backgroundTint
      */
     public static final int ViewBackgroundHelper_backgroundTint=1;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#backgroundTintMode}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#backgroundTintMode}
      * attribute's value can be found in the {@link #ViewBackgroundHelper} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -20395,7 +20383,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.lenovo.calculator:backgroundTintMode
+     * @attr name com.example.calculator:backgroundTintMode
      */
     public static final int ViewBackgroundHelper_backgroundTintMode=2;
     /**
@@ -20483,7 +20471,7 @@ public final class R {
      */
     public static final int View_android_theme=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#paddingEnd}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#paddingEnd}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -20492,11 +20480,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:paddingEnd
+     * @attr name com.example.calculator:paddingEnd
      */
     public static final int View_paddingEnd=2;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#paddingStart}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#paddingStart}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -20505,11 +20493,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.lenovo.calculator:paddingStart
+     * @attr name com.example.calculator:paddingStart
      */
     public static final int View_paddingStart=3;
     /**
-     * <p>This symbol is the offset where the {@link com.example.lenovo.calculator.R.attr#theme}
+     * <p>This symbol is the offset where the {@link com.example.calculator.R.attr#theme}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20517,7 +20505,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.lenovo.calculator:theme
+     * @attr name com.example.calculator:theme
      */
     public static final int View_theme=4;
   }
